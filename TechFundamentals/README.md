@@ -7,12 +7,14 @@ The course covers source control systems, **Git** and **GitHub** for team collab
 
 
 ## Exercises and labs
-1a. <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Homeworks/02.%20DataTypesVariables_Lab" > Data Types Variables - Lab</a> 
-1b. <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Homeworks/02.%20DataTypesVariables_Exercise" > Data Types Variables - Exercise </a> 
-2. <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Homeworks/03.%20Arrays_Lab" > Arrays - Lab</a> 
-2. <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Homeworks/03.%20Arrays_Exercise" > Arrays - Exercise</a> 
-5. <a href="https://github.com/stefkavasileva/SoftUni-Software-Engineering/tree/master/Programmin%20Fundamentals/Homeworks%20and%20Labs/MethodsAndDebugging" > Methods. Debugging and Troubleshooting Code </a> 
-6. <a href="https://github.com/stefkavasileva/SoftUni-Software-Engineering/tree/master/Programmin%20Fundamentals/Homeworks%20and%20Labs/MethodsAndDebuggingExcercises" > Methods and Debugging- Exercises</a>
+1. <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Homeworks/02.%20DataTypesVariables_Lab" > Data Types Variables - Lab</a> 
+2. <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Homeworks/02.%20DataTypesVariables_Exercise" > Data Types Variables - Exercise </a> 
+3. <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Homeworks/03.%20Arrays_Lab" > Arrays - Lab</a> 
+4. <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Homeworks/03.%20Arrays_Exercise" > Arrays - Exercise</a> 
+5. <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Homeworks/04.%20Methods_Lab" > 
+Methods - Lab</a> 
+6. <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Homeworks/04.%20Methods_Exercise" > 
+Methods - Exercises</a>
 7. <a href="https://github.com/stefkavasileva/SoftUni-Software-Engineering/tree/master/Programmin%20Fundamentals/Homeworks%20and%20Labs/Arrays"> Arrays - Lab </a>
 8. <a href="https://github.com/stefkavasileva/SoftUni-Software-Engineering/tree/master/Programmin%20Fundamentals/Homeworks%20and%20Labs/Arrays-Exercises"> Arrays - Exercises </a>
 9. <a href="https://github.com/stefkavasileva/SoftUni-Software-Engineering/tree/master/Programmin%20Fundamentals/Homeworks%20and%20Labs/Lists"> Lists - Lab </a>
