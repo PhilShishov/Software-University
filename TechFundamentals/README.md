@@ -7,8 +7,8 @@ The course covers source control systems, **Git** and **GitHub** for team collab
 
 
 ## Exercises and labs
-1. <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Homeworks/02.%20DataTypesVariables_Lab" > Data Types Variables - Lab</a> 
-1. <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Homeworks/02.%20DataTypesVariables_Exercise" > Data Types Variables - Exercise </a> 
+1.L <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Homeworks/02.%20DataTypesVariables_Lab" > Data Types Variables - Lab</a> 
+1.E <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Homeworks/02.%20DataTypesVariables_Exercise" > Data Types Variables - Exercise </a> 
 2. <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Homeworks/03.%20Arrays_Lab" > Arrays - Lab</a> 
 2. <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Homeworks/03.%20Arrays_Exercise" > Arrays - Exercise</a> 
 5. <a href="https://github.com/stefkavasileva/SoftUni-Software-Engineering/tree/master/Programmin%20Fundamentals/Homeworks%20and%20Labs/MethodsAndDebugging" > Methods. Debugging and Troubleshooting Code </a> 
