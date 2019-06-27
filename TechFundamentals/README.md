@@ -1,4 +1,4 @@
-# <a href="https://softuni.bg/trainings/2056/technology-fundamental-september-2018" rel="Technology Fundamentals"><p align="center"> Programming Fundamentals - january 2017<p>
+# <a href="https://softuni.bg/trainings/2056/technology-fundamental-september-2018" rel="Technology Fundamentals"><p align="center"> Technology Fundamentals - september 2018<p>
 </a>
 
 ---
@@ -28,16 +28,6 @@ The course covers source control systems, **Git** and **GitHub** for team collab
 19. <a href="https://github.com/stefkavasileva/SoftUni-Software-Engineering/tree/master/Programmin%20Fundamentals/Homeworks%20and%20Labs/Regex-Lab"> Regex - Lab </a>  
 20. <a href="https://github.com/stefkavasileva/SoftUni-Software-Engineering/tree/master/Programmin%20Fundamentals/Homeworks%20and%20Labs/Regex-Exercises"> Regex - Exercises </a>  
 
-## Old exams.
+## Exams.
 
-- <a href="https://github.com/stefkavasileva/SoftUni-Software-Engineering/tree/master/Programmin%20Fundamentals/OldExams/RetakeExam-6January2017"> Retake Exam - 6 January 2017 </a>
-- <a href="https://github.com/stefkavasileva/SoftUni-Software-Engineering/tree/master/Programmin%20Fundamentals/OldExams/Exam-23October2016"> Programming Fundamentals Exam - 23 October 2016 </a>
-- <a href="https://github.com/stefkavasileva/SoftUni-Software-Engineering/tree/master/Programmin%20Fundamentals/OldExams/SampleExamII-October2016"> Programming Fundamentals Sample Exam II - October 2016 <a/>
-- <a href="https://github.com/stefkavasileva/SoftUni-Software-Engineering/tree/master/Programmin%20Fundamentals/OldExams/ExamI-October2016">Programming Fundamentals Sample Exam I - October 2016 </a>
-- <a href="https://github.com/stefkavasileva/SoftUni-Software-Engineering/tree/master/Programmin%20Fundamentals/OldExams/RetakeExam-11September2016">Programming Fundamentals Retake Exam - 11 September 2016 </a>
-- <a href="https://github.com/stefkavasileva/SoftUni-Software-Engineering/tree/master/Programmin%20Fundamentals/OldExams/Exam-12June2016"> Programming Fundamentals Exam - 12 June 2016 </a>
-- <a href="https://github.com/stefkavasileva/SoftUni-Software-Engineering/tree/master/Programmin%20Fundamentals/OldExams/SampleExamII-June2016"> Programming Fundamentals Sample Exam II - June 2016</a>
-- <a href="https://github.com/stefkavasileva/SoftUni-Software-Engineering/tree/master/Programmin%20Fundamentals/OldExams/SampleExamI-June2016"> Programming Fundamentals Sample Exam I - June 2016</a>
-- <a href="https://github.com/stefkavasileva/SoftUni-Software-Engineering/tree/master/Programmin%20Fundamentals/OldExams/(Old)Exam-April2016" > (Old) Programming Fund(Old) Progr. Fundamentals Sample Exam - April 2016 </a> 
-- <a href="https://github.com/stefkavasileva/SoftUni-Software-Engineering/tree/master/Programmin%20Fundamentals/OldExams/(Old)Exam-24April2016" > (Old) Programming Fundamentals Exam - 24 April 2016 </a> 
 
