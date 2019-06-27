@@ -1,4 +1,4 @@
-# <a href="https://softuni.bg/trainings/1509/programming-fundamentals-january-2017" rel="Programming-Fundamentals"><p align="center"> Programming Fundamentals - january 2017<p>
+# <a href="https://softuni.bg/trainings/2056/technology-fundamental-september-2018" rel="Technology Fundamentals"><p align="center"> Programming Fundamentals - january 2017<p>
 </a>
 
 ---
