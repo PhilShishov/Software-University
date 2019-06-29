@@ -14,6 +14,8 @@ The course covers source control systems, **Git** and **GitHub** for team collab
 5. <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Homeworks/04.%20Methods_Lab" > Methods - Lab</a> 
 6. <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Homeworks/04.%20Methods_Exercise" > Methods - Exercises</a>
 7. <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Homeworks/05.%20EinstensRiddle" > Einstens Riddle</a>
+8. <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Homeworks/06.%20Lists_Lab" > Lists - Lab</a>
+9. <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Homeworks/06.%20Lists_Exercise" > Lists - Exercise</a>
 
 ## Exams
 
