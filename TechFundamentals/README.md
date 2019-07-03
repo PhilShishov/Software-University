@@ -19,7 +19,8 @@ The course covers source control systems, **Git** and **GitHub** for team collab
 10. <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Homeworks/07.%20BitwiseOperations" > Bitwise Operations</a>
 11. <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Homeworks/08.%20DictionariesLambdaLINQ_Lab" > DictionariesLambdaLINQ - Lab</a>
 12. <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Homeworks/08.%20DictionariesLambdaLINQ_Exercise" > DictionariesLambdaLINQ - Exercise</a>
-11. <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Homeworks/09.%20ObjectsandClasses_Lab" > ObjectsandClasses - Lab</a>
+13. <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Homeworks/09.%20ObjectsandClasses_Lab" > ObjectsandClasses - Lab</a>
+14. <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Homeworks/09.%20ObjectsandClasses_Exercise" > ObjectsandClasses - Exercise</a>
 
 ## Exams
 
