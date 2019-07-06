@@ -26,6 +26,7 @@ The course covers source control systems, **Git** and **GitHub** for team collab
 17. <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Homeworks/11.%20RegularExpressions" > Regular Expressions</a>
 
 <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Homeworks/CalculatorApp" > Calculator App</a>
+<a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Homeworks/MeisterTask" > Meister Task</a>
 
 ## Exams
 
