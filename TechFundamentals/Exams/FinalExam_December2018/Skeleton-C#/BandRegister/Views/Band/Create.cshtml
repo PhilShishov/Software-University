@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Create";
+}
+
+<div id="band-wrapper">
+    <section class="band">
+        <article>
+            <form asp-action="Create" asp-controller="Band" method="POST">
+                <div class="row">
+                    <label for="bandName">Band name:</label>
+                    <input type="text" id="bandName" name="Name" placeholder="Name" required>
+                </div>
+                <div class="row">
+                    <label for="members">Members:</label>
+                    <textarea rows="5" id="members" name="Members" placeholder="Member 1, Member 2, ..." required></textarea>
+                </div>
+                <div class="row">
+                    <label for="honorarium">Honorarium:</label>
+                    <input type="number" min="0" step="any" id="honorarium" name="Honorarium" placeholder="price" required>
+                </div>
+                <div class="row">
+                    <label for="genre">Genre:</label>
+                    <div class="genre-select">
+                        <input type="radio" id="genre" name="Genre" value="Rock" checked>Rock
+                        <input type="radio" id="genre" name="Genre" value="Metal">Metal
+                        <input type="radio" id="genre" name="Genre" value="Pop">Pop
+                        <input type="radio" id="genre" name="Genre" value="Other">Other
+                    </div>
+                </div>
+                <div>
+                    <button type="submit">Register</button>
+                    <a asp-action="Index" asp-controller="Band">Cancel</a>
+                </div>
+            </form>
+        </article>
+    </section>
+</div>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BandRegister", "BandRegister\BandRegister.csproj", "{FCA33090-7E69-41D9-BC67-DA394F9D5BC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCA33090-7E69-41D9-BC67-DA394F9D5BC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA33090-7E69-41D9-BC67-DA394F9D5BC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA33090-7E69-41D9-BC67-DA394F9D5BC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA33090-7E69-41D9-BC67-DA394F9D5BC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13F50B89-6F78-482A-901B-7C327418C322}
+	EndGlobalSection
+EndGlobal
