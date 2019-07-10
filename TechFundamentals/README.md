@@ -35,4 +35,4 @@ The course covers source control systems, **Git** and **GitHub** for team collab
 
 ## Exams
 
-
+- <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Exams/MidExam" > Various Mid Exams</a> 
