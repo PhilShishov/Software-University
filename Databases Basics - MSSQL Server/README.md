@@ -3,4 +3,4 @@
 
 ## Exams
 
-- <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Exams/MidExam" > Various Mid Exams</a>
+- <a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Basics%20-%20MSSQL%20Server/Exams/DBExam_10Feb2019" > DBExam_10Feb2019</a>
