@@ -3,6 +3,8 @@
 
 ## Exams
 
+- <a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Basics%20-%20MSSQL%20Server/Exams/DBExam_24Jun2018" > DBExam 24Jun2018</a>
+
 - <a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Basics%20-%20MSSQL%20Server/Exams/DBExam_29Aug2018" > DBExam 29Aug2018</a>
 
 - <a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Basics%20-%20MSSQL%20Server/Exams/DBExam_10Feb2019" > DBExam 10Feb2019</a>
