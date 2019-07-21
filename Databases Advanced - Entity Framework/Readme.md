@@ -4,9 +4,7 @@
 
 
 ## Exercises and labs
-1. <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Homeworks/02.%20DataTypesVariables_Lab" > Data Types Variables - Lab</a> 
+1. <a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Homeworks/01.AdoNet_Exercise" > AdoNet - Exercise</a> 
 
 
 ## Exams
-
-- <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Exams/MidExam" > Various Mid Exams</a>
