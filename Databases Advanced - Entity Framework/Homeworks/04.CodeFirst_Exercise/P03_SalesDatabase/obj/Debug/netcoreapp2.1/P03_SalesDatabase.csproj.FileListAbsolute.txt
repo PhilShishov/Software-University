@@ -1,0 +1,10 @@
+D:\Documents\Visual Studio 2017\DBFundamentals\04_CodeFirst\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.deps.json
+D:\Documents\Visual Studio 2017\DBFundamentals\04_CodeFirst\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.runtimeconfig.json
+D:\Documents\Visual Studio 2017\DBFundamentals\04_CodeFirst\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\DBFundamentals\04_CodeFirst\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.dll
+D:\Documents\Visual Studio 2017\DBFundamentals\04_CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\04_CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\04_CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\DBFundamentals\04_CodeFirst\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.pdb
+D:\Documents\Visual Studio 2017\DBFundamentals\04_CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.dll
+D:\Documents\Visual Studio 2017\DBFundamentals\04_CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.pdb
