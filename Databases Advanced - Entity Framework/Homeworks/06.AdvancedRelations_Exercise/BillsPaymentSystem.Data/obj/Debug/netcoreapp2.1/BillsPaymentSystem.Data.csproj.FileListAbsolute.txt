@@ -1,0 +1,14 @@
+D:\Documents\Visual Studio 2017\DBFundamentals\06_AdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.deps.json
+D:\Documents\Visual Studio 2017\DBFundamentals\06_AdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.dll
+D:\Documents\Visual Studio 2017\DBFundamentals\06_AdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\06_AdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\06_AdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\06_AdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\DBFundamentals\06_AdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.pdb
+D:\Documents\Visual Studio 2017\DBFundamentals\06_AdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Models.dll
+D:\Documents\Visual Studio 2017\DBFundamentals\06_AdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Models.pdb
+D:\Documents\Visual Studio 2017\DBFundamentals\06_AdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.csproj.CopyComplete
+D:\Documents\Visual Studio 2017\DBFundamentals\06_AdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.dll
+D:\Documents\Visual Studio 2017\DBFundamentals\06_AdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.pdb
+D:\Documents\Visual Studio 2017\DBFundamentals\06_AdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.runtimeconfig.json
+D:\Documents\Visual Studio 2017\DBFundamentals\06_AdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.runtimeconfig.dev.json
