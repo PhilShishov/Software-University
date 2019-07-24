@@ -5,6 +5,7 @@
 
 ## Exercises and labs
 1. <a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Homeworks/01.AdoNet_Exercise" > AdoNet - Exercise</a> 
+2. <a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Homeworks/02.ORMFundamentals_MiniORM" > ORM - MiniORM</a> 
 
 
 ## Exams
