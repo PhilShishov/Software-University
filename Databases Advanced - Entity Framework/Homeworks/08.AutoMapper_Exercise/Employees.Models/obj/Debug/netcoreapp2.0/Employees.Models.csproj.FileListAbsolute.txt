@@ -1,0 +1,26 @@
+D:\11AutoMapping\Employees.Models\bin\Debug\netcoreapp2.0\Employees.Models.deps.json
+D:\11AutoMapping\Employees.Models\bin\Debug\netcoreapp2.0\Employees.Models.dll
+D:\11AutoMapping\Employees.Models\bin\Debug\netcoreapp2.0\Employees.Models.pdb
+D:\11AutoMapping\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.csproj.CoreCompileInputs.cache
+D:\11AutoMapping\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.AssemblyInfoInputs.cache
+D:\11AutoMapping\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.AssemblyInfo.cs
+D:\11AutoMapping\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.dll
+D:\11AutoMapping\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.pdb
+D:\Documents\Visual Studio 2017\DBFundamentals\EmployeesAutoMapping\Employees.Models\bin\Debug\netcoreapp2.0\Employees.Models.deps.json
+D:\Documents\Visual Studio 2017\DBFundamentals\EmployeesAutoMapping\Employees.Models\bin\Debug\netcoreapp2.0\Employees.Models.dll
+D:\Documents\Visual Studio 2017\DBFundamentals\EmployeesAutoMapping\Employees.Models\bin\Debug\netcoreapp2.0\Employees.Models.pdb
+D:\Documents\Visual Studio 2017\DBFundamentals\EmployeesAutoMapping\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\EmployeesAutoMapping\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\EmployeesAutoMapping\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\EmployeesAutoMapping\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\DBFundamentals\EmployeesAutoMapping\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.dll
+D:\Documents\Visual Studio 2017\DBFundamentals\EmployeesAutoMapping\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.pdb
+D:\Documents\Visual Studio 2017\DBFundamentals\07_EmployeesAutoMapping\Employees.Models\bin\Debug\netcoreapp2.0\Employees.Models.deps.json
+D:\Documents\Visual Studio 2017\DBFundamentals\07_EmployeesAutoMapping\Employees.Models\bin\Debug\netcoreapp2.0\Employees.Models.dll
+D:\Documents\Visual Studio 2017\DBFundamentals\07_EmployeesAutoMapping\Employees.Models\bin\Debug\netcoreapp2.0\Employees.Models.pdb
+D:\Documents\Visual Studio 2017\DBFundamentals\07_EmployeesAutoMapping\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\07_EmployeesAutoMapping\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\07_EmployeesAutoMapping\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\07_EmployeesAutoMapping\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\DBFundamentals\07_EmployeesAutoMapping\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.dll
+D:\Documents\Visual Studio 2017\DBFundamentals\07_EmployeesAutoMapping\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.pdb

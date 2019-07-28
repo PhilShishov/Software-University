@@ -1,0 +1,42 @@
+D:\11AutoMapping\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Services.deps.json
+D:\11AutoMapping\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Services.dll
+D:\11AutoMapping\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Services.pdb
+D:\11AutoMapping\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Data.dll
+D:\11AutoMapping\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Models.dll
+D:\11AutoMapping\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Data.pdb
+D:\11AutoMapping\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Models.pdb
+D:\11AutoMapping\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.csprojAssemblyReference.cache
+D:\11AutoMapping\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.csproj.CoreCompileInputs.cache
+D:\11AutoMapping\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.AssemblyInfoInputs.cache
+D:\11AutoMapping\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.AssemblyInfo.cs
+D:\11AutoMapping\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.csproj.CopyComplete
+D:\11AutoMapping\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.dll
+D:\11AutoMapping\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.pdb
+D:\Documents\Visual Studio 2017\DBFundamentals\EmployeesAutoMapping\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Services.deps.json
+D:\Documents\Visual Studio 2017\DBFundamentals\EmployeesAutoMapping\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Services.dll
+D:\Documents\Visual Studio 2017\DBFundamentals\EmployeesAutoMapping\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Services.pdb
+D:\Documents\Visual Studio 2017\DBFundamentals\EmployeesAutoMapping\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Data.dll
+D:\Documents\Visual Studio 2017\DBFundamentals\EmployeesAutoMapping\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Models.dll
+D:\Documents\Visual Studio 2017\DBFundamentals\EmployeesAutoMapping\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Data.pdb
+D:\Documents\Visual Studio 2017\DBFundamentals\EmployeesAutoMapping\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Models.pdb
+D:\Documents\Visual Studio 2017\DBFundamentals\EmployeesAutoMapping\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\EmployeesAutoMapping\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\EmployeesAutoMapping\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\EmployeesAutoMapping\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\DBFundamentals\EmployeesAutoMapping\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.csproj.CopyComplete
+D:\Documents\Visual Studio 2017\DBFundamentals\EmployeesAutoMapping\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.dll
+D:\Documents\Visual Studio 2017\DBFundamentals\EmployeesAutoMapping\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.pdb
+D:\Documents\Visual Studio 2017\DBFundamentals\07_EmployeesAutoMapping\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Services.deps.json
+D:\Documents\Visual Studio 2017\DBFundamentals\07_EmployeesAutoMapping\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Services.dll
+D:\Documents\Visual Studio 2017\DBFundamentals\07_EmployeesAutoMapping\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Services.pdb
+D:\Documents\Visual Studio 2017\DBFundamentals\07_EmployeesAutoMapping\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Data.dll
+D:\Documents\Visual Studio 2017\DBFundamentals\07_EmployeesAutoMapping\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Models.dll
+D:\Documents\Visual Studio 2017\DBFundamentals\07_EmployeesAutoMapping\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Data.pdb
+D:\Documents\Visual Studio 2017\DBFundamentals\07_EmployeesAutoMapping\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Models.pdb
+D:\Documents\Visual Studio 2017\DBFundamentals\07_EmployeesAutoMapping\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\07_EmployeesAutoMapping\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\07_EmployeesAutoMapping\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\07_EmployeesAutoMapping\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\DBFundamentals\07_EmployeesAutoMapping\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.csproj.CopyComplete
+D:\Documents\Visual Studio 2017\DBFundamentals\07_EmployeesAutoMapping\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.dll
+D:\Documents\Visual Studio 2017\DBFundamentals\07_EmployeesAutoMapping\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.pdb
