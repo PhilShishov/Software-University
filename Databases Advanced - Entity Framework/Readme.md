@@ -10,4 +10,4 @@
 4. <a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Homeworks/04.CodeFirst_Exercise" > Code First - Exercise</a> 
 5. <a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Homeworks/05.EntityRelations_Exercise" > Entity Relations - Exercise</a>
 
-## Examshttps://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Homeworks/05.EntityRelations_Exercise
+## Exams
