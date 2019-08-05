@@ -12,5 +12,6 @@
 6. <a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Homeworks/06.AdvancedRelations_Exercise" > Advanced Relations - Exercise</a>
 7. <a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Homeworks/07.AdvancedQuerying_Exercise" > Advanced Querying - Exercise</a>
 8. <a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Homeworks/08.AutoMapper_Exercise" > AutoMapper - Exercise</a>
+9. <a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Homeworks/09.AutoMappingObjects_Exercise" > AutoMappingObjects - Exercise</a>
 
 ## Exams
