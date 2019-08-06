@@ -16,4 +16,7 @@
 10. <a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Homeworks/10.JSON_Processing_Exercise" > JSON Processing - Exercise</a>
 11. <a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Homeworks/11.XML_Processing_Exercise" > XML Processing - Exercise</a>
 
+<a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Homeworks/CustomAutoMapper" > Custom AutoMapper</a>
+
+
 ## Exams
