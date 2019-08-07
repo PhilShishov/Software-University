@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2017\SoftUni\DBFundamentals\FinalExam\SoftJail\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\DBFundamentals\FinalExam\SoftJail\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.json
+D:\Documents\Visual Studio 2017\SoftUni\DBFundamentals\FinalExam\SoftJail\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\SoftUni\DBFundamentals\FinalExam\SoftJail\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.dll
+D:\Documents\Visual Studio 2017\SoftUni\DBFundamentals\FinalExam\SoftJail\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.pdb
+D:\Documents\Visual Studio 2017\SoftUni\DBFundamentals\FinalExam\SoftJail\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\DBFundamentals\FinalExam\SoftJail\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\DBFundamentals\FinalExam\SoftJail\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\DBFundamentals\FinalExam\SoftJail\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\DBFundamentals\FinalExam\SoftJail\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.dll
+D:\Documents\Visual Studio 2017\SoftUni\DBFundamentals\FinalExam\SoftJail\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.pdb
