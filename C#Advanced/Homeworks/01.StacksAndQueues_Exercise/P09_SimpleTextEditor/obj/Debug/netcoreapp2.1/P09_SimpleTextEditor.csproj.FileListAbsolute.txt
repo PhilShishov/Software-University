@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P09_SimpleTextEditor\bin\Debug\netcoreapp2.1\P09_SimpleTextEditor.deps.json
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P09_SimpleTextEditor\bin\Debug\netcoreapp2.1\P09_SimpleTextEditor.runtimeconfig.json
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P09_SimpleTextEditor\bin\Debug\netcoreapp2.1\P09_SimpleTextEditor.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P09_SimpleTextEditor\bin\Debug\netcoreapp2.1\P09_SimpleTextEditor.dll
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P09_SimpleTextEditor\bin\Debug\netcoreapp2.1\P09_SimpleTextEditor.pdb
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P09_SimpleTextEditor\obj\Debug\netcoreapp2.1\P09_SimpleTextEditor.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P09_SimpleTextEditor\obj\Debug\netcoreapp2.1\P09_SimpleTextEditor.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P09_SimpleTextEditor\obj\Debug\netcoreapp2.1\P09_SimpleTextEditor.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P09_SimpleTextEditor\obj\Debug\netcoreapp2.1\P09_SimpleTextEditor.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P09_SimpleTextEditor\obj\Debug\netcoreapp2.1\P09_SimpleTextEditor.dll
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P09_SimpleTextEditor\obj\Debug\netcoreapp2.1\P09_SimpleTextEditor.pdb

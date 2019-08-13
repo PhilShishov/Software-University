@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P04_FastFood\bin\Debug\netcoreapp2.1\P04_FastFood.deps.json
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P04_FastFood\bin\Debug\netcoreapp2.1\P04_FastFood.runtimeconfig.json
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P04_FastFood\bin\Debug\netcoreapp2.1\P04_FastFood.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P04_FastFood\bin\Debug\netcoreapp2.1\P04_FastFood.dll
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P04_FastFood\bin\Debug\netcoreapp2.1\P04_FastFood.pdb
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P04_FastFood\obj\Debug\netcoreapp2.1\P04_FastFood.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P04_FastFood\obj\Debug\netcoreapp2.1\P04_FastFood.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P04_FastFood\obj\Debug\netcoreapp2.1\P04_FastFood.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P04_FastFood\obj\Debug\netcoreapp2.1\P04_FastFood.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P04_FastFood\obj\Debug\netcoreapp2.1\P04_FastFood.dll
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P04_FastFood\obj\Debug\netcoreapp2.1\P04_FastFood.pdb

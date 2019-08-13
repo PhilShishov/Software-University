@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P07_TruckTour\bin\Debug\netcoreapp2.1\P07_TruckTour.deps.json
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P07_TruckTour\bin\Debug\netcoreapp2.1\P07_TruckTour.runtimeconfig.json
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P07_TruckTour\bin\Debug\netcoreapp2.1\P07_TruckTour.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P07_TruckTour\bin\Debug\netcoreapp2.1\P07_TruckTour.dll
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P07_TruckTour\bin\Debug\netcoreapp2.1\P07_TruckTour.pdb
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P07_TruckTour\obj\Debug\netcoreapp2.1\P07_TruckTour.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P07_TruckTour\obj\Debug\netcoreapp2.1\P07_TruckTour.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P07_TruckTour\obj\Debug\netcoreapp2.1\P07_TruckTour.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P07_TruckTour\obj\Debug\netcoreapp2.1\P07_TruckTour.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P07_TruckTour\obj\Debug\netcoreapp2.1\P07_TruckTour.dll
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Exercise\P07_TruckTour\obj\Debug\netcoreapp2.1\P07_TruckTour.pdb
