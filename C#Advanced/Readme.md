@@ -1,5 +1,5 @@
 
-# <a href="https://softuni.bg/trainings/2348/csharp-advanced-may-2019"><p align="center"> C# Advanced - Mai 2019<p>
+# <a href="https://softuni.bg/trainings/2348/csharp-advanced-may-2019"><p align="center"> C# Advanced - May 2019<p>
 </a>
 
 
