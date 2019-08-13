@@ -1,5 +1,5 @@
 
-# <a href="https://softuni.bg/trainings/2251/databases-advanced-entity-framework-february-2019"><p align="center"> Databases Advanced Entity Framework - February 2019<p>
+# <a href="https://softuni.bg/trainings/2348/csharp-advanced-may-2019"> C# Advanced - Mai 2019<p>
 </a>
 
 
