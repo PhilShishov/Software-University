@@ -1,0 +1,3 @@
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\Reverse_Strings\obj\Debug\netcoreapp2.1\01_ReverseStrings.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\Reverse_Strings\obj\Debug\netcoreapp2.1\01_ReverseStrings.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\Reverse_Strings\obj\Debug\netcoreapp2.1\01_ReverseStrings.AssemblyInfo.cs

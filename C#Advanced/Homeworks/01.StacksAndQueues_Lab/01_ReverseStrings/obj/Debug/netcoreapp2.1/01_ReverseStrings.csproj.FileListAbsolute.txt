@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\01_ReverseStrings\bin\Debug\netcoreapp2.1\01_ReverseStrings.deps.json
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\01_ReverseStrings\bin\Debug\netcoreapp2.1\01_ReverseStrings.runtimeconfig.json
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\01_ReverseStrings\bin\Debug\netcoreapp2.1\01_ReverseStrings.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\01_ReverseStrings\bin\Debug\netcoreapp2.1\01_ReverseStrings.dll
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\01_ReverseStrings\bin\Debug\netcoreapp2.1\01_ReverseStrings.pdb
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\01_ReverseStrings\obj\Debug\netcoreapp2.1\01_ReverseStrings.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\01_ReverseStrings\obj\Debug\netcoreapp2.1\01_ReverseStrings.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\01_ReverseStrings\obj\Debug\netcoreapp2.1\01_ReverseStrings.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\01_ReverseStrings\obj\Debug\netcoreapp2.1\01_ReverseStrings.dll
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\01_ReverseStrings\obj\Debug\netcoreapp2.1\01_ReverseStrings.pdb
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\01_ReverseStrings\obj\Debug\netcoreapp2.1\01_ReverseStrings.csprojAssemblyReference.cache

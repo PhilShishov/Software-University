@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P06_HotPotato\bin\Debug\netcoreapp2.1\P06_HotPotato.deps.json
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P06_HotPotato\bin\Debug\netcoreapp2.1\P06_HotPotato.runtimeconfig.json
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P06_HotPotato\bin\Debug\netcoreapp2.1\P06_HotPotato.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P06_HotPotato\bin\Debug\netcoreapp2.1\P06_HotPotato.dll
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P06_HotPotato\bin\Debug\netcoreapp2.1\P06_HotPotato.pdb
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P06_HotPotato\obj\Debug\netcoreapp2.1\P06_HotPotato.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P06_HotPotato\obj\Debug\netcoreapp2.1\P06_HotPotato.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P06_HotPotato\obj\Debug\netcoreapp2.1\P06_HotPotato.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P06_HotPotato\obj\Debug\netcoreapp2.1\P06_HotPotato.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P06_HotPotato\obj\Debug\netcoreapp2.1\P06_HotPotato.dll
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P06_HotPotato\obj\Debug\netcoreapp2.1\P06_HotPotato.pdb

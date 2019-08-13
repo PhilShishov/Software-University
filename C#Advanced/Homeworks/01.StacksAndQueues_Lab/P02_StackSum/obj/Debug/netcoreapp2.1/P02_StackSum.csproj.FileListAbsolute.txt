@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P02_StackSum\bin\Debug\netcoreapp2.1\P02_StackSum.deps.json
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P02_StackSum\bin\Debug\netcoreapp2.1\P02_StackSum.runtimeconfig.json
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P02_StackSum\bin\Debug\netcoreapp2.1\P02_StackSum.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P02_StackSum\bin\Debug\netcoreapp2.1\P02_StackSum.dll
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P02_StackSum\bin\Debug\netcoreapp2.1\P02_StackSum.pdb
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P02_StackSum\obj\Debug\netcoreapp2.1\P02_StackSum.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P02_StackSum\obj\Debug\netcoreapp2.1\P02_StackSum.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P02_StackSum\obj\Debug\netcoreapp2.1\P02_StackSum.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P02_StackSum\obj\Debug\netcoreapp2.1\P02_StackSum.dll
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P02_StackSum\obj\Debug\netcoreapp2.1\P02_StackSum.pdb
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P02_StackSum\obj\Debug\netcoreapp2.1\P02_StackSum.csprojAssemblyReference.cache

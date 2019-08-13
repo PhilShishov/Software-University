@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P03_SimpleCalculator\bin\Debug\netcoreapp2.1\P03_SimpleCalculator.deps.json
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P03_SimpleCalculator\bin\Debug\netcoreapp2.1\P03_SimpleCalculator.runtimeconfig.json
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P03_SimpleCalculator\bin\Debug\netcoreapp2.1\P03_SimpleCalculator.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P03_SimpleCalculator\bin\Debug\netcoreapp2.1\P03_SimpleCalculator.dll
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P03_SimpleCalculator\bin\Debug\netcoreapp2.1\P03_SimpleCalculator.pdb
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P03_SimpleCalculator\obj\Debug\netcoreapp2.1\P03_SimpleCalculator.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P03_SimpleCalculator\obj\Debug\netcoreapp2.1\P03_SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P03_SimpleCalculator\obj\Debug\netcoreapp2.1\P03_SimpleCalculator.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P03_SimpleCalculator\obj\Debug\netcoreapp2.1\P03_SimpleCalculator.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P03_SimpleCalculator\obj\Debug\netcoreapp2.1\P03_SimpleCalculator.dll
+D:\Documents\Visual Studio 2017\DBFundamentals\StacksAndQueues_Lab\P03_SimpleCalculator\obj\Debug\netcoreapp2.1\P03_SimpleCalculator.pdb
