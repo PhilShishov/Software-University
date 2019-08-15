@@ -1,4 +1,4 @@
-# <p align="center"> Courses from the main program in SoftUni <p>
+# <p align="center"> Courses from the main program at SoftUni <p>
 
 <a href="https://softuni.bg/trainings/courses" rel="Courses">  ![SoftUni logo][logo] <a/>
 
@@ -16,3 +16,4 @@
 |<a href="https://softuni.bg/trainings/2056/technology-fundamental-september-2018"> Technology Fundamentals </a>| <a href="https://softuni.bg/certificates/details/61695/194070ba"> Link</a> |
 |<a href="https://softuni.bg/trainings/2266/databases-basics-ms-sql-server-january-2019"> Databases Basics - MS SQL Server </a>| <a href="https://softuni.bg/certificates/details/65023/d265a4f9"> Link</a> |
 |<a href="https://softuni.bg/trainings/2251/databases-advanced-entity-framework-february-2019"> Databases Advanced - Entity Framework </a>| <a href="https://softuni.bg/certificates/details/65205/5698d9cd"> Link</a> |
+|<a href="https://softuni.bg/trainings/2348/csharp-advanced-may-2019"> C# Advanced </a>| <a href="https://softuni.bg/certificates/details/65205/5698d9cd"> Link</a> |
