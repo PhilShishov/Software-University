@@ -1,0 +1,13 @@
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\StreamsFilesAndDirectories_Exercise\P03\bin\Debug\netcoreapp2.1\text.txt
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\StreamsFilesAndDirectories_Exercise\P03\bin\Debug\netcoreapp2.1\words.txt
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\StreamsFilesAndDirectories_Exercise\P03\bin\Debug\netcoreapp2.1\P03.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\StreamsFilesAndDirectories_Exercise\P03\bin\Debug\netcoreapp2.1\P03.runtimeconfig.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\StreamsFilesAndDirectories_Exercise\P03\bin\Debug\netcoreapp2.1\P03.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\StreamsFilesAndDirectories_Exercise\P03\bin\Debug\netcoreapp2.1\P03.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\StreamsFilesAndDirectories_Exercise\P03\bin\Debug\netcoreapp2.1\P03.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\StreamsFilesAndDirectories_Exercise\P03\obj\Debug\netcoreapp2.1\P03.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\StreamsFilesAndDirectories_Exercise\P03\obj\Debug\netcoreapp2.1\P03.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\StreamsFilesAndDirectories_Exercise\P03\obj\Debug\netcoreapp2.1\P03.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\StreamsFilesAndDirectories_Exercise\P03\obj\Debug\netcoreapp2.1\P03.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\StreamsFilesAndDirectories_Exercise\P03\obj\Debug\netcoreapp2.1\P03.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\StreamsFilesAndDirectories_Exercise\P03\obj\Debug\netcoreapp2.1\P03.pdb
