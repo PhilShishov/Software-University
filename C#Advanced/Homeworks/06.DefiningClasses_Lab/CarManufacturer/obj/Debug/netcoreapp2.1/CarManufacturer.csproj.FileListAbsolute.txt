@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\06. DefiningClasses_Lab\CarManufacturer\bin\Debug\netcoreapp2.1\CarManufacturer.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\06. DefiningClasses_Lab\CarManufacturer\bin\Debug\netcoreapp2.1\CarManufacturer.runtimeconfig.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\06. DefiningClasses_Lab\CarManufacturer\bin\Debug\netcoreapp2.1\CarManufacturer.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\06. DefiningClasses_Lab\CarManufacturer\bin\Debug\netcoreapp2.1\CarManufacturer.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\06. DefiningClasses_Lab\CarManufacturer\bin\Debug\netcoreapp2.1\CarManufacturer.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\06. DefiningClasses_Lab\CarManufacturer\obj\Debug\netcoreapp2.1\CarManufacturer.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\06. DefiningClasses_Lab\CarManufacturer\obj\Debug\netcoreapp2.1\CarManufacturer.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\06. DefiningClasses_Lab\CarManufacturer\obj\Debug\netcoreapp2.1\CarManufacturer.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\06. DefiningClasses_Lab\CarManufacturer\obj\Debug\netcoreapp2.1\CarManufacturer.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\06. DefiningClasses_Lab\CarManufacturer\obj\Debug\netcoreapp2.1\CarManufacturer.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\06. DefiningClasses_Lab\CarManufacturer\obj\Debug\netcoreapp2.1\CarManufacturer.csprojAssemblyReference.cache
