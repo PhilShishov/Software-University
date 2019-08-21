@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\06. DefiningClasses_Exercise\P08\bin\Debug\netcoreapp2.1\P08.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\06. DefiningClasses_Exercise\P08\bin\Debug\netcoreapp2.1\P08.runtimeconfig.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\06. DefiningClasses_Exercise\P08\bin\Debug\netcoreapp2.1\P08.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\06. DefiningClasses_Exercise\P08\bin\Debug\netcoreapp2.1\P08.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\06. DefiningClasses_Exercise\P08\obj\Debug\netcoreapp2.1\P08.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\06. DefiningClasses_Exercise\P08\obj\Debug\netcoreapp2.1\P08.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\06. DefiningClasses_Exercise\P08\obj\Debug\netcoreapp2.1\P08.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\06. DefiningClasses_Exercise\P08\bin\Debug\netcoreapp2.1\P08.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\06. DefiningClasses_Exercise\P08\obj\Debug\netcoreapp2.1\P08.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\06. DefiningClasses_Exercise\P08\obj\Debug\netcoreapp2.1\P08.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\06. DefiningClasses_Exercise\P08\obj\Debug\netcoreapp2.1\P08.pdb
