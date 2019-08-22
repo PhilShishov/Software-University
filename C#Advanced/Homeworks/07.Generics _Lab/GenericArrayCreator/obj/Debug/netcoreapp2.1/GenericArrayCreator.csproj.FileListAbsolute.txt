@@ -1,0 +1,4 @@
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics _Lab\GenericArrayCreator\obj\Debug\netcoreapp2.1\GenericArrayCreator.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics _Lab\GenericArrayCreator\obj\Debug\netcoreapp2.1\GenericArrayCreator.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics _Lab\GenericArrayCreator\obj\Debug\netcoreapp2.1\GenericArrayCreator.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics _Lab\GenericArrayCreator\obj\Debug\netcoreapp2.1\GenericArrayCreator.AssemblyInfo.cs
