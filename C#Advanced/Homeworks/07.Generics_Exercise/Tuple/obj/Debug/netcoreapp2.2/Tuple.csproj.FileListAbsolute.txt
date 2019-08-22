@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\Tuple\bin\Debug\netcoreapp2.2\Tuple.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\Tuple\bin\Debug\netcoreapp2.2\Tuple.runtimeconfig.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\Tuple\bin\Debug\netcoreapp2.2\Tuple.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\Tuple\bin\Debug\netcoreapp2.2\Tuple.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\Tuple\bin\Debug\netcoreapp2.2\Tuple.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\Tuple\obj\Debug\netcoreapp2.2\Tuple.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\Tuple\obj\Debug\netcoreapp2.2\Tuple.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\Tuple\obj\Debug\netcoreapp2.2\Tuple.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\Tuple\obj\Debug\netcoreapp2.2\Tuple.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\Tuple\obj\Debug\netcoreapp2.2\Tuple.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\Tuple\obj\Debug\netcoreapp2.2\Tuple.pdb

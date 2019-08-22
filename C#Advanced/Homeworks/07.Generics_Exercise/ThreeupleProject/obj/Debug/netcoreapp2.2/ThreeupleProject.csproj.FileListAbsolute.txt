@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\ThreeupleProject\bin\Debug\netcoreapp2.2\ThreeupleProject.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\ThreeupleProject\bin\Debug\netcoreapp2.2\ThreeupleProject.runtimeconfig.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\ThreeupleProject\bin\Debug\netcoreapp2.2\ThreeupleProject.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\ThreeupleProject\bin\Debug\netcoreapp2.2\ThreeupleProject.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\ThreeupleProject\bin\Debug\netcoreapp2.2\ThreeupleProject.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\ThreeupleProject\obj\Debug\netcoreapp2.2\ThreeupleProject.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\ThreeupleProject\obj\Debug\netcoreapp2.2\ThreeupleProject.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\ThreeupleProject\obj\Debug\netcoreapp2.2\ThreeupleProject.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\ThreeupleProject\obj\Debug\netcoreapp2.2\ThreeupleProject.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\ThreeupleProject\obj\Debug\netcoreapp2.2\ThreeupleProject.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\ThreeupleProject\obj\Debug\netcoreapp2.2\ThreeupleProject.pdb

@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\GenericMethod\bin\Debug\netcoreapp2.2\GenericMethod.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\GenericMethod\bin\Debug\netcoreapp2.2\GenericMethod.runtimeconfig.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\GenericMethod\bin\Debug\netcoreapp2.2\GenericMethod.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\GenericMethod\bin\Debug\netcoreapp2.2\GenericMethod.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\GenericMethod\bin\Debug\netcoreapp2.2\GenericMethod.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\GenericMethod\obj\Debug\netcoreapp2.2\GenericMethod.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\GenericMethod\obj\Debug\netcoreapp2.2\GenericMethod.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\GenericMethod\obj\Debug\netcoreapp2.2\GenericMethod.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\GenericMethod\obj\Debug\netcoreapp2.2\GenericMethod.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\GenericMethod\obj\Debug\netcoreapp2.2\GenericMethod.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\GenericMethod\obj\Debug\netcoreapp2.2\GenericMethod.pdb

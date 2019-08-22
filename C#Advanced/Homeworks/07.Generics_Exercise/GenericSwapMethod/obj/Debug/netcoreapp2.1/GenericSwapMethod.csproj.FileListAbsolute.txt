@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\GenericMethod\bin\Debug\netcoreapp2.1\GenericSwapMethod.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\GenericMethod\bin\Debug\netcoreapp2.1\GenericSwapMethod.runtimeconfig.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\GenericMethod\bin\Debug\netcoreapp2.1\GenericSwapMethod.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\GenericMethod\bin\Debug\netcoreapp2.1\GenericSwapMethod.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\GenericMethod\bin\Debug\netcoreapp2.1\GenericSwapMethod.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\GenericMethod\obj\Debug\netcoreapp2.1\GenericSwapMethod.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\GenericMethod\obj\Debug\netcoreapp2.1\GenericSwapMethod.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\GenericMethod\obj\Debug\netcoreapp2.1\GenericSwapMethod.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\GenericMethod\obj\Debug\netcoreapp2.1\GenericSwapMethod.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\GenericMethod\obj\Debug\netcoreapp2.1\GenericSwapMethod.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\07.Generics_Exercise\GenericMethod\obj\Debug\netcoreapp2.1\GenericSwapMethod.pdb
