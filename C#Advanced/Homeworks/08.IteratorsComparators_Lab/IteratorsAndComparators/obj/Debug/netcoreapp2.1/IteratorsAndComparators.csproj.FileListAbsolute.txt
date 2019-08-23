@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\08.IteratorsComparators_Lab\IteratorsAndComparators\bin\Debug\netcoreapp2.1\IteratorsAndComparators.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\08.IteratorsComparators_Lab\IteratorsAndComparators\bin\Debug\netcoreapp2.1\IteratorsAndComparators.runtimeconfig.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\08.IteratorsComparators_Lab\IteratorsAndComparators\bin\Debug\netcoreapp2.1\IteratorsAndComparators.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\08.IteratorsComparators_Lab\IteratorsAndComparators\bin\Debug\netcoreapp2.1\IteratorsAndComparators.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\08.IteratorsComparators_Lab\IteratorsAndComparators\bin\Debug\netcoreapp2.1\IteratorsAndComparators.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\08.IteratorsComparators_Lab\IteratorsAndComparators\obj\Debug\netcoreapp2.1\IteratorsAndComparators.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\08.IteratorsComparators_Lab\IteratorsAndComparators\obj\Debug\netcoreapp2.1\IteratorsAndComparators.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\08.IteratorsComparators_Lab\IteratorsAndComparators\obj\Debug\netcoreapp2.1\IteratorsAndComparators.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\08.IteratorsComparators_Lab\IteratorsAndComparators\obj\Debug\netcoreapp2.1\IteratorsAndComparators.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\08.IteratorsComparators_Lab\IteratorsAndComparators\obj\Debug\netcoreapp2.1\IteratorsAndComparators.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\08.IteratorsComparators_Lab\IteratorsAndComparators\obj\Debug\netcoreapp2.1\IteratorsAndComparators.pdb
