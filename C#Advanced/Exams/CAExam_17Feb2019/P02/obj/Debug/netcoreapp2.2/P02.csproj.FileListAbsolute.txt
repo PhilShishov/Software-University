@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_17Feb2019\P02\bin\Debug\netcoreapp2.2\P02.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_17Feb2019\P02\bin\Debug\netcoreapp2.2\P02.runtimeconfig.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_17Feb2019\P02\bin\Debug\netcoreapp2.2\P02.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_17Feb2019\P02\bin\Debug\netcoreapp2.2\P02.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_17Feb2019\P02\bin\Debug\netcoreapp2.2\P02.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_17Feb2019\P02\obj\Debug\netcoreapp2.2\P02.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_17Feb2019\P02\obj\Debug\netcoreapp2.2\P02.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_17Feb2019\P02\obj\Debug\netcoreapp2.2\P02.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_17Feb2019\P02\obj\Debug\netcoreapp2.2\P02.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_17Feb2019\P02\obj\Debug\netcoreapp2.2\P02.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_17Feb2019\P02\obj\Debug\netcoreapp2.2\P02.pdb
