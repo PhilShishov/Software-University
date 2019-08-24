@@ -1,0 +1,7 @@
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\09.BasicAlgorithms_Exercise\SumOfCoins\bin\Debug\SumOfCoins.exe.config
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\09.BasicAlgorithms_Exercise\SumOfCoins\bin\Debug\SumOfCoins.exe
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\09.BasicAlgorithms_Exercise\SumOfCoins\bin\Debug\SumOfCoins.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\09.BasicAlgorithms_Exercise\SumOfCoins\obj\Debug\SumOfCoins.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\09.BasicAlgorithms_Exercise\SumOfCoins\obj\Debug\SumOfCoins.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\09.BasicAlgorithms_Exercise\SumOfCoins\obj\Debug\SumOfCoins.exe
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\09.BasicAlgorithms_Exercise\SumOfCoins\obj\Debug\SumOfCoins.pdb
