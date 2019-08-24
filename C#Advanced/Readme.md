@@ -9,6 +9,6 @@
 2. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/01.StacksAndQueues_Exercise" > StacksAndQueues - Exercise</a> 
 3. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/02.MultidimensionalArrays_Lab" > Multidimensional Arrays - Lab</a> 
 4. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/02.MultidimensionalArrays_Exercise" > Multidimensional Arrays - Exercise</a> 
-5. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/03.SetsAndDictionariesAdvanced_Lab" > etsAndDictionaries Advanced - Lab</a>
-
+5. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/03.SetsAndDictionariesAdvanced_Lab" > SetsAndDictionaries Advanced - Lab</a>
+5. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/03.SetsAndDictionariesAdvanced_Exercise" > SetsAndDictionaries Advanced - Exercise</a>
 ## Exams
