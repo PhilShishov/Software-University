@@ -12,4 +12,5 @@
 5. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/03.SetsAndDictionariesAdvanced_Lab" > SetsAndDictionaries Advanced - Lab</a>
 6. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/03.SetsAndDictionariesAdvanced_Exercise" > SetsAndDictionaries Advanced - Exercise</a>
 7. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/04.StreamsFilesAndDirectories_Lab" > StreamsFilesAndDirectories - Lab</a>
+8. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/04.StreamsFilesAndDirectories_Exercise" > StreamsFilesAndDirectories - Exercise</a>
 ## Exams
