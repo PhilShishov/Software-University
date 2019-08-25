@@ -9,8 +9,9 @@
 2. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/01.StacksAndQueues_Exercise" > StacksAndQueues - Exercise</a> 
 3. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/02.MultidimensionalArrays_Lab" > Multidimensional Arrays - Lab</a> 
 4. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/02.MultidimensionalArrays_Exercise" > Multidimensional Arrays - Exercise</a> 
-5. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/03.SetsAndDictionariesAdvanced_Lab" > SetsAndDictionaries Advanced - Lab</a>
-6. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/03.SetsAndDictionariesAdvanced_Exercise" > SetsAndDictionaries Advanced - Exercise</a>
-7. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/04.StreamsFilesAndDirectories_Lab" > StreamsFilesAndDirectories - Lab</a>
-8. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/04.StreamsFilesAndDirectories_Exercise" > StreamsFilesAndDirectories - Exercise</a>
+5. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/03.SetsAndDictionariesAdvanced_Lab" > Sets & Dictionaries Advanced - Lab</a>
+6. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/03.SetsAndDictionariesAdvanced_Exercise" > Sets & Dictionaries Advanced - Exercise</a>
+7. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/04.StreamsFilesAndDirectories_Lab" > Streams, Files & Directories - Lab</a>
+8. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/04.StreamsFilesAndDirectories_Exercise" > Streams, Files & Directories - Exercise</a>
+9. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/05.FunctionalProgramming_Lab" > Functional Programming - Lab</a>
 ## Exams
