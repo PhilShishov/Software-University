@@ -14,6 +14,6 @@
 7. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/04.StreamsFilesAndDirectories_Lab" > Streams, Files & Directories - Lab</a>
 8. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/04.StreamsFilesAndDirectories_Exercise" > Streams, Files & Directories - Exercise</a>
 9. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/05.FunctionalProgramming_Lab" > Functional Programming - Lab</a>
-10. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/05.FunctionalProgramming_Exercise" > Functional Programming - Lab</a>
-11. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/05.FunctionalProgramming_Lab" > Functional Programming - Lab</a>
+10. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/05.FunctionalProgramming_Exercise" > Functional Programming - Exercise</a>
+11. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/06.DefiningClasses_Lab" > Defining Classes - Lab</a>
 ## Exams
