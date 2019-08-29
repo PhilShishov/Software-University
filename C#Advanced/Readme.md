@@ -21,4 +21,5 @@
 14. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/07.Generics_Exercise" > Generics - Exercise</a>
 15. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/08.IteratorsComparators_Lab" > Iterators Comparators - Lab</a>
 16. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/08.IteratorsComparators_Exercise" > Iterators Comparators - Exercise</a>
+17. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/09.BasicAlgorithms_Exercise" > Basic Algorithms - Exercise</a>
 ## Exams
