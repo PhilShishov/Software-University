@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\Visual Studio 2017\\SoftUni\\C#Advanced\\Homeworks\\09.BasicAlgorithms_Exercise\\P07\\P07.csproj": {}
+    "D:\\Uni\\GitHub Projects\\SoftwareUniversity\\C#Advanced\\Homeworks\\09.BasicAlgorithms_Exercise\\P07\\P07.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\Visual Studio 2017\\SoftUni\\C#Advanced\\Homeworks\\09.BasicAlgorithms_Exercise\\P07\\P07.csproj": {
+    "D:\\Uni\\GitHub Projects\\SoftwareUniversity\\C#Advanced\\Homeworks\\09.BasicAlgorithms_Exercise\\P07\\P07.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Visual Studio 2017\\SoftUni\\C#Advanced\\Homeworks\\09.BasicAlgorithms_Exercise\\P07\\P07.csproj",
+        "projectUniqueName": "D:\\Uni\\GitHub Projects\\SoftwareUniversity\\C#Advanced\\Homeworks\\09.BasicAlgorithms_Exercise\\P07\\P07.csproj",
         "projectName": "P07",
-        "projectPath": "D:\\Documents\\Visual Studio 2017\\SoftUni\\C#Advanced\\Homeworks\\09.BasicAlgorithms_Exercise\\P07\\P07.csproj",
+        "projectPath": "D:\\Uni\\GitHub Projects\\SoftwareUniversity\\C#Advanced\\Homeworks\\09.BasicAlgorithms_Exercise\\P07\\P07.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Visual Studio 2017\\SoftUni\\C#Advanced\\Homeworks\\09.BasicAlgorithms_Exercise\\P07\\obj\\",
+        "outputPath": "D:\\Uni\\GitHub Projects\\SoftwareUniversity\\C#Advanced\\Homeworks\\09.BasicAlgorithms_Exercise\\P07\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

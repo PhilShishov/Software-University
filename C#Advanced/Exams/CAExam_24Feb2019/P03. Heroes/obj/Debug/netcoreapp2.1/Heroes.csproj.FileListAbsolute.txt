@@ -1,0 +1,22 @@
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\24Feb2019\P03. Heroes\bin\Debug\netcoreapp2.1\Heroes.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\24Feb2019\P03. Heroes\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\24Feb2019\P03. Heroes\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\24Feb2019\P03. Heroes\bin\Debug\netcoreapp2.1\Heroes.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\24Feb2019\P03. Heroes\bin\Debug\netcoreapp2.1\Heroes.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\24Feb2019\P03. Heroes\obj\Debug\netcoreapp2.1\Heroes.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\24Feb2019\P03. Heroes\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\24Feb2019\P03. Heroes\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\24Feb2019\P03. Heroes\obj\Debug\netcoreapp2.1\Heroes.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\24Feb2019\P03. Heroes\obj\Debug\netcoreapp2.1\Heroes.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\24Feb2019\P03. Heroes\obj\Debug\netcoreapp2.1\Heroes.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_24Feb2019\P03. Heroes\bin\Debug\netcoreapp2.1\Heroes.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_24Feb2019\P03. Heroes\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_24Feb2019\P03. Heroes\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_24Feb2019\P03. Heroes\bin\Debug\netcoreapp2.1\Heroes.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_24Feb2019\P03. Heroes\bin\Debug\netcoreapp2.1\Heroes.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_24Feb2019\P03. Heroes\obj\Debug\netcoreapp2.1\Heroes.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_24Feb2019\P03. Heroes\obj\Debug\netcoreapp2.1\Heroes.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_24Feb2019\P03. Heroes\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_24Feb2019\P03. Heroes\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_24Feb2019\P03. Heroes\obj\Debug\netcoreapp2.1\Heroes.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_24Feb2019\P03. Heroes\obj\Debug\netcoreapp2.1\Heroes.pdb

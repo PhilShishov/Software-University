@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Visual Studio 2017\\SoftUni\\C#Advanced\\Homeworks\\09.BasicAlgorithms_Exercise\\P02\\P02.csproj",
+      "projectUniqueName": "D:\\Uni\\GitHub Projects\\SoftwareUniversity\\C#Advanced\\Homeworks\\09.BasicAlgorithms_Exercise\\P02\\P02.csproj",
       "projectName": "P02",
-      "projectPath": "D:\\Documents\\Visual Studio 2017\\SoftUni\\C#Advanced\\Homeworks\\09.BasicAlgorithms_Exercise\\P02\\P02.csproj",
+      "projectPath": "D:\\Uni\\GitHub Projects\\SoftwareUniversity\\C#Advanced\\Homeworks\\09.BasicAlgorithms_Exercise\\P02\\P02.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\Visual Studio 2017\\SoftUni\\C#Advanced\\Homeworks\\09.BasicAlgorithms_Exercise\\P02\\obj\\",
+      "outputPath": "D:\\Uni\\GitHub Projects\\SoftwareUniversity\\C#Advanced\\Homeworks\\09.BasicAlgorithms_Exercise\\P02\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

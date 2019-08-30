@@ -1,0 +1,22 @@
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\24Feb2019\P01. ClubParty\bin\Debug\netcoreapp2.1\P01. ClubParty.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\24Feb2019\P01. ClubParty\bin\Debug\netcoreapp2.1\P01. ClubParty.runtimeconfig.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\24Feb2019\P01. ClubParty\bin\Debug\netcoreapp2.1\P01. ClubParty.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\24Feb2019\P01. ClubParty\bin\Debug\netcoreapp2.1\P01. ClubParty.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\24Feb2019\P01. ClubParty\bin\Debug\netcoreapp2.1\P01. ClubParty.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\24Feb2019\P01. ClubParty\obj\Debug\netcoreapp2.1\P01. ClubParty.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\24Feb2019\P01. ClubParty\obj\Debug\netcoreapp2.1\P01. ClubParty.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\24Feb2019\P01. ClubParty\obj\Debug\netcoreapp2.1\P01. ClubParty.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\24Feb2019\P01. ClubParty\obj\Debug\netcoreapp2.1\P01. ClubParty.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\24Feb2019\P01. ClubParty\obj\Debug\netcoreapp2.1\P01. ClubParty.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\24Feb2019\P01. ClubParty\obj\Debug\netcoreapp2.1\P01. ClubParty.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_24Feb2019\P01. ClubParty\bin\Debug\netcoreapp2.1\P01. ClubParty.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_24Feb2019\P01. ClubParty\bin\Debug\netcoreapp2.1\P01. ClubParty.runtimeconfig.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_24Feb2019\P01. ClubParty\bin\Debug\netcoreapp2.1\P01. ClubParty.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_24Feb2019\P01. ClubParty\bin\Debug\netcoreapp2.1\P01. ClubParty.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_24Feb2019\P01. ClubParty\bin\Debug\netcoreapp2.1\P01. ClubParty.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_24Feb2019\P01. ClubParty\obj\Debug\netcoreapp2.1\P01. ClubParty.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_24Feb2019\P01. ClubParty\obj\Debug\netcoreapp2.1\P01. ClubParty.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_24Feb2019\P01. ClubParty\obj\Debug\netcoreapp2.1\P01. ClubParty.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_24Feb2019\P01. ClubParty\obj\Debug\netcoreapp2.1\P01. ClubParty.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_24Feb2019\P01. ClubParty\obj\Debug\netcoreapp2.1\P01. ClubParty.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_24Feb2019\P01. ClubParty\obj\Debug\netcoreapp2.1\P01. ClubParty.pdb
