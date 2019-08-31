@@ -1,0 +1,22 @@
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\16Apr2019\P01.TrojanInvasion\bin\Debug\netcoreapp2.1\P01.TrojanInvasion.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\16Apr2019\P01.TrojanInvasion\bin\Debug\netcoreapp2.1\P01.TrojanInvasion.runtimeconfig.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\16Apr2019\P01.TrojanInvasion\bin\Debug\netcoreapp2.1\P01.TrojanInvasion.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\16Apr2019\P01.TrojanInvasion\bin\Debug\netcoreapp2.1\P01.TrojanInvasion.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\16Apr2019\P01.TrojanInvasion\bin\Debug\netcoreapp2.1\P01.TrojanInvasion.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\16Apr2019\P01.TrojanInvasion\obj\Debug\netcoreapp2.1\P01.TrojanInvasion.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\16Apr2019\P01.TrojanInvasion\obj\Debug\netcoreapp2.1\P01.TrojanInvasion.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\16Apr2019\P01.TrojanInvasion\obj\Debug\netcoreapp2.1\P01.TrojanInvasion.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\16Apr2019\P01.TrojanInvasion\obj\Debug\netcoreapp2.1\P01.TrojanInvasion.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\16Apr2019\P01.TrojanInvasion\obj\Debug\netcoreapp2.1\P01.TrojanInvasion.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\16Apr2019\P01.TrojanInvasion\obj\Debug\netcoreapp2.1\P01.TrojanInvasion.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_16Apr2019\P01.TrojanInvasion\bin\Debug\netcoreapp2.1\P01.TrojanInvasion.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_16Apr2019\P01.TrojanInvasion\bin\Debug\netcoreapp2.1\P01.TrojanInvasion.runtimeconfig.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_16Apr2019\P01.TrojanInvasion\bin\Debug\netcoreapp2.1\P01.TrojanInvasion.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_16Apr2019\P01.TrojanInvasion\bin\Debug\netcoreapp2.1\P01.TrojanInvasion.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_16Apr2019\P01.TrojanInvasion\bin\Debug\netcoreapp2.1\P01.TrojanInvasion.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_16Apr2019\P01.TrojanInvasion\obj\Debug\netcoreapp2.1\P01.TrojanInvasion.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_16Apr2019\P01.TrojanInvasion\obj\Debug\netcoreapp2.1\P01.TrojanInvasion.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_16Apr2019\P01.TrojanInvasion\obj\Debug\netcoreapp2.1\P01.TrojanInvasion.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_16Apr2019\P01.TrojanInvasion\obj\Debug\netcoreapp2.1\P01.TrojanInvasion.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_16Apr2019\P01.TrojanInvasion\obj\Debug\netcoreapp2.1\P01.TrojanInvasion.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_16Apr2019\P01.TrojanInvasion\obj\Debug\netcoreapp2.1\P01.TrojanInvasion.pdb

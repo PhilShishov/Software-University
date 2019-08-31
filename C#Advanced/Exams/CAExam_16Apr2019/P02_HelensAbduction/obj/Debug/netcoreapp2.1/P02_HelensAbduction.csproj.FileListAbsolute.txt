@@ -1,0 +1,22 @@
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\16Apr2019\P02_HelensAbduction\bin\Debug\netcoreapp2.1\P02_HelensAbduction.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\16Apr2019\P02_HelensAbduction\bin\Debug\netcoreapp2.1\P02_HelensAbduction.runtimeconfig.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\16Apr2019\P02_HelensAbduction\bin\Debug\netcoreapp2.1\P02_HelensAbduction.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\16Apr2019\P02_HelensAbduction\bin\Debug\netcoreapp2.1\P02_HelensAbduction.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\16Apr2019\P02_HelensAbduction\bin\Debug\netcoreapp2.1\P02_HelensAbduction.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\16Apr2019\P02_HelensAbduction\obj\Debug\netcoreapp2.1\P02_HelensAbduction.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\16Apr2019\P02_HelensAbduction\obj\Debug\netcoreapp2.1\P02_HelensAbduction.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\16Apr2019\P02_HelensAbduction\obj\Debug\netcoreapp2.1\P02_HelensAbduction.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\16Apr2019\P02_HelensAbduction\obj\Debug\netcoreapp2.1\P02_HelensAbduction.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\16Apr2019\P02_HelensAbduction\obj\Debug\netcoreapp2.1\P02_HelensAbduction.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced 2019\Exams\16Apr2019\P02_HelensAbduction\obj\Debug\netcoreapp2.1\P02_HelensAbduction.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_16Apr2019\P02_HelensAbduction\bin\Debug\netcoreapp2.1\P02_HelensAbduction.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_16Apr2019\P02_HelensAbduction\bin\Debug\netcoreapp2.1\P02_HelensAbduction.runtimeconfig.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_16Apr2019\P02_HelensAbduction\bin\Debug\netcoreapp2.1\P02_HelensAbduction.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_16Apr2019\P02_HelensAbduction\bin\Debug\netcoreapp2.1\P02_HelensAbduction.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_16Apr2019\P02_HelensAbduction\bin\Debug\netcoreapp2.1\P02_HelensAbduction.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_16Apr2019\P02_HelensAbduction\obj\Debug\netcoreapp2.1\P02_HelensAbduction.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_16Apr2019\P02_HelensAbduction\obj\Debug\netcoreapp2.1\P02_HelensAbduction.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_16Apr2019\P02_HelensAbduction\obj\Debug\netcoreapp2.1\P02_HelensAbduction.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_16Apr2019\P02_HelensAbduction\obj\Debug\netcoreapp2.1\P02_HelensAbduction.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_16Apr2019\P02_HelensAbduction\obj\Debug\netcoreapp2.1\P02_HelensAbduction.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_16Apr2019\P02_HelensAbduction\obj\Debug\netcoreapp2.1\P02_HelensAbduction.pdb
