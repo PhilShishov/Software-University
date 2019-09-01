@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_23June2019\P02\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_23June2019\P02\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_23June2019\P02\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_23June2019\P02\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_23June2019\P02\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_23June2019\P02\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.runtimeconfig.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_23June2019\P02\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_23June2019\P02\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_23June2019\P02\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_23June2019\P02\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Exams\CAExam_23June2019\P02\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.pdb
