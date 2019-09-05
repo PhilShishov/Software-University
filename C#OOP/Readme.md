@@ -4,7 +4,7 @@
 
 
 ## Exercises and labs
-1. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/01.StacksAndQueues_Lab" > Stacks & Queues - Lab</a> 
+1. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23OOP/Homeworks/01.Abstraction_Lab" > Abstraction - Lab</a> 
 
 ## Exams
 - <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Exams/CAExam_17Feb2019" > CAExam 17Feb2019</a>
