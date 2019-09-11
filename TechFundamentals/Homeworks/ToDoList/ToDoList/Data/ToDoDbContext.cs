@@ -11,7 +11,7 @@ namespace ToDoList.Data
     {
         public DbSet<Task> Tasks { get; set; }
 
-        private const string ConnectionString = @"Server=DESKTOP-MKRSR30\SQLEXPRESS;Database=ToDoListDb;Integrated Security=True";
+        private const string ConnectionString = @"Server=localhost\SQLEXPRESS;Database=ToDoListDb;Integrated Security=True";
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

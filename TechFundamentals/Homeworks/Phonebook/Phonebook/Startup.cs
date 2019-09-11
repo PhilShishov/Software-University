@@ -1,5 +1,5 @@
 ﻿
-namespace Phonebook
+namespace DataGate
 {
     using System;
     using System.Collections.Generic;

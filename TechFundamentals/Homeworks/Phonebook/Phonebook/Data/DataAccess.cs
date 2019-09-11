@@ -1,7 +1,7 @@
 ﻿
-namespace Phonebook.Data
+namespace DataGate.Data
 {
-    using Phonebook.Data.Models;
+    using DataGate.Data.Models;
     using System;
     using System.Collections.Generic;
     using System.Linq;
