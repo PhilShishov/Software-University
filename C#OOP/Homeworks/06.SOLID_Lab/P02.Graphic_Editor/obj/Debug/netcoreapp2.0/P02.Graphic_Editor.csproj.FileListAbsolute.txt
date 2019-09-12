@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\06.SOLID_Lab\P02.Graphic_Editor\obj\Debug\netcoreapp2.0\P02.Graphic_Editor.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\06.SOLID_Lab\P02.Graphic_Editor\obj\Debug\netcoreapp2.0\P02.Graphic_Editor.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\06.SOLID_Lab\P02.Graphic_Editor\obj\Debug\netcoreapp2.0\P02.Graphic_Editor.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\06.SOLID_Lab\P02.Graphic_Editor\obj\Debug\netcoreapp2.0\P02.Graphic_Editor.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\06.SOLID_Lab\P02.Graphic_Editor\bin\Debug\netcoreapp2.0\P02.Graphic_Editor.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\06.SOLID_Lab\P02.Graphic_Editor\bin\Debug\netcoreapp2.0\P02.Graphic_Editor.runtimeconfig.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\06.SOLID_Lab\P02.Graphic_Editor\bin\Debug\netcoreapp2.0\P02.Graphic_Editor.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\06.SOLID_Lab\P02.Graphic_Editor\bin\Debug\netcoreapp2.0\P02.Graphic_Editor.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\06.SOLID_Lab\P02.Graphic_Editor\bin\Debug\netcoreapp2.0\P02.Graphic_Editor.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\06.SOLID_Lab\P02.Graphic_Editor\obj\Debug\netcoreapp2.0\P02.Graphic_Editor.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\06.SOLID_Lab\P02.Graphic_Editor\obj\Debug\netcoreapp2.0\P02.Graphic_Editor.pdb
