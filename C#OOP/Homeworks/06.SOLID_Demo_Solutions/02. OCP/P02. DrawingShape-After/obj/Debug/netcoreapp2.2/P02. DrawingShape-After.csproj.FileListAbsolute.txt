@@ -1,0 +1,22 @@
+C:\Users\Galin\Desktop\SOLID\P02. DrawingShape-After\bin\Debug\netcoreapp2.2\P02. DrawingShape-After.deps.json
+C:\Users\Galin\Desktop\SOLID\P02. DrawingShape-After\bin\Debug\netcoreapp2.2\P02. DrawingShape-After.runtimeconfig.json
+C:\Users\Galin\Desktop\SOLID\P02. DrawingShape-After\bin\Debug\netcoreapp2.2\P02. DrawingShape-After.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SOLID\P02. DrawingShape-After\bin\Debug\netcoreapp2.2\P02. DrawingShape-After.dll
+C:\Users\Galin\Desktop\SOLID\P02. DrawingShape-After\bin\Debug\netcoreapp2.2\P02. DrawingShape-After.pdb
+C:\Users\Galin\Desktop\SOLID\P02. DrawingShape-After\obj\Debug\netcoreapp2.2\P02. DrawingShape-After.csprojAssemblyReference.cache
+C:\Users\Galin\Desktop\SOLID\P02. DrawingShape-After\obj\Debug\netcoreapp2.2\P02. DrawingShape-After.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SOLID\P02. DrawingShape-After\obj\Debug\netcoreapp2.2\P02. DrawingShape-After.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SOLID\P02. DrawingShape-After\obj\Debug\netcoreapp2.2\P02. DrawingShape-After.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SOLID\P02. DrawingShape-After\obj\Debug\netcoreapp2.2\P02. DrawingShape-After.dll
+C:\Users\Galin\Desktop\SOLID\P02. DrawingShape-After\obj\Debug\netcoreapp2.2\P02. DrawingShape-After.pdb
+C:\Users\Galin\Desktop\SOLID\02. OCP\P02. DrawingShape-After\bin\Debug\netcoreapp2.2\P02. DrawingShape-After.deps.json
+C:\Users\Galin\Desktop\SOLID\02. OCP\P02. DrawingShape-After\bin\Debug\netcoreapp2.2\P02. DrawingShape-After.runtimeconfig.json
+C:\Users\Galin\Desktop\SOLID\02. OCP\P02. DrawingShape-After\bin\Debug\netcoreapp2.2\P02. DrawingShape-After.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SOLID\02. OCP\P02. DrawingShape-After\bin\Debug\netcoreapp2.2\P02. DrawingShape-After.dll
+C:\Users\Galin\Desktop\SOLID\02. OCP\P02. DrawingShape-After\bin\Debug\netcoreapp2.2\P02. DrawingShape-After.pdb
+C:\Users\Galin\Desktop\SOLID\02. OCP\P02. DrawingShape-After\obj\Debug\netcoreapp2.2\P02. DrawingShape-After.csprojAssemblyReference.cache
+C:\Users\Galin\Desktop\SOLID\02. OCP\P02. DrawingShape-After\obj\Debug\netcoreapp2.2\P02. DrawingShape-After.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SOLID\02. OCP\P02. DrawingShape-After\obj\Debug\netcoreapp2.2\P02. DrawingShape-After.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SOLID\02. OCP\P02. DrawingShape-After\obj\Debug\netcoreapp2.2\P02. DrawingShape-After.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SOLID\02. OCP\P02. DrawingShape-After\obj\Debug\netcoreapp2.2\P02. DrawingShape-After.dll
+C:\Users\Galin\Desktop\SOLID\02. OCP\P02. DrawingShape-After\obj\Debug\netcoreapp2.2\P02. DrawingShape-After.pdb

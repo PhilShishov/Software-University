@@ -1,0 +1,22 @@
+C:\Users\Galin\Desktop\SOLID\P01. FileStream-Before\bin\Debug\netcoreapp2.2\P01. FileStream-Before.deps.json
+C:\Users\Galin\Desktop\SOLID\P01. FileStream-Before\bin\Debug\netcoreapp2.2\P01. FileStream-Before.runtimeconfig.json
+C:\Users\Galin\Desktop\SOLID\P01. FileStream-Before\bin\Debug\netcoreapp2.2\P01. FileStream-Before.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SOLID\P01. FileStream-Before\bin\Debug\netcoreapp2.2\P01. FileStream-Before.dll
+C:\Users\Galin\Desktop\SOLID\P01. FileStream-Before\bin\Debug\netcoreapp2.2\P01. FileStream-Before.pdb
+C:\Users\Galin\Desktop\SOLID\P01. FileStream-Before\obj\Debug\netcoreapp2.2\P01. FileStream-Before.csprojAssemblyReference.cache
+C:\Users\Galin\Desktop\SOLID\P01. FileStream-Before\obj\Debug\netcoreapp2.2\P01. FileStream-Before.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SOLID\P01. FileStream-Before\obj\Debug\netcoreapp2.2\P01. FileStream-Before.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SOLID\P01. FileStream-Before\obj\Debug\netcoreapp2.2\P01. FileStream-Before.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SOLID\P01. FileStream-Before\obj\Debug\netcoreapp2.2\P01. FileStream-Before.dll
+C:\Users\Galin\Desktop\SOLID\P01. FileStream-Before\obj\Debug\netcoreapp2.2\P01. FileStream-Before.pdb
+C:\Users\Galin\Desktop\SOLID\02. OCP\P01. FileStream-Before\bin\Debug\netcoreapp2.2\P01. FileStream-Before.deps.json
+C:\Users\Galin\Desktop\SOLID\02. OCP\P01. FileStream-Before\bin\Debug\netcoreapp2.2\P01. FileStream-Before.runtimeconfig.json
+C:\Users\Galin\Desktop\SOLID\02. OCP\P01. FileStream-Before\bin\Debug\netcoreapp2.2\P01. FileStream-Before.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SOLID\02. OCP\P01. FileStream-Before\bin\Debug\netcoreapp2.2\P01. FileStream-Before.dll
+C:\Users\Galin\Desktop\SOLID\02. OCP\P01. FileStream-Before\bin\Debug\netcoreapp2.2\P01. FileStream-Before.pdb
+C:\Users\Galin\Desktop\SOLID\02. OCP\P01. FileStream-Before\obj\Debug\netcoreapp2.2\P01. FileStream-Before.csprojAssemblyReference.cache
+C:\Users\Galin\Desktop\SOLID\02. OCP\P01. FileStream-Before\obj\Debug\netcoreapp2.2\P01. FileStream-Before.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SOLID\02. OCP\P01. FileStream-Before\obj\Debug\netcoreapp2.2\P01. FileStream-Before.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SOLID\02. OCP\P01. FileStream-Before\obj\Debug\netcoreapp2.2\P01. FileStream-Before.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SOLID\02. OCP\P01. FileStream-Before\obj\Debug\netcoreapp2.2\P01. FileStream-Before.dll
+C:\Users\Galin\Desktop\SOLID\02. OCP\P01. FileStream-Before\obj\Debug\netcoreapp2.2\P01. FileStream-Before.pdb

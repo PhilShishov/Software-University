@@ -1,0 +1,20 @@
+C:\Users\Galin\Desktop\SOLID\P03. ShoppingCart-After\bin\Debug\netcoreapp2.2\P03. ShoppingCart-After.deps.json
+C:\Users\Galin\Desktop\SOLID\P03. ShoppingCart-After\bin\Debug\netcoreapp2.2\P03. ShoppingCart-After.runtimeconfig.json
+C:\Users\Galin\Desktop\SOLID\P03. ShoppingCart-After\bin\Debug\netcoreapp2.2\P03. ShoppingCart-After.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SOLID\P03. ShoppingCart-After\bin\Debug\netcoreapp2.2\P03. ShoppingCart-After.dll
+C:\Users\Galin\Desktop\SOLID\P03. ShoppingCart-After\bin\Debug\netcoreapp2.2\P03. ShoppingCart-After.pdb
+C:\Users\Galin\Desktop\SOLID\P03. ShoppingCart-After\obj\Debug\netcoreapp2.2\P03. ShoppingCart-After.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SOLID\P03. ShoppingCart-After\obj\Debug\netcoreapp2.2\P03. ShoppingCart-After.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SOLID\P03. ShoppingCart-After\obj\Debug\netcoreapp2.2\P03. ShoppingCart-After.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SOLID\P03. ShoppingCart-After\obj\Debug\netcoreapp2.2\P03. ShoppingCart-After.dll
+C:\Users\Galin\Desktop\SOLID\P03. ShoppingCart-After\obj\Debug\netcoreapp2.2\P03. ShoppingCart-After.pdb
+C:\Users\Galin\Desktop\SOLID\02. OCP\P03. ShoppingCart-After\bin\Debug\netcoreapp2.2\P03. ShoppingCart-After.deps.json
+C:\Users\Galin\Desktop\SOLID\02. OCP\P03. ShoppingCart-After\bin\Debug\netcoreapp2.2\P03. ShoppingCart-After.runtimeconfig.json
+C:\Users\Galin\Desktop\SOLID\02. OCP\P03. ShoppingCart-After\bin\Debug\netcoreapp2.2\P03. ShoppingCart-After.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SOLID\02. OCP\P03. ShoppingCart-After\bin\Debug\netcoreapp2.2\P03. ShoppingCart-After.dll
+C:\Users\Galin\Desktop\SOLID\02. OCP\P03. ShoppingCart-After\bin\Debug\netcoreapp2.2\P03. ShoppingCart-After.pdb
+C:\Users\Galin\Desktop\SOLID\02. OCP\P03. ShoppingCart-After\obj\Debug\netcoreapp2.2\P03. ShoppingCart-After.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SOLID\02. OCP\P03. ShoppingCart-After\obj\Debug\netcoreapp2.2\P03. ShoppingCart-After.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SOLID\02. OCP\P03. ShoppingCart-After\obj\Debug\netcoreapp2.2\P03. ShoppingCart-After.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SOLID\02. OCP\P03. ShoppingCart-After\obj\Debug\netcoreapp2.2\P03. ShoppingCart-After.dll
+C:\Users\Galin\Desktop\SOLID\02. OCP\P03. ShoppingCart-After\obj\Debug\netcoreapp2.2\P03. ShoppingCart-After.pdb

@@ -1,0 +1,20 @@
+C:\Users\Galin\Desktop\SOLID\P01. Worker-After\bin\Debug\netcoreapp2.2\P01. Worker-After.deps.json
+C:\Users\Galin\Desktop\SOLID\P01. Worker-After\bin\Debug\netcoreapp2.2\P01. Worker-After.runtimeconfig.json
+C:\Users\Galin\Desktop\SOLID\P01. Worker-After\bin\Debug\netcoreapp2.2\P01. Worker-After.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SOLID\P01. Worker-After\bin\Debug\netcoreapp2.2\P01. Worker-After.dll
+C:\Users\Galin\Desktop\SOLID\P01. Worker-After\bin\Debug\netcoreapp2.2\P01. Worker-After.pdb
+C:\Users\Galin\Desktop\SOLID\P01. Worker-After\obj\Debug\netcoreapp2.2\P01. Worker-After.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SOLID\P01. Worker-After\obj\Debug\netcoreapp2.2\P01. Worker-After.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SOLID\P01. Worker-After\obj\Debug\netcoreapp2.2\P01. Worker-After.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SOLID\P01. Worker-After\obj\Debug\netcoreapp2.2\P01. Worker-After.dll
+C:\Users\Galin\Desktop\SOLID\P01. Worker-After\obj\Debug\netcoreapp2.2\P01. Worker-After.pdb
+C:\Users\Galin\Desktop\SOLID\04. ISP\P01. Worker-After\bin\Debug\netcoreapp2.2\P01. Worker-After.deps.json
+C:\Users\Galin\Desktop\SOLID\04. ISP\P01. Worker-After\bin\Debug\netcoreapp2.2\P01. Worker-After.runtimeconfig.json
+C:\Users\Galin\Desktop\SOLID\04. ISP\P01. Worker-After\bin\Debug\netcoreapp2.2\P01. Worker-After.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SOLID\04. ISP\P01. Worker-After\bin\Debug\netcoreapp2.2\P01. Worker-After.dll
+C:\Users\Galin\Desktop\SOLID\04. ISP\P01. Worker-After\bin\Debug\netcoreapp2.2\P01. Worker-After.pdb
+C:\Users\Galin\Desktop\SOLID\04. ISP\P01. Worker-After\obj\Debug\netcoreapp2.2\P01. Worker-After.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SOLID\04. ISP\P01. Worker-After\obj\Debug\netcoreapp2.2\P01. Worker-After.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SOLID\04. ISP\P01. Worker-After\obj\Debug\netcoreapp2.2\P01. Worker-After.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SOLID\04. ISP\P01. Worker-After\obj\Debug\netcoreapp2.2\P01. Worker-After.dll
+C:\Users\Galin\Desktop\SOLID\04. ISP\P01. Worker-After\obj\Debug\netcoreapp2.2\P01. Worker-After.pdb

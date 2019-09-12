@@ -1,0 +1,22 @@
+C:\Users\Galin\Desktop\SOLID\P01. DrawingShape-Before\bin\Debug\netcoreapp2.2\P01. DrawingShape-Before.deps.json
+C:\Users\Galin\Desktop\SOLID\P01. DrawingShape-Before\bin\Debug\netcoreapp2.2\P01. DrawingShape-Before.runtimeconfig.json
+C:\Users\Galin\Desktop\SOLID\P01. DrawingShape-Before\bin\Debug\netcoreapp2.2\P01. DrawingShape-Before.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SOLID\P01. DrawingShape-Before\bin\Debug\netcoreapp2.2\P01. DrawingShape-Before.dll
+C:\Users\Galin\Desktop\SOLID\P01. DrawingShape-Before\bin\Debug\netcoreapp2.2\P01. DrawingShape-Before.pdb
+C:\Users\Galin\Desktop\SOLID\P01. DrawingShape-Before\obj\Debug\netcoreapp2.2\P01. DrawingShape-Before.csprojAssemblyReference.cache
+C:\Users\Galin\Desktop\SOLID\P01. DrawingShape-Before\obj\Debug\netcoreapp2.2\P01. DrawingShape-Before.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SOLID\P01. DrawingShape-Before\obj\Debug\netcoreapp2.2\P01. DrawingShape-Before.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SOLID\P01. DrawingShape-Before\obj\Debug\netcoreapp2.2\P01. DrawingShape-Before.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SOLID\P01. DrawingShape-Before\obj\Debug\netcoreapp2.2\P01. DrawingShape-Before.dll
+C:\Users\Galin\Desktop\SOLID\P01. DrawingShape-Before\obj\Debug\netcoreapp2.2\P01. DrawingShape-Before.pdb
+C:\Users\Galin\Desktop\SOLID\01. SRP\P01. DrawingShape-Before\bin\Debug\netcoreapp2.2\P01. DrawingShape-Before.deps.json
+C:\Users\Galin\Desktop\SOLID\01. SRP\P01. DrawingShape-Before\bin\Debug\netcoreapp2.2\P01. DrawingShape-Before.runtimeconfig.json
+C:\Users\Galin\Desktop\SOLID\01. SRP\P01. DrawingShape-Before\bin\Debug\netcoreapp2.2\P01. DrawingShape-Before.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SOLID\01. SRP\P01. DrawingShape-Before\bin\Debug\netcoreapp2.2\P01. DrawingShape-Before.dll
+C:\Users\Galin\Desktop\SOLID\01. SRP\P01. DrawingShape-Before\bin\Debug\netcoreapp2.2\P01. DrawingShape-Before.pdb
+C:\Users\Galin\Desktop\SOLID\01. SRP\P01. DrawingShape-Before\obj\Debug\netcoreapp2.2\P01. DrawingShape-Before.csprojAssemblyReference.cache
+C:\Users\Galin\Desktop\SOLID\01. SRP\P01. DrawingShape-Before\obj\Debug\netcoreapp2.2\P01. DrawingShape-Before.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SOLID\01. SRP\P01. DrawingShape-Before\obj\Debug\netcoreapp2.2\P01. DrawingShape-Before.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SOLID\01. SRP\P01. DrawingShape-Before\obj\Debug\netcoreapp2.2\P01. DrawingShape-Before.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SOLID\01. SRP\P01. DrawingShape-Before\obj\Debug\netcoreapp2.2\P01. DrawingShape-Before.dll
+C:\Users\Galin\Desktop\SOLID\01. SRP\P01. DrawingShape-Before\obj\Debug\netcoreapp2.2\P01. DrawingShape-Before.pdb

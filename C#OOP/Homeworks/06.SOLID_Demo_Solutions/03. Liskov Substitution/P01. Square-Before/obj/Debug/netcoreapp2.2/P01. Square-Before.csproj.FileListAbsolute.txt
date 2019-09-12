@@ -1,0 +1,20 @@
+C:\Users\Galin\Desktop\SOLID\P01. Square-Before\bin\Debug\netcoreapp2.2\P01. Square-Before.deps.json
+C:\Users\Galin\Desktop\SOLID\P01. Square-Before\bin\Debug\netcoreapp2.2\P01. Square-Before.runtimeconfig.json
+C:\Users\Galin\Desktop\SOLID\P01. Square-Before\bin\Debug\netcoreapp2.2\P01. Square-Before.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SOLID\P01. Square-Before\bin\Debug\netcoreapp2.2\P01. Square-Before.dll
+C:\Users\Galin\Desktop\SOLID\P01. Square-Before\bin\Debug\netcoreapp2.2\P01. Square-Before.pdb
+C:\Users\Galin\Desktop\SOLID\P01. Square-Before\obj\Debug\netcoreapp2.2\P01. Square-Before.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SOLID\P01. Square-Before\obj\Debug\netcoreapp2.2\P01. Square-Before.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SOLID\P01. Square-Before\obj\Debug\netcoreapp2.2\P01. Square-Before.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SOLID\P01. Square-Before\obj\Debug\netcoreapp2.2\P01. Square-Before.dll
+C:\Users\Galin\Desktop\SOLID\P01. Square-Before\obj\Debug\netcoreapp2.2\P01. Square-Before.pdb
+C:\Users\Galin\Desktop\SOLID\03. Liskov Substitution\P01. Square-Before\bin\Debug\netcoreapp2.2\P01. Square-Before.deps.json
+C:\Users\Galin\Desktop\SOLID\03. Liskov Substitution\P01. Square-Before\bin\Debug\netcoreapp2.2\P01. Square-Before.runtimeconfig.json
+C:\Users\Galin\Desktop\SOLID\03. Liskov Substitution\P01. Square-Before\bin\Debug\netcoreapp2.2\P01. Square-Before.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SOLID\03. Liskov Substitution\P01. Square-Before\bin\Debug\netcoreapp2.2\P01. Square-Before.dll
+C:\Users\Galin\Desktop\SOLID\03. Liskov Substitution\P01. Square-Before\bin\Debug\netcoreapp2.2\P01. Square-Before.pdb
+C:\Users\Galin\Desktop\SOLID\03. Liskov Substitution\P01. Square-Before\obj\Debug\netcoreapp2.2\P01. Square-Before.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SOLID\03. Liskov Substitution\P01. Square-Before\obj\Debug\netcoreapp2.2\P01. Square-Before.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SOLID\03. Liskov Substitution\P01. Square-Before\obj\Debug\netcoreapp2.2\P01. Square-Before.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SOLID\03. Liskov Substitution\P01. Square-Before\obj\Debug\netcoreapp2.2\P01. Square-Before.dll
+C:\Users\Galin\Desktop\SOLID\03. Liskov Substitution\P01. Square-Before\obj\Debug\netcoreapp2.2\P01. Square-Before.pdb

@@ -1,0 +1,22 @@
+C:\Users\Galin\Desktop\SOLID\P02. Books-After\bin\Debug\netcoreapp2.2\P02. Books-After.deps.json
+C:\Users\Galin\Desktop\SOLID\P02. Books-After\bin\Debug\netcoreapp2.2\P02. Books-After.runtimeconfig.json
+C:\Users\Galin\Desktop\SOLID\P02. Books-After\bin\Debug\netcoreapp2.2\P02. Books-After.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SOLID\P02. Books-After\bin\Debug\netcoreapp2.2\P02. Books-After.dll
+C:\Users\Galin\Desktop\SOLID\P02. Books-After\bin\Debug\netcoreapp2.2\P02. Books-After.pdb
+C:\Users\Galin\Desktop\SOLID\P02. Books-After\obj\Debug\netcoreapp2.2\P02. Books-After.csprojAssemblyReference.cache
+C:\Users\Galin\Desktop\SOLID\P02. Books-After\obj\Debug\netcoreapp2.2\P02. Books-After.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SOLID\P02. Books-After\obj\Debug\netcoreapp2.2\P02. Books-After.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SOLID\P02. Books-After\obj\Debug\netcoreapp2.2\P02. Books-After.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SOLID\P02. Books-After\obj\Debug\netcoreapp2.2\P02. Books-After.dll
+C:\Users\Galin\Desktop\SOLID\P02. Books-After\obj\Debug\netcoreapp2.2\P02. Books-After.pdb
+C:\Users\Galin\Desktop\SOLID\01. SRP\P02. Books-After\bin\Debug\netcoreapp2.2\P02. Books-After.deps.json
+C:\Users\Galin\Desktop\SOLID\01. SRP\P02. Books-After\bin\Debug\netcoreapp2.2\P02. Books-After.runtimeconfig.json
+C:\Users\Galin\Desktop\SOLID\01. SRP\P02. Books-After\bin\Debug\netcoreapp2.2\P02. Books-After.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SOLID\01. SRP\P02. Books-After\bin\Debug\netcoreapp2.2\P02. Books-After.dll
+C:\Users\Galin\Desktop\SOLID\01. SRP\P02. Books-After\bin\Debug\netcoreapp2.2\P02. Books-After.pdb
+C:\Users\Galin\Desktop\SOLID\01. SRP\P02. Books-After\obj\Debug\netcoreapp2.2\P02. Books-After.csprojAssemblyReference.cache
+C:\Users\Galin\Desktop\SOLID\01. SRP\P02. Books-After\obj\Debug\netcoreapp2.2\P02. Books-After.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SOLID\01. SRP\P02. Books-After\obj\Debug\netcoreapp2.2\P02. Books-After.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SOLID\01. SRP\P02. Books-After\obj\Debug\netcoreapp2.2\P02. Books-After.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SOLID\01. SRP\P02. Books-After\obj\Debug\netcoreapp2.2\P02. Books-After.dll
+C:\Users\Galin\Desktop\SOLID\01. SRP\P02. Books-After\obj\Debug\netcoreapp2.2\P02. Books-After.pdb

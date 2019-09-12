@@ -1,0 +1,22 @@
+C:\Users\Galin\Desktop\SOLID\01. SRP\P01. DrawingShape-After\bin\Debug\netcoreapp2.1\P01. DrawingShape-After.deps.json
+C:\Users\Galin\Desktop\SOLID\01. SRP\P01. DrawingShape-After\bin\Debug\netcoreapp2.1\P01. DrawingShape-After.runtimeconfig.json
+C:\Users\Galin\Desktop\SOLID\01. SRP\P01. DrawingShape-After\bin\Debug\netcoreapp2.1\P01. DrawingShape-After.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SOLID\01. SRP\P01. DrawingShape-After\bin\Debug\netcoreapp2.1\P01. DrawingShape-After.dll
+C:\Users\Galin\Desktop\SOLID\01. SRP\P01. DrawingShape-After\bin\Debug\netcoreapp2.1\P01. DrawingShape-After.pdb
+C:\Users\Galin\Desktop\SOLID\01. SRP\P01. DrawingShape-After\obj\Debug\netcoreapp2.1\P01. DrawingShape-After.csprojAssemblyReference.cache
+C:\Users\Galin\Desktop\SOLID\01. SRP\P01. DrawingShape-After\obj\Debug\netcoreapp2.1\P01. DrawingShape-After.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SOLID\01. SRP\P01. DrawingShape-After\obj\Debug\netcoreapp2.1\P01. DrawingShape-After.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SOLID\01. SRP\P01. DrawingShape-After\obj\Debug\netcoreapp2.1\P01. DrawingShape-After.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SOLID\01. SRP\P01. DrawingShape-After\obj\Debug\netcoreapp2.1\P01. DrawingShape-After.dll
+C:\Users\Galin\Desktop\SOLID\01. SRP\P01. DrawingShape-After\obj\Debug\netcoreapp2.1\P01. DrawingShape-After.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\06.SOLID-Demo-Solutions\01. SRP\P01. DrawingShape-After\bin\Debug\netcoreapp2.1\P01. DrawingShape-After.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\06.SOLID-Demo-Solutions\01. SRP\P01. DrawingShape-After\bin\Debug\netcoreapp2.1\P01. DrawingShape-After.runtimeconfig.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\06.SOLID-Demo-Solutions\01. SRP\P01. DrawingShape-After\bin\Debug\netcoreapp2.1\P01. DrawingShape-After.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\06.SOLID-Demo-Solutions\01. SRP\P01. DrawingShape-After\bin\Debug\netcoreapp2.1\P01. DrawingShape-After.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\06.SOLID-Demo-Solutions\01. SRP\P01. DrawingShape-After\bin\Debug\netcoreapp2.1\P01. DrawingShape-After.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\06.SOLID-Demo-Solutions\01. SRP\P01. DrawingShape-After\obj\Debug\netcoreapp2.1\P01. DrawingShape-After.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\06.SOLID-Demo-Solutions\01. SRP\P01. DrawingShape-After\obj\Debug\netcoreapp2.1\P01. DrawingShape-After.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\06.SOLID-Demo-Solutions\01. SRP\P01. DrawingShape-After\obj\Debug\netcoreapp2.1\P01. DrawingShape-After.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\06.SOLID-Demo-Solutions\01. SRP\P01. DrawingShape-After\obj\Debug\netcoreapp2.1\P01. DrawingShape-After.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\06.SOLID-Demo-Solutions\01. SRP\P01. DrawingShape-After\obj\Debug\netcoreapp2.1\P01. DrawingShape-After.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\06.SOLID-Demo-Solutions\01. SRP\P01. DrawingShape-After\obj\Debug\netcoreapp2.1\P01. DrawingShape-After.pdb

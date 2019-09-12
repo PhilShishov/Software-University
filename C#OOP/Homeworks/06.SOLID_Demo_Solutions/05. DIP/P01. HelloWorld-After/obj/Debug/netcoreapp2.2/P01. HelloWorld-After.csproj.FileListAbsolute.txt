@@ -1,0 +1,22 @@
+C:\Users\Galin\Desktop\SOLID\P01. HelloWorld-After\bin\Debug\netcoreapp2.2\P01. HelloWorld-After.deps.json
+C:\Users\Galin\Desktop\SOLID\P01. HelloWorld-After\bin\Debug\netcoreapp2.2\P01. HelloWorld-After.runtimeconfig.json
+C:\Users\Galin\Desktop\SOLID\P01. HelloWorld-After\bin\Debug\netcoreapp2.2\P01. HelloWorld-After.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SOLID\P01. HelloWorld-After\bin\Debug\netcoreapp2.2\P01. HelloWorld-After.dll
+C:\Users\Galin\Desktop\SOLID\P01. HelloWorld-After\bin\Debug\netcoreapp2.2\P01. HelloWorld-After.pdb
+C:\Users\Galin\Desktop\SOLID\P01. HelloWorld-After\obj\Debug\netcoreapp2.2\P01. HelloWorld-After.csprojAssemblyReference.cache
+C:\Users\Galin\Desktop\SOLID\P01. HelloWorld-After\obj\Debug\netcoreapp2.2\P01. HelloWorld-After.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SOLID\P01. HelloWorld-After\obj\Debug\netcoreapp2.2\P01. HelloWorld-After.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SOLID\P01. HelloWorld-After\obj\Debug\netcoreapp2.2\P01. HelloWorld-After.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SOLID\P01. HelloWorld-After\obj\Debug\netcoreapp2.2\P01. HelloWorld-After.dll
+C:\Users\Galin\Desktop\SOLID\P01. HelloWorld-After\obj\Debug\netcoreapp2.2\P01. HelloWorld-After.pdb
+C:\Users\Galin\Desktop\SOLID\05. DIP\P01. HelloWorld-After\bin\Debug\netcoreapp2.2\P01. HelloWorld-After.deps.json
+C:\Users\Galin\Desktop\SOLID\05. DIP\P01. HelloWorld-After\bin\Debug\netcoreapp2.2\P01. HelloWorld-After.runtimeconfig.json
+C:\Users\Galin\Desktop\SOLID\05. DIP\P01. HelloWorld-After\bin\Debug\netcoreapp2.2\P01. HelloWorld-After.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SOLID\05. DIP\P01. HelloWorld-After\bin\Debug\netcoreapp2.2\P01. HelloWorld-After.dll
+C:\Users\Galin\Desktop\SOLID\05. DIP\P01. HelloWorld-After\bin\Debug\netcoreapp2.2\P01. HelloWorld-After.pdb
+C:\Users\Galin\Desktop\SOLID\05. DIP\P01. HelloWorld-After\obj\Debug\netcoreapp2.2\P01. HelloWorld-After.csprojAssemblyReference.cache
+C:\Users\Galin\Desktop\SOLID\05. DIP\P01. HelloWorld-After\obj\Debug\netcoreapp2.2\P01. HelloWorld-After.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SOLID\05. DIP\P01. HelloWorld-After\obj\Debug\netcoreapp2.2\P01. HelloWorld-After.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SOLID\05. DIP\P01. HelloWorld-After\obj\Debug\netcoreapp2.2\P01. HelloWorld-After.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SOLID\05. DIP\P01. HelloWorld-After\obj\Debug\netcoreapp2.2\P01. HelloWorld-After.dll
+C:\Users\Galin\Desktop\SOLID\05. DIP\P01. HelloWorld-After\obj\Debug\netcoreapp2.2\P01. HelloWorld-After.pdb

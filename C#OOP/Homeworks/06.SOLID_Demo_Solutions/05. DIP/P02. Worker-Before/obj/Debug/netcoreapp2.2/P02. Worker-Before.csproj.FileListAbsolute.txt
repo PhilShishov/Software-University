@@ -1,0 +1,22 @@
+C:\Users\Galin\Desktop\SOLID\P02. Worker-Before\bin\Debug\netcoreapp2.2\P02. Worker-Before.deps.json
+C:\Users\Galin\Desktop\SOLID\P02. Worker-Before\bin\Debug\netcoreapp2.2\P02. Worker-Before.runtimeconfig.json
+C:\Users\Galin\Desktop\SOLID\P02. Worker-Before\bin\Debug\netcoreapp2.2\P02. Worker-Before.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SOLID\P02. Worker-Before\bin\Debug\netcoreapp2.2\P02. Worker-Before.dll
+C:\Users\Galin\Desktop\SOLID\P02. Worker-Before\bin\Debug\netcoreapp2.2\P02. Worker-Before.pdb
+C:\Users\Galin\Desktop\SOLID\P02. Worker-Before\obj\Debug\netcoreapp2.2\P02. Worker-Before.csprojAssemblyReference.cache
+C:\Users\Galin\Desktop\SOLID\P02. Worker-Before\obj\Debug\netcoreapp2.2\P02. Worker-Before.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SOLID\P02. Worker-Before\obj\Debug\netcoreapp2.2\P02. Worker-Before.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SOLID\P02. Worker-Before\obj\Debug\netcoreapp2.2\P02. Worker-Before.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SOLID\P02. Worker-Before\obj\Debug\netcoreapp2.2\P02. Worker-Before.dll
+C:\Users\Galin\Desktop\SOLID\P02. Worker-Before\obj\Debug\netcoreapp2.2\P02. Worker-Before.pdb
+C:\Users\Galin\Desktop\SOLID\05. DIP\P02. Worker-Before\bin\Debug\netcoreapp2.2\P02. Worker-Before.deps.json
+C:\Users\Galin\Desktop\SOLID\05. DIP\P02. Worker-Before\bin\Debug\netcoreapp2.2\P02. Worker-Before.runtimeconfig.json
+C:\Users\Galin\Desktop\SOLID\05. DIP\P02. Worker-Before\bin\Debug\netcoreapp2.2\P02. Worker-Before.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SOLID\05. DIP\P02. Worker-Before\bin\Debug\netcoreapp2.2\P02. Worker-Before.dll
+C:\Users\Galin\Desktop\SOLID\05. DIP\P02. Worker-Before\bin\Debug\netcoreapp2.2\P02. Worker-Before.pdb
+C:\Users\Galin\Desktop\SOLID\05. DIP\P02. Worker-Before\obj\Debug\netcoreapp2.2\P02. Worker-Before.csprojAssemblyReference.cache
+C:\Users\Galin\Desktop\SOLID\05. DIP\P02. Worker-Before\obj\Debug\netcoreapp2.2\P02. Worker-Before.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SOLID\05. DIP\P02. Worker-Before\obj\Debug\netcoreapp2.2\P02. Worker-Before.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SOLID\05. DIP\P02. Worker-Before\obj\Debug\netcoreapp2.2\P02. Worker-Before.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SOLID\05. DIP\P02. Worker-Before\obj\Debug\netcoreapp2.2\P02. Worker-Before.dll
+C:\Users\Galin\Desktop\SOLID\05. DIP\P02. Worker-Before\obj\Debug\netcoreapp2.2\P02. Worker-Before.pdb

@@ -1,0 +1,20 @@
+C:\Users\Galin\Desktop\SOLID\P02. Identity-After\obj\Debug\netcoreapp2.2\P02. Identity-After.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SOLID\P02. Identity-After\obj\Debug\netcoreapp2.2\P02. Identity-After.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SOLID\P02. Identity-After\obj\Debug\netcoreapp2.2\P02. Identity-After.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SOLID\P02. Identity-After\bin\Debug\netcoreapp2.2\P02. Identity-After.deps.json
+C:\Users\Galin\Desktop\SOLID\P02. Identity-After\bin\Debug\netcoreapp2.2\P02. Identity-After.runtimeconfig.json
+C:\Users\Galin\Desktop\SOLID\P02. Identity-After\bin\Debug\netcoreapp2.2\P02. Identity-After.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SOLID\P02. Identity-After\bin\Debug\netcoreapp2.2\P02. Identity-After.dll
+C:\Users\Galin\Desktop\SOLID\P02. Identity-After\bin\Debug\netcoreapp2.2\P02. Identity-After.pdb
+C:\Users\Galin\Desktop\SOLID\P02. Identity-After\obj\Debug\netcoreapp2.2\P02. Identity-After.dll
+C:\Users\Galin\Desktop\SOLID\P02. Identity-After\obj\Debug\netcoreapp2.2\P02. Identity-After.pdb
+C:\Users\Galin\Desktop\SOLID\04. ISP\P02. Identity-After\bin\Debug\netcoreapp2.2\P02. Identity-After.deps.json
+C:\Users\Galin\Desktop\SOLID\04. ISP\P02. Identity-After\bin\Debug\netcoreapp2.2\P02. Identity-After.runtimeconfig.json
+C:\Users\Galin\Desktop\SOLID\04. ISP\P02. Identity-After\bin\Debug\netcoreapp2.2\P02. Identity-After.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SOLID\04. ISP\P02. Identity-After\bin\Debug\netcoreapp2.2\P02. Identity-After.dll
+C:\Users\Galin\Desktop\SOLID\04. ISP\P02. Identity-After\bin\Debug\netcoreapp2.2\P02. Identity-After.pdb
+C:\Users\Galin\Desktop\SOLID\04. ISP\P02. Identity-After\obj\Debug\netcoreapp2.2\P02. Identity-After.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SOLID\04. ISP\P02. Identity-After\obj\Debug\netcoreapp2.2\P02. Identity-After.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SOLID\04. ISP\P02. Identity-After\obj\Debug\netcoreapp2.2\P02. Identity-After.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SOLID\04. ISP\P02. Identity-After\obj\Debug\netcoreapp2.2\P02. Identity-After.dll
+C:\Users\Galin\Desktop\SOLID\04. ISP\P02. Identity-After\obj\Debug\netcoreapp2.2\P02. Identity-After.pdb

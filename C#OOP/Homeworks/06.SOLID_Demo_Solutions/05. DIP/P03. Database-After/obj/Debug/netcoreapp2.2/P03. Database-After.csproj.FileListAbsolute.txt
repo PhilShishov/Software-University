@@ -1,0 +1,22 @@
+C:\Users\Galin\Desktop\SOLID\P03. Database-After\bin\Debug\netcoreapp2.2\P03. Database-After.deps.json
+C:\Users\Galin\Desktop\SOLID\P03. Database-After\bin\Debug\netcoreapp2.2\P03. Database-After.runtimeconfig.json
+C:\Users\Galin\Desktop\SOLID\P03. Database-After\bin\Debug\netcoreapp2.2\P03. Database-After.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SOLID\P03. Database-After\bin\Debug\netcoreapp2.2\P03. Database-After.dll
+C:\Users\Galin\Desktop\SOLID\P03. Database-After\bin\Debug\netcoreapp2.2\P03. Database-After.pdb
+C:\Users\Galin\Desktop\SOLID\P03. Database-After\obj\Debug\netcoreapp2.2\P03. Database-After.csprojAssemblyReference.cache
+C:\Users\Galin\Desktop\SOLID\P03. Database-After\obj\Debug\netcoreapp2.2\P03. Database-After.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SOLID\P03. Database-After\obj\Debug\netcoreapp2.2\P03. Database-After.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SOLID\P03. Database-After\obj\Debug\netcoreapp2.2\P03. Database-After.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SOLID\P03. Database-After\obj\Debug\netcoreapp2.2\P03. Database-After.dll
+C:\Users\Galin\Desktop\SOLID\P03. Database-After\obj\Debug\netcoreapp2.2\P03. Database-After.pdb
+C:\Users\Galin\Desktop\SOLID\05. DIP\P03. Database-After\bin\Debug\netcoreapp2.2\P03. Database-After.deps.json
+C:\Users\Galin\Desktop\SOLID\05. DIP\P03. Database-After\bin\Debug\netcoreapp2.2\P03. Database-After.runtimeconfig.json
+C:\Users\Galin\Desktop\SOLID\05. DIP\P03. Database-After\bin\Debug\netcoreapp2.2\P03. Database-After.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\SOLID\05. DIP\P03. Database-After\bin\Debug\netcoreapp2.2\P03. Database-After.dll
+C:\Users\Galin\Desktop\SOLID\05. DIP\P03. Database-After\bin\Debug\netcoreapp2.2\P03. Database-After.pdb
+C:\Users\Galin\Desktop\SOLID\05. DIP\P03. Database-After\obj\Debug\netcoreapp2.2\P03. Database-After.csprojAssemblyReference.cache
+C:\Users\Galin\Desktop\SOLID\05. DIP\P03. Database-After\obj\Debug\netcoreapp2.2\P03. Database-After.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\SOLID\05. DIP\P03. Database-After\obj\Debug\netcoreapp2.2\P03. Database-After.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\SOLID\05. DIP\P03. Database-After\obj\Debug\netcoreapp2.2\P03. Database-After.AssemblyInfo.cs
+C:\Users\Galin\Desktop\SOLID\05. DIP\P03. Database-After\obj\Debug\netcoreapp2.2\P03. Database-After.dll
+C:\Users\Galin\Desktop\SOLID\05. DIP\P03. Database-After\obj\Debug\netcoreapp2.2\P03. Database-After.pdb
