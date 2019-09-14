@@ -6,5 +6,6 @@
 ## Exercises and labs
 1. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23OOP/Homeworks/01.Abstraction_Lab" > Abstraction - Lab</a> 
 2. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23OOP/Homeworks/01.Abstraction_Exercise" > Abstraction - Exercise</a> 
+3. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23OOP/Homeworks/02.Inheritance_Lab" > Inheritance - Lab</a> 
 ## Exams
 - <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Exams/CAExam_17Feb2019" > CAExam 17Feb2019</a>
