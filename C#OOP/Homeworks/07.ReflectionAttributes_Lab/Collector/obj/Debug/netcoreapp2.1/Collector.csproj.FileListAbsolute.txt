@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Lab\Collector\bin\Debug\netcoreapp2.1\Collector.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Lab\Collector\bin\Debug\netcoreapp2.1\Collector.runtimeconfig.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Lab\Collector\bin\Debug\netcoreapp2.1\Collector.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Lab\Collector\bin\Debug\netcoreapp2.1\Collector.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Lab\Collector\bin\Debug\netcoreapp2.1\Collector.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Lab\Collector\obj\Debug\netcoreapp2.1\Collector.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Lab\Collector\obj\Debug\netcoreapp2.1\Collector.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Lab\Collector\obj\Debug\netcoreapp2.1\Collector.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Lab\Collector\obj\Debug\netcoreapp2.1\Collector.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Lab\Collector\obj\Debug\netcoreapp2.1\Collector.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Lab\Collector\obj\Debug\netcoreapp2.1\Collector.pdb

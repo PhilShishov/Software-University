@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Lab\HighQualityMistakes\bin\Debug\netcoreapp2.1\HighQualityMistakes.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Lab\HighQualityMistakes\bin\Debug\netcoreapp2.1\HighQualityMistakes.runtimeconfig.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Lab\HighQualityMistakes\bin\Debug\netcoreapp2.1\HighQualityMistakes.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Lab\HighQualityMistakes\bin\Debug\netcoreapp2.1\HighQualityMistakes.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Lab\HighQualityMistakes\bin\Debug\netcoreapp2.1\HighQualityMistakes.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Lab\HighQualityMistakes\obj\Debug\netcoreapp2.1\HighQualityMistakes.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Lab\HighQualityMistakes\obj\Debug\netcoreapp2.1\HighQualityMistakes.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Lab\HighQualityMistakes\obj\Debug\netcoreapp2.1\HighQualityMistakes.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Lab\HighQualityMistakes\obj\Debug\netcoreapp2.1\HighQualityMistakes.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Lab\HighQualityMistakes\obj\Debug\netcoreapp2.1\HighQualityMistakes.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Lab\HighQualityMistakes\obj\Debug\netcoreapp2.1\HighQualityMistakes.pdb

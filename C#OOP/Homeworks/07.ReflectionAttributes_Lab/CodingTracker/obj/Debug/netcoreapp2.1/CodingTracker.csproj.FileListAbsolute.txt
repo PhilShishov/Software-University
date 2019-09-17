@@ -1,0 +1,10 @@
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Lab\CodingTracker\bin\Debug\netcoreapp2.1\CodingTracker.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Lab\CodingTracker\bin\Debug\netcoreapp2.1\CodingTracker.runtimeconfig.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Lab\CodingTracker\bin\Debug\netcoreapp2.1\CodingTracker.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Lab\CodingTracker\bin\Debug\netcoreapp2.1\CodingTracker.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Lab\CodingTracker\bin\Debug\netcoreapp2.1\CodingTracker.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Lab\CodingTracker\obj\Debug\netcoreapp2.1\CodingTracker.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Lab\CodingTracker\obj\Debug\netcoreapp2.1\CodingTracker.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Lab\CodingTracker\obj\Debug\netcoreapp2.1\CodingTracker.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Lab\CodingTracker\obj\Debug\netcoreapp2.1\CodingTracker.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Lab\CodingTracker\obj\Debug\netcoreapp2.1\CodingTracker.pdb
