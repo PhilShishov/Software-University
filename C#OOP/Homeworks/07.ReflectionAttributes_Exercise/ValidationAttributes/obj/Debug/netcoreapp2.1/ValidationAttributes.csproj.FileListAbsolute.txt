@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Exercise\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Exercise\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.runtimeconfig.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Exercise\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Exercise\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Exercise\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Exercise\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Exercise\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Exercise\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Exercise\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Exercise\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\07.ReflectionAttributes_Exercise\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.pdb
