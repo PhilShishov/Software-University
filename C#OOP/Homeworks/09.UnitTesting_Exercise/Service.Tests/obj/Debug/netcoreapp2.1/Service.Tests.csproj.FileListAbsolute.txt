@@ -1,0 +1,14 @@
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\Service.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\Service.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\Service.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\Service.Tests\bin\Debug\netcoreapp2.1\Service.Tests.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\Service.Tests\bin\Debug\netcoreapp2.1\Service.Tests.runtimeconfig.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\Service.Tests\bin\Debug\netcoreapp2.1\Service.Tests.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\Service.Tests\bin\Debug\netcoreapp2.1\Service.Tests.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\Service.Tests\bin\Debug\netcoreapp2.1\Service.Tests.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\Service.Tests\obj\Debug\netcoreapp2.1\Service.Tests.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\Service.Tests\obj\Debug\netcoreapp2.1\Service.Tests.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\Service.Tests\obj\Debug\netcoreapp2.1\Service.Tests.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\Service.Tests\obj\Debug\netcoreapp2.1\Service.Tests.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\Service.Tests\obj\Debug\netcoreapp2.1\Service.Tests.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\Service.Tests\obj\Debug\netcoreapp2.1\Service.Tests.pdb

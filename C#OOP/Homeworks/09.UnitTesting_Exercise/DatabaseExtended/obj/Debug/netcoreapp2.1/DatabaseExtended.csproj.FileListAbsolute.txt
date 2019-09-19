@@ -1,0 +1,9 @@
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.pdb

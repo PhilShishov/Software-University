@@ -1,0 +1,9 @@
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\Service\bin\Debug\netcoreapp2.1\Service.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\Service\bin\Debug\netcoreapp2.1\Service.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\Service\bin\Debug\netcoreapp2.1\Service.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\Service\obj\Debug\netcoreapp2.1\Service.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\Service\obj\Debug\netcoreapp2.1\Service.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\Service\obj\Debug\netcoreapp2.1\Service.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\Service\obj\Debug\netcoreapp2.1\Service.pdb
