@@ -1,0 +1,10 @@
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\08.ExceptionsErrorHandling_Lab\SandBox\bin\Debug\netcoreapp2.2\SandBox.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\08.ExceptionsErrorHandling_Lab\SandBox\bin\Debug\netcoreapp2.2\SandBox.runtimeconfig.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\08.ExceptionsErrorHandling_Lab\SandBox\bin\Debug\netcoreapp2.2\SandBox.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\08.ExceptionsErrorHandling_Lab\SandBox\bin\Debug\netcoreapp2.2\SandBox.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\08.ExceptionsErrorHandling_Lab\SandBox\bin\Debug\netcoreapp2.2\SandBox.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\08.ExceptionsErrorHandling_Lab\SandBox\obj\Debug\netcoreapp2.2\SandBox.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\08.ExceptionsErrorHandling_Lab\SandBox\obj\Debug\netcoreapp2.2\SandBox.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\08.ExceptionsErrorHandling_Lab\SandBox\obj\Debug\netcoreapp2.2\SandBox.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\08.ExceptionsErrorHandling_Lab\SandBox\obj\Debug\netcoreapp2.2\SandBox.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\08.ExceptionsErrorHandling_Lab\SandBox\obj\Debug\netcoreapp2.2\SandBox.pdb
