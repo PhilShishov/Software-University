@@ -1,0 +1,17 @@
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Lab\Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Lab\Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Lab\Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Lab\Tests\bin\Debug\netcoreapp2.2\Tests.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Lab\Tests\bin\Debug\netcoreapp2.2\Tests.runtimeconfig.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Lab\Tests\bin\Debug\netcoreapp2.2\Tests.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Lab\Tests\bin\Debug\netcoreapp2.2\Tests.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Lab\Tests\bin\Debug\netcoreapp2.2\Tests.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Lab\Tests\bin\Debug\netcoreapp2.2\Skeleton.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Lab\Tests\bin\Debug\netcoreapp2.2\Skeleton.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Lab\Tests\obj\Debug\netcoreapp2.2\Tests.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Lab\Tests\obj\Debug\netcoreapp2.2\Tests.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Lab\Tests\obj\Debug\netcoreapp2.2\Tests.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Lab\Tests\obj\Debug\netcoreapp2.2\Tests.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Lab\Tests\obj\Debug\netcoreapp2.2\Tests.csproj.CopyComplete
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Lab\Tests\obj\Debug\netcoreapp2.2\Tests.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Lab\Tests\obj\Debug\netcoreapp2.2\Tests.pdb
