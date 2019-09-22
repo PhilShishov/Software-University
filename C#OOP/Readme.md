@@ -12,6 +12,7 @@
 6. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23OOP/Homeworks/03.Encapsulation_Exercise" > Encapsulation - Exercise</a> 
 7. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23OOP/Homeworks/04.Interfaces_Lab" > Interfaces - Lab</a> 
 8. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23OOP/Homeworks/04.Interfaces_Exercise" > Interfaces - Exercise</a> 
-9. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23OOP/Homeworks/05.Polymorphism_Exercise" > Polymorphism - Exercise</a> 
+9. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23OOP/Homeworks/05.Polymorphism_Lab" > Polymorphism - Lab</a> 
+10. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23OOP/Homeworks/05.Polymorphism_Exercise" > Polymorphism - Exercise</a> 
 ## Exams
 - <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Exams/CAExam_17Feb2019" > CAExam 17Feb2019</a>
