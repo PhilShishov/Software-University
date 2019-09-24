@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_4Aug2019\Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_4Aug2019\Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_4Aug2019\Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_4Aug2019\Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_4Aug2019\Structure_Skeleton\MXGP\bin\Debug\netcoreapp2.1\MXGP.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_4Aug2019\Structure_Skeleton\MXGP\bin\Debug\netcoreapp2.1\MXGP.runtimeconfig.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_4Aug2019\Structure_Skeleton\MXGP\bin\Debug\netcoreapp2.1\MXGP.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_4Aug2019\Structure_Skeleton\MXGP\bin\Debug\netcoreapp2.1\MXGP.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_4Aug2019\Structure_Skeleton\MXGP\bin\Debug\netcoreapp2.1\MXGP.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_4Aug2019\Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_4Aug2019\Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.pdb

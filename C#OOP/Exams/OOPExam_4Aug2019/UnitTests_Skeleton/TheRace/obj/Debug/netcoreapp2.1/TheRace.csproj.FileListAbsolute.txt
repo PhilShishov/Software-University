@@ -1,0 +1,9 @@
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_4Aug2019\UnitTests_Skeleton\TheRace\bin\Debug\netcoreapp2.1\TheRace.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_4Aug2019\UnitTests_Skeleton\TheRace\bin\Debug\netcoreapp2.1\TheRace.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_4Aug2019\UnitTests_Skeleton\TheRace\bin\Debug\netcoreapp2.1\TheRace.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_4Aug2019\UnitTests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_4Aug2019\UnitTests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_4Aug2019\UnitTests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_4Aug2019\UnitTests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_4Aug2019\UnitTests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_4Aug2019\UnitTests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.pdb
