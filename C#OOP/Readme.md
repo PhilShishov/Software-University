@@ -15,6 +15,6 @@
 9. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23OOP/Homeworks/05.Polymorphism_Lab" > Polymorphism - Lab</a> 
 10. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23OOP/Homeworks/05.Polymorphism_Exercise" > Polymorphism - Exercise</a> 
 11. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23OOP/Homeworks/06.SOLID_Demo_Solutions" > SOLID - Demo Solutions</a> 
-12. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23OOP/Homeworks/05.Polymorphism_Exercise" > Polymorphism - Exercise</a> 
+12. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23OOP/Homeworks/06.SOLID_Lab" > SOLID - Lab</a> 
 ## Exams
 - <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Exams/CAExam_17Feb2019" > CAExam 17Feb2019</a>
