@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_15Aug2019\03. Unit Tests_Skeleton\HeroRepository\bin\Debug\netcoreapp2.1\HeroRepository.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_15Aug2019\03. Unit Tests_Skeleton\HeroRepository\bin\Debug\netcoreapp2.1\HeroRepository.runtimeconfig.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_15Aug2019\03. Unit Tests_Skeleton\HeroRepository\bin\Debug\netcoreapp2.1\HeroRepository.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_15Aug2019\03. Unit Tests_Skeleton\HeroRepository\bin\Debug\netcoreapp2.1\HeroRepository.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_15Aug2019\03. Unit Tests_Skeleton\HeroRepository\bin\Debug\netcoreapp2.1\HeroRepository.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_15Aug2019\03. Unit Tests_Skeleton\HeroRepository\obj\Debug\netcoreapp2.1\HeroRepository.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_15Aug2019\03. Unit Tests_Skeleton\HeroRepository\obj\Debug\netcoreapp2.1\HeroRepository.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_15Aug2019\03. Unit Tests_Skeleton\HeroRepository\obj\Debug\netcoreapp2.1\HeroRepository.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_15Aug2019\03. Unit Tests_Skeleton\HeroRepository\obj\Debug\netcoreapp2.1\HeroRepository.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_15Aug2019\03. Unit Tests_Skeleton\HeroRepository\obj\Debug\netcoreapp2.1\HeroRepository.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_15Aug2019\03. Unit Tests_Skeleton\HeroRepository\obj\Debug\netcoreapp2.1\HeroRepository.pdb
