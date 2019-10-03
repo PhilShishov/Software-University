@@ -1,0 +1,17 @@
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_18Apr2019\Unit-Tests-Skeleton\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_18Apr2019\Unit-Tests-Skeleton\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_18Apr2019\Unit-Tests-Skeleton\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_18Apr2019\Unit-Tests-Skeleton\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\ParkingSystem.Tests.deps.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_18Apr2019\Unit-Tests-Skeleton\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\ParkingSystem.Tests.runtimeconfig.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_18Apr2019\Unit-Tests-Skeleton\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\ParkingSystem.Tests.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_18Apr2019\Unit-Tests-Skeleton\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\ParkingSystem.Tests.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_18Apr2019\Unit-Tests-Skeleton\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\ParkingSystem.Tests.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_18Apr2019\Unit-Tests-Skeleton\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\ParkingSystem.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_18Apr2019\Unit-Tests-Skeleton\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\ParkingSystem.pdb
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_18Apr2019\Unit-Tests-Skeleton\ParkingSystem.Tests\obj\Debug\netcoreapp2.1\ParkingSystem.Tests.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_18Apr2019\Unit-Tests-Skeleton\ParkingSystem.Tests\obj\Debug\netcoreapp2.1\ParkingSystem.Tests.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_18Apr2019\Unit-Tests-Skeleton\ParkingSystem.Tests\obj\Debug\netcoreapp2.1\ParkingSystem.Tests.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_18Apr2019\Unit-Tests-Skeleton\ParkingSystem.Tests\obj\Debug\netcoreapp2.1\ParkingSystem.Tests.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_18Apr2019\Unit-Tests-Skeleton\ParkingSystem.Tests\obj\Debug\netcoreapp2.1\ParkingSystem.Tests.csproj.CopyComplete
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_18Apr2019\Unit-Tests-Skeleton\ParkingSystem.Tests\obj\Debug\netcoreapp2.1\ParkingSystem.Tests.dll
+D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Exams\OOPExam_18Apr2019\Unit-Tests-Skeleton\ParkingSystem.Tests\obj\Debug\netcoreapp2.1\ParkingSystem.Tests.pdb
