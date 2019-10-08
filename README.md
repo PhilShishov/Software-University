@@ -19,3 +19,4 @@
 |<a href="https://softuni.bg/trainings/2348/csharp-advanced-may-2019"> C# Advanced</a>| <a href="https://softuni.bg/certificates/details/69772/dc0ee5bd"> Link</a> |
 |<a href="https://softuni.bg/trainings/2349/csharp-oop-june-2019"> C# OOP</a>| <a href="https://softuni.bg/certificates/details/69832/c186b26f"> Link</a> |
 |<a href="https://softuni.bg/trainings/2345/js-essentials-may-2019#lesson-11732"> JS Essentials</a>| <a href="https://softuni.bg/certificates/details/70131/1b3d2444"> Link</a> |
+|<a href="https://softuni.bg/trainings/2346/js-advanced-june-2019"> JS Advanced</a>| <a href=""> Link</a> |
