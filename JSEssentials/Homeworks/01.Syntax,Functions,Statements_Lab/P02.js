@@ -1,20 +1,19 @@
 
-function GCD(a, b) {
+function mathOperations(num1, num2, operator) {
 
-    a = +a;
-    b = +b;
+    let result;
 
-    let greatestDivisor = 0;
-
-    for (let i = 1; i <= Math.min(a, b); i++) {
-
-        if (a % i === 0 && b % i === 0) {
-
-            greatestDivisor = i;
-        }
+    switch (operator) {
+        case '+': result = num1 + num2; break;
+        case '-': result = num1 - num2; break;
+        case '*': result = num1 * num2; break;
+        case '/': result = num1 / num2; break;
+        case '%': result = num1 % num2; break;
+        case '**': result = num1 ** num2; break;
     }
 
-    console.log(greatestDivisor);
+    console.log(result)
 }
 
-GCD('15', 5);
+mathOperations(5, 6, '+');
+mathOperations(3, 5.5, '**');

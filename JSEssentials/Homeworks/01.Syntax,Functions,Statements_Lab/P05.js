@@ -1,11 +1,16 @@
+function circleArea(input) {
 
-function calorieObject (input) {
-    let obj = {};
+    let result;
+    let inputType = typeof(input);
 
-    for (let i = 0; i < input.length; i+=2) {
-        obj[input[i]] = +input[i + 1];
-        
+    if (inputType === 'number') {
+        result = (Math.PI * input * input).toFixed(2);
+    } else {
+        result = `We can not calculate the circle area, because we receive a ${inputType}.`
     }
 
-    console.log(obj);
+    console.log(result);
 }
+
+circleArea(5);
+circleArea('name');

@@ -1,23 +1,16 @@
 
-function sameNumbers(number) {
+function sumOfNumbers(n, m) {
 
-    number = number.toString();
-    let isSame = true;
-    let firstNum = number[0];
-    let sum = +firstNum;
+    let sum = 0;
+    let firstNum = Number(n);
+    let secondNum = Number(m);
 
-    for (let i = 1; i <= number.length - 1; i++) {
-
-        sum += +number[i];
-
-        if (firstNum !== number[i]) {
-            isSame = false;
-
-        }
+    for (let index = firstNum; index <= secondNum; index++) {
+        sum += index;
     }
 
-    console.log(isSame);
     console.log(sum);
 }
 
-sameNumbers(2222222);
+sumOfNumbers('1', '5');
+sumOfNumbers('-8', '20');

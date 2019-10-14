@@ -1,11 +1,20 @@
-function stringLength(fruit, quantity, priceKilo) {
+function stringLength(firstString, secondString, thirdString) {
 
-    let kg = quantity / 1000;
-    let money = kg * priceKilo;
+    let sumLength;
+    let averageLength;
 
-    console.log(`I need $${money.toFixed(2)} to buy ${kg.toFixed(2)} kilograms ${fruit}.`)
+    let firstStringLength = firstString.length; 
+    let secondStringLength = secondString.length; 
+    let thirdStringLength = thirdString.length; 
 
+
+    sumLength = firstStringLength + secondStringLength + thirdStringLength;
+    averageLength = Math.round(sumLength / 3);
+
+    console.log(sumLength);
+    console.log(averageLength);
 }
 
-stringLength('orange', 2500, 1.80);
+stringLength('chocolate', 'ice cream', 'cake');
+stringLength('pasta', '5', '22.3');
 
