@@ -1,5 +1,5 @@
 
-# <a href="https://softuni.bg/trainings/2345/js-essentials-may-2019"><p align="center"> JS Essentials - Mai 2019<p>
+# <a href="https://softuni.bg/trainings/2345/js-essentials-may-2019"><p align="center"> JS Essentials - May 2019<p>
 </a>
 
 
