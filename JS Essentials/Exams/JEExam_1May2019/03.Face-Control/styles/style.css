@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 24px;
+}
+
+#input{
+    padding: 1%;
+    /* border:1px solid red; */
+    width: 100%;
+}
+
+#input textarea{
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    height: 40vh;
+    resize: none;
+    text-align: center;
+    margin-bottom: 1%;
+}
+
+#input button {
+    display: block;
+    margin: 0 auto;
+    width: 10%;
+    height: auto;
+}
+
+#output{
+    margin-top: 1%;
+    width: 100%;
+    height: 20vh;
+}
+
+#peopleIn, #blacklist, #peopleOut{
+    display: inline-block;
+    width: 30%;
+    height: 20vh;
+    /* border:1px solid blue; */
+    margin: 0 auto;
+    margin-left: 2%;
+    vertical-align: top;
+}
+
+#output h1{
+    text-align: center;
+}
+
+#peopleIn p, #blacklist p, #peopleOut p{
+    text-decoration: underline;
+    text-align: center;
+}
