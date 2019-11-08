@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="./styles/style.css" />
+    <title>Document</title>
+</head>
+<body>
+    <div id="inputs">
+            <label for="titaniumCoreFound">Titanium Core</label>
+            <input type="number" min="0" id="titaniumCoreFound"/>
+    
+            <label for="aluminiumCoreFound">Aluminium Core</label>
+            <input type="number" min="0" id="aluminiumCoreFound"/>
+    
+            <label for="magnesiumCoreFound">Magnesium Core</label>
+            <input type="number" min="0" id="magnesiumCoreFound"/>
+    
+            <label for="carbonCoreFound">Carbon Core</label>
+            <input type="number" min="0" id="carbonCoreFound"/>
+
+            <label for="lossesPercent">Losses percent</label>
+            <input type="number" min="0" id="lossesPercent"/>
+    
+            <button type="submit" onclick="spaceshipCrafting()">Exchange them</button>
+    </div>
+    <div id="outputs">
+        <div id="availableBars">
+            <h1>Available Bars</h1>
+            <p></p>
+        </div>
+        <div id="builtSpaceships">
+            <h1>Built Spaceships</h1>
+            <p></p>
+        </div>
+    </div>
+
+    <script src="./scripts/app.js"></script>
+</body>
+</html>
