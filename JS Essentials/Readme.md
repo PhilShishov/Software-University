@@ -11,5 +11,6 @@
 4. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Essentials/Homeworks/02.ObjectsandDOM_Exercise" > Objects, DOM - Exercise</a>
 5. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Essentials/Homeworks/03.ArraysandMatrices_Lab" > Arrays, Matrices - Lab</a>
 6. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Essentials/Homeworks/03.ArraysandMatrices_Exercise" > Arrays, Matrices - Exercise</a>
+7. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Essentials/Homeworks/04.StringsAndRegEx_Lab" > Strings, Regex - Lab</a>
 
 ## Exams
