@@ -15,3 +15,4 @@
 8. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Essentials/Homeworks/04.StringsAndRegEx_Exercise" > Strings, Regex - Exercise</a>
 
 ## Exams
+- <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Essentials/Exams/JEExam_1May2019" >JEExam 1May2019</a> 
