@@ -1,0 +1,67 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700|Montserrat:400,700);
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:22px;
+}
+
+.restaurant-race-class {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 1.5rem;
+    color: #aaa;
+}
+
+h2 {
+    color: #00BFFF;
+    padding: 0.3rem;
+}
+
+textarea {
+    background: #fff;
+    border-radius: 5px; 
+    padding-left: 0.1rem;
+    padding-right: 0.1rem;
+    border: 1px solid #00BFFF;
+    margin-right: 1.2rem;
+    outline: none;
+    color: #aaa;
+    font-size: 21px;
+    width: 50%;
+    resize: none;
+    height: 20vh;;
+}
+
+#inputs, #outputs div{
+    margin: 20px 0px 20px 20px;
+    width: 1135px;
+    text-align: center;
+    padding-bottom: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    background-image: linear-gradient(
+      to right, 
+      #00BFFF 10px, 
+      white 11px
+    );
+    padding-left: 35px;
+    box-shadow: rgba(0, 0, 0, .15) 0 1px 3px;
+}
+
+label{
+    font-size: 18px;
+}
+button{
+    margin-top: 10px;
+    font-size: 22px;
+    margin-left: 5px;
+    background-color: #00BFFF;
+    border: none;
+    outline: none;
+    border-radius: 50%;
+    padding: 0.3rem;
+    color: #fff;
+}
