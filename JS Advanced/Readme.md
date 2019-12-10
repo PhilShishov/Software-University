@@ -9,7 +9,7 @@
 2. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced/Homeworks/01.AdvancedFunctions_Exercise" > Advanced Functions - Exercise</a> 
 3. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced/Homeworks/02.DOM_Manipulations_Lab" > DOM Manipulations - Lab</a>
 4. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced/Homeworks/02.DOM_Manipulations_Exercise" > DOM Manipulations - Exercise</a>
-5. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced/Homeworks/03.UnitTesting_Lab" > Unit Testing -Lab</a>
+5. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced/Homeworks/03.UnitTesting_Lab" > Unit Testing - Lab</a>
 
 ## Exams
 - <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Essentials/Exams/JEExam_1May2019" >JEExam 1May2019</a>
