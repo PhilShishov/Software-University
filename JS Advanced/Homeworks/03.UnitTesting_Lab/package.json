@@ -2,14 +2,10 @@
   "name": "03.unittesting_lab",
   "version": "1.0.0",
   "description": "",
-  "main": "04-sum-of-numbers.js",
+  "main": "P01.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "chai": "^4.2.0",
-    "mocha": "^6.2.2"
-  }
+  "license": "ISC"
 }
