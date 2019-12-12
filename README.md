@@ -145,9 +145,6 @@ Programming Basics with C# - June 2018<br />
 <th>
 <p><a title="QA Automation" href="https://softuni.bg/certificates/details/56640/ddcc51d5" target="_blank">Certificate</a></p>
 </th></tr>
-<tr>
-<td colspan="2" width="50%"></td>
-</tr>
 </tbody>
 </table>
 <hr />
