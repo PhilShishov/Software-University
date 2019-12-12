@@ -46,7 +46,7 @@ Philip Shishov
 QA Automation - June 2018 <br /> 
 06.06.2018 - 11.08.2018
 </th>
-<th width="40%"></th>
+<th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 14/02/2018</th>
 <th>
 <p><a title="QA Automation" href="https://softuni.bg/certificates/details/57187/b964283c" target="_blank">Certificate</a></p>
 </th></tr>
