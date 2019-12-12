@@ -8,7 +8,7 @@
 <h2>C#</h2>
 <h2>JavaScript</h2>
 </td>
-<td align="center" width="33%"><img src="https://avatars1.githubusercontent.com/u/24620088?v=3&amp;u=5e1a11ac5228356808410702d2f8c5ff3209d2a9&amp;s=400" alt="" />
+<td align="center" width="33%"><img src="https://ibb.co/h2fswfC" alt="" />
 <img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" />
 Author: 
 <strong>
@@ -38,29 +38,6 @@ Philip Shishov
 |<a href="https://softuni.bg/trainings/1859/qa-automation-june-2018">QA Automation</a>| <a href="https://softuni.bg/certificates/details/57187/b964283c">Link</a> |
 
 
-
-<!-- Head Start -->
-<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
-<tbody>
-<tr>
-<td align="center" width="33%"><img style="text-align: ce;" src="http://conf.softuni.bg/wp-content/uploads/2015/01/SoftUni-Logo-Flat_square-blue-300x235.png" alt="" /></td>
-<td align="center" width="33%">
-<h1><a href="https://softuni.bg/">SoftUni</a></h1>
-<h2>C#</h2>
-</td>
-<td align="center" width="33%"><img src="https://avatars1.githubusercontent.com/u/24620088?v=3&amp;u=5e1a11ac5228356808410702d2f8c5ff3209d2a9&amp;s=400" alt="" />
-<img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" />
-Author: 
-<strong>
-<a title="LinkedIn Radoslav Astardzhiev" href="https://www.linkedin.com/in/radoslav-astardzhiev-727602137" target="_blank">
-Radoslav Astardzhiev
-</a>
-</strong></p>
-</td>
-</tr>
-</tbody>
-</table>
-<!-- Head End -->
 <!-- JavaScript Fundamentals Start -->
 <hr />
 <!-- Summary Begin -->
