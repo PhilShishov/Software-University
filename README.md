@@ -37,6 +37,30 @@ Philip Shishov
 |<a href="https://softuni.bg/trainings/2347/js-apps-july-2019"> JS Apps</a>| <a href=""></a> |
 |<a href="https://softuni.bg/trainings/1859/qa-automation-june-2018">QA Automation</a>| <a href="https://softuni.bg/certificates/details/57187/b964283c">Link</a> |
 
+<!-- C# Advanced -->
+<hr />
+<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<tbody>
+<tr><th align="center" width="50%">
+C# Advanced - May 2019<br /> 
+14.05.2019 - 13.08.2019
+</th>
+<th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date:  19/08/2019</th>
+<th>
+<p><a title="C# Advanced" href="https://softuni.bg/certificates/details/69772/dc0ee5bd" target="_blank">Certificate</a></p>
+</th></tr>
+<!-- Course Body -->
+<tr>
+<td width="50%">
+<p><a title="C#Advanced" href="https://github.com/PhilShishov/Software-University/tree/master/C%23%20Advanced" target="_blank">C# Advanced - Homeworks and Exams </a></p>
+</td>
+<td colspan="2" width="50%"></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<!-- C# Advanced -->
+
 <!-- Databases Advanced -->
 <hr />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
