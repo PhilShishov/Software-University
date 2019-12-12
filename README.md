@@ -37,6 +37,25 @@ Philip Shishov
 |<a href="https://softuni.bg/trainings/2347/js-apps-july-2019"> JS Apps</a>| <a href=""></a> |
 |<a href="https://softuni.bg/trainings/1859/qa-automation-june-2018">QA Automation</a>| <a href="https://softuni.bg/certificates/details/57187/b964283c">Link</a> |
 
+<!-- Programming Basics with C# -->
+<hr />
+<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<tbody>
+<tr><th align="center" width="50%">
+Programming Basics with C# - June 2018<br /> 
+06.06.2018 - 11.08.2018
+</th>
+<th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 16/08/2018</th>
+<th>
+<p><a title="QA Automation" href="https://softuni.bg/certificates/details/56640/ddcc51d5" target="_blank">Certificate</a></p>
+</th></tr>
+<tr>
+<td colspan="2" width="50%"></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<!-- Programming Basics with C# -->
 
 <!-- QA Automation -->
 <hr />
@@ -46,7 +65,7 @@ Philip Shishov
 QA Automation - June 2018 <br /> 
 06.06.2018 - 11.08.2018
 </th>
-<th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 14/02/2018</th>
+<th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 16/08/2018</th>
 <th>
 <p><a title="QA Automation" href="https://softuni.bg/certificates/details/57187/b964283c" target="_blank">Certificate</a></p>
 </th></tr>
@@ -61,4 +80,3 @@ QA Automation - June 2018 <br />
 </table>
 <hr />
 <!-- QA Automation -->
-<hr />
