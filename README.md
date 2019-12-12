@@ -38,6 +38,30 @@ Philip Shishov
 |<a href="https://softuni.bg/trainings/1859/qa-automation-june-2018">QA Automation</a>| <a href="https://softuni.bg/certificates/details/57187/b964283c">Link</a> |
 
 
+<!-- Databases Basics -->
+<hr />
+<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<tbody>
+<tr><th align="center" width="50%">
+Databases Basics - MS SQL Server - January 2019 <br /> 
+14.01.2019 - 16.04.2019
+</th>
+<th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date:  16/04/2019</th>
+<th>
+<p><a title="Databases Basics" href="https://softuni.bg/certificates/details/61695/194070ba" target="_blank">Certificate</a></p>
+</th></tr>
+<!-- Course Body -->
+<tr>
+<td width="50%">
+<p><a title="DBBasics" href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Basics%20-%20MSSQL%20Server" target="_blank">Databases Basics - Exams </a></p>
+</td>
+<td colspan="2" width="50%"></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<!-- Databases Basics -->
+
 <!-- Technology Fundamentals -->
 <hr />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
@@ -53,7 +77,7 @@ Technology Fundamentals - September 2018 <br />
 <!-- Course Body -->
 <tr>
 <td width="50%">
-<p><a title="TechFundamentals" href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals" target="_blank">Technology Fundamentals Homeworks and Exams </a></p>
+<p><a title="TechFundamentals" href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals" target="_blank">Technology Fundamentals - Homeworks and Exams </a></p>
 </td>
 <td colspan="2" width="50%"></td>
 </tr>
@@ -77,7 +101,7 @@ QA Automation - June 2018 <br />
 <!-- Course Body -->
 <tr>
 <td width="50%">
-<p><a title="Automated-UI-Tests" href="https://github.com/PhilShishov/Automated-UI-Tests" target="_blank">Automated-UI-Tests</a></p>
+<p><a title="Automated-UI-Tests" href="https://github.com/PhilShishov/Automated-UI-Tests" target="_blank">Automated UI Tests - Exams</a></p>
 </td>
 <td colspan="2" width="50%"></td>
 </tr>
