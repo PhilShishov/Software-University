@@ -38,7 +38,8 @@ Philip Shishov
 |<a href="https://softuni.bg/trainings/1859/qa-automation-june-2018">QA Automation</a>| <a href="https://softuni.bg/certificates/details/57187/b964283c">Link</a> |
 
 
-<!-- QA Automation --><hr />
+<!-- QA Automation -->
+<hr />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
 <tr><th align="center" width="50%">
@@ -60,3 +61,4 @@ QA Automation - June 2018 <br />
 </table>
 <hr />
 <!-- QA Automation -->
+<hr />
