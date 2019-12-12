@@ -37,6 +37,31 @@ Philip Shishov
 |<a href="https://softuni.bg/trainings/2347/js-apps-july-2019"> JS Apps</a>| <a href=""></a> |
 |<a href="https://softuni.bg/trainings/1859/qa-automation-june-2018">QA Automation</a>| <a href="https://softuni.bg/certificates/details/57187/b964283c">Link</a> |
 
+
+<!-- Technology Fundamentals -->
+<hr />
+<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<tbody>
+<tr><th align="center" width="50%">
+Technology Fundamentals - September 2018 <br /> 
+21.09.2018 - 20.12.2018
+</th>
+<th width="40%">Grade: 5.74 (out of 6.00)<br /> Issue Date: 21/12/2018</th>
+<th>
+<p><a title="Technology Fundamentals" href="https://softuni.bg/certificates/details/61695/194070ba" target="_blank">Certificate</a></p>
+</th></tr>
+<!-- Course Body -->
+<tr>
+<td width="50%">
+<p><a title="TechFundamentals" href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals" target="_blank">Technology Fundamentals Homeworks and Exams </a></p>
+</td>
+<td colspan="2" width="50%"></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<!-- Technology Fundamentals -->
+
 <!-- QA Automation -->
 <hr />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
