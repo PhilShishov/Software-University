@@ -12,8 +12,8 @@
 <img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" />
 Author: 
 <strong>
-<a title="LinkedIn Radoslav Astardzhiev" href="https://www.linkedin.com/in/radoslav-astardzhiev-727602137" target="_blank">
-Radoslav Astardzhiev
+<a title="LinkedIn Philip Shishov" href="https://www.linkedin.com/in/philshishov/" target="_blank">
+Philip Shishov
 </a>
 </strong></p>
 </td>
