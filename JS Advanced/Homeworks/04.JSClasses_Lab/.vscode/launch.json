@@ -29,7 +29,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\P01.js"
+            "program": "${file}"
         }
     ]
 }

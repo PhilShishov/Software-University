@@ -1,4 +1,4 @@
-(function () {
+let result = (function () {
     const suits = {
         CLUBS: '\u2663',
         DIAMONDS: '\u2666',
@@ -44,3 +44,12 @@
         Card: Card
     }
 }());
+
+const Card = result.Card;
+const Suits = result.Suits;
+
+const card = new Card('Q', Suits.CLUBS);
+card.face = 'A';
+card.suit = Suits.DIAMONDS;
+// console.log(card);
+// let card2 = new Card('1', Suits.DIAMONDS);
