@@ -41,7 +41,7 @@ C# OOP - June 2019<br />
 </th>
 <th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date:  19/08/2019</th>
 <th>
-<p><a title="C# OOP" href="https://softuni.bg/certificates/details/69772/dc0ee5bd" target="_blank">Certificate</a></p>
+<p><a title="C# OOP" href="https://softuni.bg/certificates/details/69832/c186b26f" target="_blank">Certificate</a></p>
 </th></tr>
 <!-- Course Body -->
 <tr>
