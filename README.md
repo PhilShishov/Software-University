@@ -46,7 +46,7 @@ C# OOP - June 2019<br />
 <!-- Course Body -->
 <tr>
 <td width="50%">
-<p><a title="C#OOP" href="https://github.com/PhilShishov/Software-University/tree/master/C%23%20Advanced" target="_blank">C# OOP - Homeworks and Exams </a></p>
+<p><a title="C#OOP" href="https://github.com/PhilShishov/Software-University/tree/master/C%23%20OOP" target="_blank">C# OOP - Homeworks and Exams </a></p>
 </td>
 <td colspan="2" width="50%"></td>
 </tr>
