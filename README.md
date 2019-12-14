@@ -26,12 +26,34 @@ Philip Shishov
 
 |**Course**|**Link**| 
 |---|---|
-|<a href="https://softuni.bg/trainings/2348/csharp-advanced-may-2019"> C# Advanced</a>| <a href="https://softuni.bg/certificates/details/69772/dc0ee5bd"> Link</a> |
 |<a href="https://softuni.bg/trainings/2349/csharp-oop-june-2019"> C# OOP</a>| <a href="https://softuni.bg/certificates/details/69832/c186b26f"> Link</a> |
 |<a href="https://softuni.bg/trainings/2345/js-essentials-may-2019#lesson-11732"> JS Essentials</a>| <a href="https://softuni.bg/certificates/details/70131/1b3d2444"> Link</a> |
 |<a href="https://softuni.bg/trainings/2346/js-advanced-june-2019"> JS Advanced</a>| <a href=""></a> |
 |<a href="https://softuni.bg/trainings/2347/js-apps-july-2019"> JS Apps</a>| <a href=""></a> |
-|<a href="https://softuni.bg/trainings/1859/qa-automation-june-2018">QA Automation</a>| <a href="https://softuni.bg/certificates/details/57187/b964283c">Link</a> |
+
+<!-- C# OOP -->
+<hr />
+<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<tbody>
+<tr><th align="center" width="50%">
+C# OOP - May 2019<br /> 
+14.05.2019 - 13.08.2019
+</th>
+<th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date:  19/08/2019</th>
+<th>
+<p><a title="C# OOP" href="https://softuni.bg/certificates/details/69772/dc0ee5bd" target="_blank">Certificate</a></p>
+</th></tr>
+<!-- Course Body -->
+<tr>
+<td width="50%">
+<p><a title="C#OOP" href="https://github.com/PhilShishov/Software-University/tree/master/C%23%20Advanced" target="_blank">C# OOP - Homeworks and Exams </a></p>
+</td>
+<td colspan="2" width="50%"></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<!-- C# OOP -->
 
 <!-- C# Advanced -->
 <hr />
