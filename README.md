@@ -45,7 +45,7 @@ JS Essentials - May 2019<br />
 <!-- Course Body -->
 <tr>
 <td width="50%">
-<p><a title="JSEssentials" href="https://github.com/PhilShishov/Software-University/tree/master/C%23%20OOP" target="_blank">C# OOP - Homeworks and Exams </a></p>
+<p><a title="JSEssentials" href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Essentials" target="_blank">JS Essentials - Homeworks and Exams </a></p>
 </td>
 <td colspan="2" width="50%"></td>
 </tr>
