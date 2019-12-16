@@ -34,17 +34,17 @@ Philip Shishov
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
 <tr><th align="center" width="50%">
-JS Advanced - May 2019<br /> 
-14.05.2019 - 06.08.2019
+JS Advanced - June 2019<br /> 
+11.06.2019 - 08.08.2019
 </th>
-<th width="40%">Grade: 5.08 (out of 6.00)<br /> Issue Date:  21/08/2019</th>
+<th width="40%">Grade:  (out of 6.00)<br /> Issue Date:  21/08/2019</th>
 <th>
-<p><a title="JS Advanced" href="https://softuni.bg/certificates/details/70131/1b3d2444" target="_blank">Certificate</a></p>
+<p><a title="JS Advanced" href="" target="_blank">Certificate</a></p>
 </th></tr>
 <!-- Course Body -->
 <tr>
 <td width="50%">
-<p><a title="JSAdvanced" href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Essentials" target="_blank">JS Essentials - Homeworks and Exams </a></p>
+<p><a title="JSAdvanced" href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Essentials" target="_blank">JS Advanced - Homeworks and Exams </a></p>
 </td>
 <td colspan="2" width="50%"></td>
 </tr>
