@@ -26,7 +26,6 @@ Philip Shishov
 
 |**Course**|**Link**| 
 |---|---|
-|<a href="https://softuni.bg/trainings/2346/js-advanced-june-2019"> JS Advanced</a>| <a href=""></a> |
 |<a href="https://softuni.bg/trainings/2347/js-apps-july-2019"> JS Apps</a>| <a href=""></a> |
 
 <!-- JS Advanced -->
@@ -44,7 +43,7 @@ JS Advanced - June 2019<br />
 <!-- Course Body -->
 <tr>
 <td width="50%">
-<p><a title="JSAdvanced" href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Essentials" target="_blank">JS Advanced - Homeworks and Exams </a></p>
+<p><a title="JSAdvanced" href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced" target="_blank">JS Advanced - Homeworks and Exams </a></p>
 </td>
 <td colspan="2" width="50%"></td>
 </tr>
