@@ -26,7 +26,6 @@ Philip Shishov
 
 |**Course**|**Link**| 
 |---|---|
-|<a href="https://softuni.bg/trainings/2345/js-essentials-may-2019#lesson-11732"> JS Essentials</a>| <a href="https://softuni.bg/certificates/details/70131/1b3d2444"> Link</a> |
 |<a href="https://softuni.bg/trainings/2346/js-advanced-june-2019"> JS Advanced</a>| <a href=""></a> |
 |<a href="https://softuni.bg/trainings/2347/js-apps-july-2019"> JS Apps</a>| <a href=""></a> |
 
