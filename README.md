@@ -22,11 +22,29 @@ Philip Shishov
 </table>
 <!-- Head End -->
 
-<h2> Certificates </h2>
-
-|**Course**|**Link**| 
-|---|---|
-|<a href="https://softuni.bg/trainings/2347/js-apps-july-2019"> JS Apps</a>| <a href=""></a> |
+<!-- JS Apps -->
+<hr />
+<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<tbody>
+<tr><th align="center" width="50%">
+JS Apps - June 2019<br /> 
+11.06.2019 - 08.08.2019
+</th>
+<th width="40%">Grade:  (out of 6.00)<br /> Issue Date: </th>
+<th>
+<p><a title="JS Apps" href="" target="_blank">Certificate</a></p>
+</th></tr>
+<!-- Course Body -->
+<tr>
+<td width="50%">
+<p><a title="JSApps" href="" target="_blank">JS Apps - Homeworks and Exams </a></p>
+</td>
+<td colspan="2" width="50%"></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<!-- JS Apps -->
 
 <!-- JS Advanced -->
 <hr />
@@ -36,7 +54,7 @@ Philip Shishov
 JS Advanced - June 2019<br /> 
 11.06.2019 - 08.08.2019
 </th>
-<th width="40%">Grade:  (out of 6.00)<br /> Issue Date:  21/08/2019</th>
+<th width="40%">Grade:  (out of 6.00)<br /> Issue Date: </th>
 <th>
 <p><a title="JS Advanced" href="" target="_blank">Certificate</a></p>
 </th></tr>
