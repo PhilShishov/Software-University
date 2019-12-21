@@ -28,7 +28,7 @@ Philip Shishov
 <tbody>
 <tr><th align="center" width="50%">
 JS Apps - June 2019<br /> 
-11.06.2019 - 08.08.2019
+09.07.2019 - 10.08.2019
 </th>
 <th width="40%">Grade:  (out of 6.00)<br /> Issue Date: </th>
 <th>
