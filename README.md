@@ -22,20 +22,101 @@ Philip Shishov
 </table>
 <!-- Head End -->
 
-<h2> Certificates </h2>
+<!-- JS Apps -->
+<hr />
+<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<tbody>
+<tr><th align="center" width="50%">
+JS Apps - June 2019<br /> 
+09.07.2019 - 10.08.2019
+</th>
+<th width="40%">Grade:  (out of 6.00)<br /> Issue Date: </th>
+<th>
+<p><a title="JS Apps" href="" target="_blank">Certificate</a></p>
+</th></tr>
+<!-- Course Body -->
+<tr>
+<td width="50%">
+<p><a title="JSApps" href="" target="_blank">JS Apps - Homeworks and Exams </a></p>
+</td>
+<td colspan="2" width="50%"></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<!-- JS Apps -->
 
-|**Course**|**Link**| 
-|---|---|
-|<a href="https://softuni.bg/trainings/1992/programming-basics-with-csharp-june-2018" > Programming Basics </a>   | <a href="https://softuni.bg/certificates/details/56640/ddcc51d5"> Link</a> |
-|<a href="https://softuni.bg/trainings/2056/technology-fundamental-september-2018"> Technology Fundamentals </a>| <a href="https://softuni.bg/certificates/details/61695/194070ba"> Link</a> |
-|<a href="https://softuni.bg/trainings/2266/databases-basics-ms-sql-server-january-2019"> Databases Basics - MS SQL Server </a>| <a href="https://softuni.bg/certificates/details/65023/d265a4f9"> Link</a> |
-|<a href="https://softuni.bg/trainings/2251/databases-advanced-entity-framework-february-2019"> Databases Advanced - Entity Framework </a>| <a href="https://softuni.bg/certificates/details/65205/5698d9cd"> Link</a> |
-|<a href="https://softuni.bg/trainings/2348/csharp-advanced-may-2019"> C# Advanced</a>| <a href="https://softuni.bg/certificates/details/69772/dc0ee5bd"> Link</a> |
-|<a href="https://softuni.bg/trainings/2349/csharp-oop-june-2019"> C# OOP</a>| <a href="https://softuni.bg/certificates/details/69832/c186b26f"> Link</a> |
-|<a href="https://softuni.bg/trainings/2345/js-essentials-may-2019#lesson-11732"> JS Essentials</a>| <a href="https://softuni.bg/certificates/details/70131/1b3d2444"> Link</a> |
-|<a href="https://softuni.bg/trainings/2346/js-advanced-june-2019"> JS Advanced</a>| <a href=""></a> |
-|<a href="https://softuni.bg/trainings/2347/js-apps-july-2019"> JS Apps</a>| <a href=""></a> |
-|<a href="https://softuni.bg/trainings/1859/qa-automation-june-2018">QA Automation</a>| <a href="https://softuni.bg/certificates/details/57187/b964283c">Link</a> |
+<!-- JS Advanced -->
+<hr />
+<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<tbody>
+<tr><th align="center" width="50%">
+JS Advanced - June 2019<br /> 
+11.06.2019 - 08.08.2019
+</th>
+<th width="40%">Grade:  (out of 6.00)<br /> Issue Date: </th>
+<th>
+<p><a title="JS Advanced" href="" target="_blank">Certificate</a></p>
+</th></tr>
+<!-- Course Body -->
+<tr>
+<td width="50%">
+<p><a title="JSAdvanced" href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced" target="_blank">JS Advanced - Homeworks and Exams </a></p>
+</td>
+<td colspan="2" width="50%"></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<!-- JS Advanced -->
+
+<!-- JS Essentials -->
+<hr />
+<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<tbody>
+<tr><th align="center" width="50%">
+JS Essentials - May 2019<br /> 
+14.05.2019 - 06.08.2019
+</th>
+<th width="40%">Grade: 5.08 (out of 6.00)<br /> Issue Date:  21/08/2019</th>
+<th>
+<p><a title="JS Essentials" href="https://softuni.bg/certificates/details/70131/1b3d2444" target="_blank">Certificate</a></p>
+</th></tr>
+<!-- Course Body -->
+<tr>
+<td width="50%">
+<p><a title="JSEssentials" href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Essentials" target="_blank">JS Essentials - Homeworks and Exams </a></p>
+</td>
+<td colspan="2" width="50%"></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<!-- JS Essentials -->
+
+<!-- C# OOP -->
+<hr />
+<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<tbody>
+<tr><th align="center" width="50%">
+C# OOP - June 2019<br /> 
+28.06.2019 - 15.08.2019
+</th>
+<th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date:  19/08/2019</th>
+<th>
+<p><a title="C# OOP" href="https://softuni.bg/certificates/details/69832/c186b26f" target="_blank">Certificate</a></p>
+</th></tr>
+<!-- Course Body -->
+<tr>
+<td width="50%">
+<p><a title="C#OOP" href="https://github.com/PhilShishov/Software-University/tree/master/C%23%20OOP" target="_blank">C# OOP - Homeworks and Exams </a></p>
+</td>
+<td colspan="2" width="50%"></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<!-- C# OOP -->
 
 <!-- C# Advanced -->
 <hr />
