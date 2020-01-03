@@ -41,7 +41,7 @@ function cars(input) {
     }
 }
 
-solve(['create c1',
+cars(['create c1',
     'create c2 inherit c1',
     'set c1 color red',
     'set c2 model new',
