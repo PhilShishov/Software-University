@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Sawarabi+Mincho&display=swap');
+
+html {
+    font-family: 'Sawarabi Mincho', sans-serif;
+}
+
+#wrapper {
+    margin: auto;
+    width: 800px;
+    overflow: hidden;
+    background-color: whitesmoke;
+    border-radius: 15px;
+}
+        
+#header {
+    font-size: 300%; 
+    font-weight: bold;
+    text-align: center;
+    color: deepskyblue;
+    letter-spacing: 17px;
+}
+
+#menu {
+    padding: 0.5em;
+    text-align: center;
+}
+
+#menu a {
+    text-decoration: none;
+    margin-left: 1em; 
+    margin-right: 1em;
+    color: black;
+}
+        
+#content {
+    width: 500px; float: left;
+}
+    
+.article {
+    padding: 2em;
+    border: 1px solid deepskyblue;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 15px;
+}
+        
+.article .title {
+    font-size: 150%;
+    letter-spacing: 5px;
+}
+
+#sidebar {
+    width: 181px;
+    float: right;
+    border: 2px dashed deepskyblue;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-right: none;
+    margin-top: 15px;
+    background-color: lightgray;
+}
+
+#sidebar ul {
+    padding: 0px;
+}
+
+#sidebar ul li {
+    list-style: none;
+    text-align: center;
+}
+
+#sidebar ul li a {
+    text-decoration: none; 
+    color: black;
+}
+
+#sidebar ul li:hover {
+     color: black;
+     background-color: white;
+}
+
+#footer {
+    text-align: center; 
+    clear: both; 
+    height: 2em;
+    background-color: lightblue;
+    padding-top: 5px;
+}
+
+.highlight {
+    border: 1px solid red; background-color: pink;
+}
