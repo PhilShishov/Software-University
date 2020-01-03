@@ -12,6 +12,7 @@
 5. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced/Homeworks/03.UnitTesting_Lab" > Unit Testing - Lab</a>
 6. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced/Homeworks/03.UnitTesting_Exercise" > Unit Testing - Exercise</a>
 7. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced/Homeworks/04.JSClasses_Lab" > JS Classes - Lab</a>
+8. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced/Homeworks/04.JSClasses_Exercise" > JS Classes - Exercise</a>
 
 ## Exams
 - <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Essentials/Exams/JEExam_1May2019" >JEExam 1May2019</a>
