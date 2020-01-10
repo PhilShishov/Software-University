@@ -1,4 +1,4 @@
-const PizzUni = require('./PizzUni');
+const PizzUni = require('./pizzuni');
 const assert = require('chai').assert;
 
 describe('PizzUni Tests', function () {
