@@ -49,7 +49,7 @@ describe('PizzUni Tests', function () {
 
         assert.throw(() => pizzUni.makeAnOrder('gmail.com', null, 'water'), 
         'You must order at least 1 Pizza to finish the order.');
-    });    
+    });
 
     it('makeAnOrder should add pizza and cola to user orders', function () {
         pizzUni.registerUser('abv.bg');
