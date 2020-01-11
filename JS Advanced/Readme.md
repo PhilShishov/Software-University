@@ -18,4 +18,4 @@
 11. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced/Homeworks/06.PrototypesInheritance_Lab" > Prototypes Inheritance - Lab</a>
 
 ## Exams
-- <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Essentials/Exams/JEExam_1May2019" >JEExam 1May2019</a>
+- <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced/Exams/JSA_Exam1July2019" >JSA Exam 1July2019</a>
