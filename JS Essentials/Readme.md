@@ -15,7 +15,7 @@
 8. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Essentials/Homeworks/04.StringsAndRegEx_Exercise" > Strings, Regex - Exercise</a>
 
 ## Exams
-- <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Essentials/Exams/JEExam_1May2019" >JEExam 1May2019</a> 
-- <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Essentials/Exams/JEExam_2May2019" >JEExam 2May2019</a> 
-- <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Essentials/Exams/JEExam_9Jun2019" >JEExam 9Jun2019</a> 
-- <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Essentials/Exams/JEExam_6Aug2019" >JEExam 6Aug2019</a> 
+- <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Essentials/Exams/JEExam_1May2019" >1 May 2019</a> 
+- <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Essentials/Exams/JEExam_2May2019" >2 May 2019</a> 
+- <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Essentials/Exams/JEExam_9Jun2019" >9 Jun 2019</a> 
+- <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Essentials/Exams/JEExam_6Aug2019" >6 Aug 2019</a> 
