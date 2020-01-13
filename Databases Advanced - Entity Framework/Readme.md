@@ -20,7 +20,7 @@
 
 
 ## Exams
-- <a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Exams/DAExam_12Aug2018" > DAExam 12Aug2018</a> 
-- <a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Exams/DAExam_1Sept2018" > DAExam 1Sept2018</a> 
-- <a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Exams/DAExam_7Apr2019" > DAExam 7Apr2019</a> 
-- <a href="https://https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Exams/DAExam_18Apr2019" > DAExam 18Apr2019</a> 
+- <a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Exams/DAExam_12Aug2018" >12 Aug 2018</a> 
+- <a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Exams/DAExam_1Sept2018" >1 Sept 2018</a> 
+- <a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Exams/DAExam_7Apr2019" >7 Apr 2019</a> 
+- <a href="https://https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Exams/DAExam_18Apr2019" >18 Apr 2019</a> 
