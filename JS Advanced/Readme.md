@@ -19,3 +19,4 @@
 
 ## Exams
 - <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced/Exams/JSA_Exam1July2019" >JSA Exam 1July2019</a>
+- <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced/Exams/JSA_Exam7July2019" >JSA Exam 7July2019</a>
