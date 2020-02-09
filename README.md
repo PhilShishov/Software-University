@@ -32,7 +32,7 @@ JS Apps - June 2019<br />
 </th>
 <th width="40%">Grade:  (out of 6.00)<br /> Issue Date: </th>
 <th>
-<p><a title="JS Apps" href="" target="_blank">Certificate</a></p>
+<p><a title="JS Apps" href="" target="_blank"></a></p>
 </th></tr>
 <!-- Course Body -->
 <tr>
@@ -56,7 +56,7 @@ JS Advanced - June 2019<br />
 </th>
 <th width="40%">Grade:  (out of 6.00)<br /> Issue Date: </th>
 <th>
-<p><a title="JS Advanced" href="" target="_blank">Certificate</a></p>
+<p><a title="JS Advanced" href="" target="_blank"></a></p>
 </th></tr>
 <!-- Course Body -->
 <tr>
