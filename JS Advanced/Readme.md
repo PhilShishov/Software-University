@@ -21,4 +21,5 @@
 - <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced/Exams/JSA_Exam18Apr2019" >18 Apr 2019</a>
 - <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced/Exams/JSA_Exam1July2019" >1 July 2019</a>
 - <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced/Exams/JSA_Exam7July2019" >7 July 2019</a>
+- <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced/Exams/JSA_Exam8Aug2019" >8 Aug 2019</a>
 
