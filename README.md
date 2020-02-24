@@ -37,7 +37,7 @@ JS Apps - June 2019<br />
 <!-- Course Body -->
 <tr>
 <td width="50%">
-<p><a title="JSApps" href="" target="_blank">JS Apps - Homeworks and Exams </a></p>
+<p><a title="JSApps" href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Apps" target="_blank">JS Apps - Homeworks and Exams </a></p>
 </td>
 <td colspan="2" width="50%"></td>
 </tr>
