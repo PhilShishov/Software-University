@@ -5,6 +5,6 @@
 
 
 ## Exercises and labs
-1. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced/Homeworks/01.AdvancedFunctions_Lab" > Advanced Functions - Lab</a> 
+1. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Apps/Homeworks/01.RestServicesAjax_Lab" > Rest Services Ajax - Lab</a> 
 
 ## Exams
