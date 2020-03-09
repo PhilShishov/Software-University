@@ -6,5 +6,6 @@
 
 ## Exercises and labs
 1. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Apps/Homeworks/01.RestServicesAjax_Lab" > Rest Services Ajax - Lab</a> 
+2. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Apps/Homeworks/01.RestServicesAjax_Exercise" > Rest Services Ajax - Exercise</a> 
 
 ## Exams
