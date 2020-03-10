@@ -73,16 +73,16 @@ function attachEvents() {
   }
 
   function parseData() {
-    return resources => {
-      if (!resources.ok) {
+    return response => {
+      if (!response.ok) {
         throw new Error(
           JSON.stringify({
-            status: resources.status,
-            statusText: resources.statusText
+            status: response.status,
+            statusText: response.statusText
           })
         );
       }
-      return resources.json();
+      return response.json();
     };
   }
 
