@@ -5,7 +5,7 @@
 
 
 ## Exercises and labs
-1. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/01.StacksAndQueues_Lab" > Stacks & Queues - Lab</a> 
+1. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23%20Advanced/Homeworks/01.StacksAndQueues_Lab" > Stacks & Queues - Lab</a> 
 2. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/01.StacksAndQueues_Exercise" > Stacks & Queues - Exercise</a> 
 3. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/02.MultidimensionalArrays_Lab" > Multidimensional Arrays - Lab</a> 
 4. <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23Advanced/Homeworks/02.MultidimensionalArrays_Exercise" > Multidimensional Arrays - Exercise</a> 
