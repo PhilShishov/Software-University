@@ -9,7 +9,9 @@
 <h2>JavaScript</h2>
 </td>
 <td align="center" width="33%"><img src="https://i.ibb.co/HpWr928/IMG-Philip-Shishov-Large.jpg" width="250" alt="" /> </br>
-<img src="https://www.linkedin.com/favicon.ico" href="https://www.linkedin.com/in/philshishov/" target="_blank" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/philshishov/" target="_blank">
+    <img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" />
+  </a>
 Author: 
 <strong>
 <a title="LinkedIn Philip Shishov" href="https://www.linkedin.com/in/philshishov/" target="_blank">
