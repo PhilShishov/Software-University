@@ -1,34 +1,27 @@
 function caffeineStudy(days) {
 
+    let coffeeConsumption = ((3 * 150) / 100) * 40;
+    let colaConsumption = ((2 * 250) / 100) * 8;
+    let teaConsumption = ((3 * 350) / 100) * 20;
+    let energyConsumption = ((3 * 500) / 100) * 30;
+
     let consumedCaffeine = 0;
-    let coffeeCaffeine = 40;
-    let colaCaffeine = 8;
-    let teaCaffeine = 20;
-    let energyCaffeine = 30;
 
-    let consumedCoffee = ((3 * 150) / 100) * coffeeCaffeine;
-    let consumedCola = ((2 * 250) / 100) * colaCaffeine;
-    let consumedTea = ((3 * 350) / 100) * teaCaffeine;
-    let consumedEnergy = ((3 * 500) / 100) * energyCaffeine;
+    for (let day = 1; day <= days; day++) {
+        consumedCaffeine += coffeeConsumption + colaConsumption + teaConsumption;
 
-    for (let i = 1; i <= days; i++) {
-
-        consumedCaffeine += consumedCoffee + consumedCola + consumedTea;
-
-        if (i % 5 == 0) {
-            consumedCaffeine += consumedEnergy;
+        if (day % 5 === 0) {
+            consumedCaffeine += energyConsumption;
         }
 
-        if (i % 9 == 0) {
-            consumedCaffeine += consumedCola * 2;
+        if (day % 9 === 0) {
+            consumedCaffeine += colaConsumption * 2;
             consumedCaffeine += 300;
         }
     }
 
-    console.log(`${consumedCaffeine} milligrams of caffeine were consumed`);
+    console.log(`${consumedCaffeine} milligrams of caffeine were consumed`)
 }
 
-caffeineStudy(1);
 caffeineStudy(5);
 caffeineStudy(8);
-caffeineStudy(9);

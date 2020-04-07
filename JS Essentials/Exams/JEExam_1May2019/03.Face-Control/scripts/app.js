@@ -1,76 +1,84 @@
 function getData() {
+    const input = JSON.parse(document.getElementsByTagName('textarea')[0].value);
 
-	const input = JSON.parse(document.querySelector('textarea').value);
+    const peopleInSection = document.getElementById('peopleIn').getElementsByTagName('p')[0];
+    const peopleOutSection = document.getElementById('peopleOut').getElementsByTagName('p')[0];
+    const blacklistSection = document.getElementById('blacklist').getElementsByTagName('p')[0];
 
-	const peopleInSection = document.querySelector('#peopleIn p');
-	const blacklistSection = document.querySelector('#blacklist p');
-	const peopleOutSection = document.querySelector('#peopleOut p');
+    let peopleIn = [];
+    let peopleOut = [];
+    let blacklist = [];
 
-	let lastElement = input.pop();
+    const lastElement = input.pop();
 
-	let peopleIn = [];
-	let peopleOut = [];
-	let blacklist = [];
+    for (const line of input) {
 
-	for (let person of input) {
+        let firstName = line.firstName;
+        let lastName = line.lastName;
+        let action = line.action;
 
-		let firstName = person.firstName;
-		let lastName = person.lastName;
-		let action = person.action;
+        let person = {
+            firstName,
+            lastName
+        };
 
-		let currentPerson = {
-			firstName,
-			lastName
-		};
-		let index = peopleIn.findIndex(p => p.firstName === currentPerson.firstName &&
-			p.lastName === currentPerson.lastName);
+        let index = peopleIn.findIndex(p => p.firstName === person.firstName &&
+            p.lastName === person.lastName);
 
-		if (action === "peopleIn") {
-			if (!isPerson(blacklist, currentPerson)) {
-				peopleIn.push(currentPerson);
-			}
+        switch (action) {
+            case 'peopleIn':
+                if (!doesExist(blacklist, person)) {
+                    peopleIn.push(person);
+                }
+                break;
+            case 'peopleOut':
+                if (index > -1) {
+                    peopleIn.splice(index, 1);
+                    peopleOut.push(person);
+                }
+                break;
+            case 'blacklist':
+                if (index > -1) {
+                    peopleIn.splice(index, 1);
+                    peopleOut.push(person);
+                }
+                blacklist.push(person);
+                break;
+        }
+    }
 
-		} else if (action === "peopleOut") {
-			if (isPerson(peopleIn, currentPerson)) {
+    if (lastElement.action !== '' && lastElement.criteria !== '') {
 
-				peopleIn.splice(index, 1);
-				peopleOut.push(currentPerson);
-			}
-		} else if (action === "blacklist") {
-			if (isPerson(peopleIn, currentPerson)) {
+        switch (lastElement.action) {
+            case 'peopleIn':
+                peopleIn.sort((a, b) => a[lastElement.criteria]
+                    .localeCompare(b[lastElement.criteria]));
+                break;
+            case 'peopleOut':
+                peopleOut.sort((a, b) => a[lastElement.criteria]
+                    .localeCompare(b[lastElement.criteria]));
+                break;
+            case 'blacklist':
+                blacklist.sort((a, b) => a[lastElement.criteria]
+                    .localeCompare(b[lastElement.criteria]));
+                break;
+        }
+    }
 
-				peopleIn.splice(index, 1);
-				peopleOut.push(currentPerson);
-			}
-			blacklist.push(currentPerson);
-		}
-	}
+    for (const person of peopleIn) {
+        peopleInSection.innerHTML += JSON.stringify(person) + ' ';
+    }
 
-	let output = {};
+    for (const person of peopleOut) {
+        peopleOutSection.innerHTML += JSON.stringify(person) + ' ';
+    }
 
-	output['peopleIn'] = peopleIn;
-	output['peopleOut'] = peopleOut;
-	output['blacklist'] = blacklist;
+    for (const person of blacklist) {
+        blacklistSection.innerHTML += JSON.stringify(person) + ' ';
+    }
 
-	if (lastElement.action !== '' && lastElement.criteria !== '') {
-		let criteria = lastElement.criteria;
-		output[lastElement.action] = output[lastElement.action]
-			.sort((a, b) => a[criteria]
-				.localeCompare(b[criteria]));
-	}
-
-	mapTextContent(peopleInSection, output.peopleIn);
-	mapTextContent(peopleOutSection, output.peopleOut);
-	mapTextContent(blacklistSection, output.blacklist);
-
-	function mapTextContent(section, output) {
-		section.textContent = output
-		.map(p => JSON.stringify(p))
-		.join(' ');
-	}
-
-	function isPerson(currentArr, currentPerson) {
-		return currentArr.find(p => p.firstName === currentPerson.firstName &&
-			p.lastName === currentPerson.lastName)
-	}
+    function doesExist(currentArr, currentPerson) {
+        return currentArr.find(p => p.firstName === currentPerson.firstName &&
+            p.lastName === currentPerson.lastName)
+    }
 }

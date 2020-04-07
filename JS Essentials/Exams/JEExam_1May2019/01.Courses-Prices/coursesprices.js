@@ -1,40 +1,43 @@
-function coursesPrices(jsFund, jsAdv, jsApp, eduForm) {
+function coursesPrices(jsFund, jsAdv, jsApp, form) {
 
     let jsFundPrice = 170;
     let jsAdvPrice = 180;
     let jsAppPrice = 190;
 
-    let totalPrice = 0;
+    let total = 0;
 
-    if (eduForm === 'online') {
+    if (form === 'online') {
         jsFundPrice -= jsFundPrice * 0.06;
         jsAdvPrice -= jsAdvPrice * 0.06;
         jsAppPrice -= jsAppPrice * 0.06;
     }
 
     if (jsFund) {
-        totalPrice += jsFundPrice;
+        total += jsFundPrice;
     }
-
     if (jsAdv) {
         if (jsFund && jsAdv) {
             jsAdvPrice -= jsAdvPrice * 0.10;
         }
-        totalPrice += jsAdvPrice;
-
+        total += jsAdvPrice;
     }
-
     if (jsApp) {
-        totalPrice += jsAppPrice;
+        total += jsAppPrice;
     }
 
     if (jsFund && jsAdv && jsApp) {
-        totalPrice -= totalPrice * 0.06;
+        total = (jsFundPrice + jsAdvPrice + jsAppPrice);
+        total -= total * 0.06;
     }
-    
-    console.log(Math.round(totalPrice));
+
+    console.log(Math.floor(total));
 }
 
 coursesPrices(true, false, false, "onsite");
 coursesPrices(true, false, false, "online");
 coursesPrices(true, true, false, "onsite");
+coursesPrices(false, false, false, "onsite");
+coursesPrices(true, false, true, "onsite");
+coursesPrices(true, false, true, "online");
+coursesPrices(true, true, true, "onsite");
+coursesPrices(true, true, true, "online");

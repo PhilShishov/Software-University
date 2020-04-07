@@ -1,69 +1,72 @@
 function spaceshipCrafting() {
+    const availableBars = document.getElementById('availableBars').getElementsByTagName('p')[0];
+    const builtSpaceshipsSection = document.getElementById('builtSpaceships').getElementsByTagName('p')[0];
+    const inputFields = document.getElementById('inputs').getElementsByTagName('input');
 
-	let titanium = document.getElementById('titaniumCoreFound').value;
-	let aluminium = document.getElementById('aluminiumCoreFound').value;
-	let magnesium = document.getElementById('magnesiumCoreFound').value;
-	let carbon = document.getElementById('carbonCoreFound').value;
-	let lossesPercent = document.getElementById('lossesPercent').value / 4;
+    let titanium = inputFields[0].value;
+    let aluminium = inputFields[1].value;
+    let magnesium = inputFields[2].value;
+    let carbon = inputFields[3].value;
+    let lossesPercent = (inputFields[4].value / 4) / 100;
 
-	let titaniumBar = Math.round((titanium - titanium * lossesPercent / 100) / 25);
-	let aluminiumBar = Math.round((aluminium - aluminium * lossesPercent / 100) / 50);
-	let magnesiumBar = Math.round((magnesium - magnesium * lossesPercent / 100) / 75);
-	let carbonBar = Math.round((carbon - carbon * lossesPercent / 100) / 100);
+    titanium -= titanium * lossesPercent;
+    let titaniumBar = Math.floor(titanium / 25);
 
-	let availableBars = document.getElementsByTagName('p')[0];
-	let builtSpaceshipsSection = document.getElementsByTagName('p')[1];
+    aluminium -= aluminium * lossesPercent;
+    let aluminiumBar = Math.floor(aluminium / 50);
 
-	let spaceships = [
-		['THE-UNDEFINED-SHIP', 0],
-		['NULL-MASTER', 0],
-		['JSON-CREW', 0],
-		['FALSE-FLEET', 0]
-	]
+    magnesium -= magnesium * lossesPercent;
+    let magnesiumBar = Math.floor(magnesium / 75);
 
-	while (titaniumBar >= 2 && aluminiumBar >= 2 && magnesiumBar >= 3 && carbonBar >= 1) {
-		if (titaniumBar >= 7 && aluminiumBar >= 9 && magnesiumBar >= 7 && carbonBar >= 7) {
-			spaceships[0][1]++;
-			titaniumBar -= 7;
-			aluminiumBar -= 9;
-			magnesiumBar -= 7;
-			carbonBar -= 7;
-		}
+    carbon -= carbon * lossesPercent;
+    let carbonBar = Math.floor(carbon / 100);
 
-		if (titaniumBar >= 5 && aluminiumBar >= 7 && magnesiumBar >= 7 && carbonBar >= 5) {
-			spaceships[1][1]++;
-			titaniumBar -= 5;
-			aluminiumBar -= 7;
-			magnesiumBar -= 7;
-			carbonBar -= 5;
-		}
+    let spaceships = [
+        ['THE-UNDEFINED-SHIP', 0],
+        ['NULL-MASTER', 0],
+        ['JSON-CREW', 0],
+        ['FALSE-FLEET', 0]
+    ]
 
-		if (titaniumBar >= 3 && aluminiumBar >= 5 && magnesiumBar >= 5 && carbonBar >= 2) {
-			spaceships[2][1]++;
-			titaniumBar -= 3;
-			aluminiumBar -= 5;
-			magnesiumBar -= 5;
-			carbonBar -= 2;
-		}
+    while (titaniumBar >= 2 && aluminiumBar >= 2 && magnesiumBar >= 3 && carbonBar >= 1) {
+        if (titaniumBar >= 7 && aluminiumBar >= 9 && magnesiumBar >= 7 && carbonBar >= 7) {
+            spaceships[0][1]++;
+            titaniumBar -= 7;
+            aluminiumBar -= 9;
+            magnesiumBar -= 7;
+            carbonBar -= 7;
+        }
+        if (titaniumBar >= 5 && aluminiumBar >= 7 && magnesiumBar >= 7 && carbonBar >= 5) {
+            spaceships[1][1]++;
+            titaniumBar -= 5;
+            aluminiumBar -= 7;
+            magnesiumBar -= 7;
+            carbonBar -= 5;
+        }
+        if (titaniumBar >= 3 && aluminiumBar >= 5 && magnesiumBar >= 5 && carbonBar >= 2) {
+            spaceships[2][1]++;
+            titaniumBar -= 3;
+            aluminiumBar -= 5;
+            magnesiumBar -= 5;
+            carbonBar -= 2;
+        }
+        if (titaniumBar >= 2 && aluminiumBar >= 2 && magnesiumBar >= 3 && carbonBar >= 1) {
+            spaceships[3][1]++;
+            titaniumBar -= 2;
+            aluminiumBar -= 2;
+            magnesiumBar -= 3;
+            carbonBar -= 1;
+        }
+    }
 
-		if (titaniumBar >= 2 && aluminiumBar >= 2 && magnesiumBar >= 3 && carbonBar >= 1) {
-			spaceships[3][1]++;
-			titaniumBar -= 2;
-			aluminiumBar -= 2;
-			magnesiumBar -= 3;
-			carbonBar -= 1;
-		}
-	}
+    let builtSpaceships = spaceships.filter(s => s[1] > 0);
 
-	availableBars.textContent = `${titaniumBar} titanium bars, ${aluminiumBar} aluminum bars, ${magnesiumBar} magnesium bars, ${carbonBar} carbon bars`;
+    let result = [];
 
-	let builtSpaceships = spaceships.filter(s => s[1] > 0);
+    for (const spaceship of builtSpaceships) {
+        result.push(`${spaceship[1]} ${spaceship[0]}`);
+    }
+    builtSpaceshipsSection.textContent = result.join(', ');
 
-	result = [];
-
-	for (let i = 0; i < builtSpaceships.length; i++) {
-		result.push(`${builtSpaceships[i][1]} ${builtSpaceships[i][0]}`);
-	}
-
-	builtSpaceshipsSection.textContent = result.join(', ');
+    availableBars.textContent = `${titaniumBar} titanium bars, ${aluminiumBar} aluminum bars, ${magnesiumBar} magnesium bars, ${carbonBar} carbon bars`;
 }

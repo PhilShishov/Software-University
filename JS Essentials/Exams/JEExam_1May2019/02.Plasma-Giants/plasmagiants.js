@@ -1,63 +1,60 @@
-function plasmaGiants(plasmaArr, sizeCut) {
+function plasmaGiants(plasmaArr, cutSize) {
 
-    if (sizeCut === 0) {
+    if (cutSize === 0) {
         return;
-    }    
-
-    const halfwayThrough = Math.floor(plasmaArr.length / 2);
-
-    let firstGiantArr = plasmaArr.slice(0, halfwayThrough);
-    let secondGiantArr = plasmaArr.slice(halfwayThrough, plasmaArr.length);
-
-    let firstGiantArrSplit = splitArrayIntoNArrays(firstGiantArr, sizeCut);
-    let secondGiantArrSplit = splitArrayIntoNArrays(secondGiantArr, sizeCut);
-
-    let firstGiant = getTotalProductArr(firstGiantArrSplit);
-    let secondGiant = getTotalProductArr(secondGiantArrSplit);
-
-    makeFight();
-
-    function makeFight() {
-
-        const minDamage = Math.min(...plasmaArr);
-        const maxNum = Math.max(...plasmaArr);
-        let rounds = 1;
-        while (firstGiant > maxNum && secondGiant > maxNum && minDamage != 0) {
-            rounds++;
-            firstGiant -= minDamage;
-            secondGiant -= minDamage;
-        }
-        if (firstGiant > secondGiant) {
-            console.log(`First Giant defeated Second Giant with result ${firstGiant} - ${secondGiant} in ${rounds} rounds`);
-        }
-        else if (secondGiant > firstGiant) {
-            console.log(`Second Giant defeated First Giant with result ${secondGiant} - ${firstGiant} in ${rounds} rounds`);
-        }
-        else {
-            console.log(`Its a draw ${firstGiant} - ${secondGiant}`);
-        }
     }
 
-    function getTotalProductArr(giantArrSpl) {
+    const halfway = Math.floor(plasmaArr.length / 2);
+
+    let firstGiantArr = plasmaArr.slice(0, halfway);
+    let secondGiantArr = plasmaArr.slice(halfway, plasmaArr.length);
+
+    let firstGiantArrSpl = splitIntoNArray(firstGiantArr);
+    let secondGiantArrSpl = splitIntoNArray(secondGiantArr);
+
+    let firstGiant = getTotalProduct(firstGiantArrSpl);
+    let secondGiant = getTotalProduct(secondGiantArrSpl);
+
+    const damagePerHit = Math.min.apply(0, plasmaArr);
+    const endPoint = Math.max.apply(0, plasmaArr);
+    let rounds = 1;
+
+    while (firstGiant > endPoint && secondGiant > endPoint && damagePerHit > 0) {
+        firstGiant -= damagePerHit;
+        secondGiant -= damagePerHit;
+        rounds++;
+    }
+
+    if (firstGiant > secondGiant) {
+        console.log(`First Giant defeated Second Giant with result ${firstGiant} - ${secondGiant} in ${rounds} rounds`);
+    } else if (secondGiant > firstGiant) {
+        console.log(`Second Giant defeated First Giant with result ${secondGiant} - ${firstGiant} in ${rounds} rounds`);
+    } else {
+        console.log(`Its a draw ${firstGiant} – ${secondGiant}`);
+    }
+
+    function getTotalProduct(giantArr) {
         let total = 0;
-        for (let arr of giantArrSpl) {
+
+        for (const arr of giantArr) {
             total += arr.reduce((a, b) => a * b);
         }
         return total;
     }
 
-    function splitArrayIntoNArrays(giantArr, sizeCut) {
+    function splitIntoNArray(giantArr) {
         let splittedArr = [];
-
         while (giantArr.length) {
-            splittedArr.push(giantArr.splice(0, sizeCut));
+            let arr = giantArr.splice(0, cutSize);
+            splittedArr.push(arr);
         }
 
         return splittedArr;
     }
 }
 
-plasmaGiants([0, 3, 3, 4, 5, 6, 7, 8, 9, 10, 5, 4], 2);
-plasmaGiants([3, 3, 3, 4, 5, 6, 7, 8, 9, 10, 5, 4], 0);
+// plasmaGiants([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], 3);
 plasmaGiants([3, 3, 3, 4, 5, 6, 7, 8, 9, 10, 5, 4], 2);
 plasmaGiants([4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4], 2);
+plasmaGiants([3, 3, 3, 4, 5, 6, 7, 8, 9, 10, 5, 4], 0);
+plasmaGiants([0, 3, 3, 4, 5, 6, 7, 8, 9, 10, 5, 4], 2);

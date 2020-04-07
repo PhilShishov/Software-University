@@ -42,7 +42,6 @@ function atmMachine(commands) {
             console.log(`ATM machine is out of order!`);
         } else {
             totalCashInATM = totalCashInATM.sort((a, b) => b - a);
-
             let sum = 0;
 
             for (let i = 0; i < totalCashInATM.length; i++) {
