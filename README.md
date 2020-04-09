@@ -80,7 +80,7 @@ JS Advanced - June 2019<br />
 JS Essentials - May 2019<br /> 
 14.05.2019 - 06.08.2019
 </th>
-<th width="40%">Grade: 5.08 (out of 6.00)<br /> Issue Date:  21/08/2019</th>
+<th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date:  21/08/2019</th>
 <th>
 <p><a title="JS Essentials" href="https://softuni.bg/certificates/details/70131/1b3d2444" target="_blank">Certificate</a></p>
 </th></tr>
