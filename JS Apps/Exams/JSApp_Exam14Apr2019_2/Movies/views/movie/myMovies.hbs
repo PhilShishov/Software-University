@@ -1,0 +1,10 @@
+{{>header}}
+<div id="myMovies">
+    <h1>My Movies</h1>
+    <div class="movies">
+        {{#each movies}}
+        {{>movieView}}
+        {{/each}}
+    </div>
+</div>
+{{>footer}}
