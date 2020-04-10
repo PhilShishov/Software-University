@@ -9,6 +9,7 @@
 2. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Apps/Homeworks/01.RestServicesAjax_Exercise" > Rest Services Ajax - Exercise</a> 
 3. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Apps/Homeworks/02.AsynchronousProgramming_Lab" > Asynchronous Programming - Lab</a> 
 4. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Apps/Homeworks/02.AsynchronousProgramming_Exercise" > Asynchronous Programming - Exercise</a> 
-4. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Apps/Homeworks/03.RemoteDatabases_Lab" > Remote Databases - Lab</a> 
+5. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Apps/Homeworks/03.RemoteDatabases_Lab" > Remote Databases - Lab</a> 
+6. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Apps/Homeworks/03.RemoteDatabases_Exercise" > Remote Databases - Exercise</a> 
 
 ## Exams
