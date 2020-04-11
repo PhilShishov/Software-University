@@ -12,5 +12,6 @@
 5. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Apps/Homeworks/03.RemoteDatabases_Lab" > Remote Databases - Lab</a> 
 6. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Apps/Homeworks/03.RemoteDatabases_Exercise" > Remote Databases - Exercise</a> 
 7. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Apps/Homeworks/04.RoutingArchitecture_Lab" > Routing Architecture - Lab</a> 
+8. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Apps/Homeworks/05.Templating_Lab" > Templating - Lab</a> 
 
 ## Exams
