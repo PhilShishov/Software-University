@@ -16,3 +16,5 @@
 
 ## Exams
 - <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Apps/Exams/JSApp_Exam14Apr2019_1" >14 Apr 2019 Group 1</a> 
+- <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Apps/Exams/JSApp_Exam14Apr2019_2" >14 Apr 2019 Group 2</a> 
+- <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Apps/Exams/JSApp_Exam10Aug2019" >10 Aug 2019</a> 
