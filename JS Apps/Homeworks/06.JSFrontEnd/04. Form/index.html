@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" />
+
+    <style>
+        .text-bold {
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body class="bg-dark">
+    <form class="d-inline">
+        <div class="form-group mx-5 mt-5">
+            <label class="text-white text-bold" for="email">Email address</label>
+            <input type="email" class="form-control" id="email" placeholder="Enter email" required>
+        </div>
+        <div class="form-group mx-5 mt-2">
+            <label class="text-white text-bold" for="password">Password</label>
+            <input type="password" class="form-control" id="password" value="password">
+        </div>
+        <div class="form-group mx-5 mt-2">
+            <label class="text-white text-bold" for="age">Age</label>
+            <select class="w-100 p-2">
+                <option value="0">Select age:</option>
+                <option value="1">Under 18</option>
+                <option value="2">18-25</option>
+            </select>
+        </div>
+        <div class="form-group mx-5 mt-2">
+            <label class="text-white text-bold" for="social">You heard about us from</label>
+            <select multiple class="w-100 p-2">
+                <option value="Facebook">Facebook</option>
+                <option value="Twitter">Twitter</option>
+                <option value="Event">Event</option>
+                <option value="Friend">Friend</option>
+            </select>
+        </div>
+
+        <div class="form-group mx-5 mt-2">
+            <label class="text-white text-bold" for="message">Message</label>
+            <textarea class="w-100" id="message" rows="4"></textarea>
+        </div>
+
+        <div class="form-group mx-5 mt-2">
+            <label class="text-white text-bold" for="inputFile">Upload CV</label>
+            <input class="text-white form-control-file" type="file" id="inputFile">
+            <label class="text-secondary">(It's optional)</label>
+        </div>
+
+        <div class="form-group mx-5 mt-2">
+            <h5 class="text-white text-bold"> You are interested in</h5>
+
+            <div class="form-check">
+                <input type="radio">
+                <label class="text-white text-bold">Job Position</label>
+            </div>
+
+            <div class="form-check">
+                <input type="radio">
+                <label class="text-white text-bold">Intern</label>
+            </div>
+
+            <div class="form-check">
+                <input type="radio" disabled>
+                <label class="text-white text-bold">Q&A <span class="text-secondary">(We are not active now)</span></label>
+            </div>
+        </div>
+        </div>
+
+        <div class="form-group mx-5 mt-2">
+            <button type="submit" class="bg-primary border border-0 text-white">Send</button>
+        </div>
+    </form>
+
+</body>
+
+</html>
