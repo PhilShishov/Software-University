@@ -9,12 +9,12 @@
 <h2>JavaScript</h2>
 </td>
 <td align="center" width="33%"><img src="https://i.ibb.co/HpWr928/IMG-Philip-Shishov-Large.jpg" width="250" alt="" /> </br>
-  <a href="https://www.linkedin.com/in/philshishov/" target="_new">
+  <a href="https://www.linkedin.com/in/philshishov/">
     <img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" />
   </a>
 Author: 
 <strong>
-<a title="LinkedIn Philip Shishov" href="https://www.linkedin.com/in/philshishov/" target="_new">
+<a title="LinkedIn Philip Shishov" href="https://www.linkedin.com/in/philshishov/">
 Philip Shishov
 </a>
 </strong></p>
@@ -23,6 +23,31 @@ Philip Shishov
 </tbody>
 </table>
 <!-- Head End -->
+
+<!-- C# Web Basics -->
+<hr />
+<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<tbody>
+<tr><th align="center" width="50%">
+C# Web Basics - January 2020<br /> 
+14.01.2020 - 28.04.2020
+</th>
+<th width="40%">Grade:  (out of 6.00)<br /> Issue Date: </th>
+<th>
+<p><a title="C#WebBasics" href=""></a></p>
+</th></tr>
+<!-- Course Body -->
+<tr>
+<td width="50%">
+<p><a title="JSApps" href="https://github.com/PhilShishov/Software-University/tree/master/C%23%20Web%20Basics" target="_blank">C# Web Basics - Homeworks and Exams </a></p>
+</td>
+<td colspan="2" width="50%"></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<!-- C# Web Basic -->
+
 
 <!-- JS Apps -->
 <hr />
