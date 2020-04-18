@@ -256,7 +256,7 @@ QA Automation - June 2018 <br />
 <!-- Course Body -->
 <tr>
 <td width="50%">
-<p><a title="Automated-UI-Tests" href="https://github.com/PhilShishov/Automated-UI-Tests" target="_blank">Automated UI Tests - Exams</a></p>
+<p><a title="Automated-UI-Tests" href="https://github.com/PhilShishov/Automated-UI-Tests" target="_blank">Automated UI Tests - Homeworks and Exams</a></p>
 </td>
 <td colspan="2" width="50%"></td>
 </tr>
