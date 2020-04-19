@@ -8,7 +8,7 @@
 <h2>C#</h2>
 <h2>JavaScript</h2>
 </td>
-<td align="center" width="33%"><img src="https://ibb.co/9tS6CJ3" width="250" alt="" /> </br>
+<td align="center" width="33%"></br>
   <a href="https://www.linkedin.com/in/philshishov/">
     <img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" />
   </a>
