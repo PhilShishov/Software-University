@@ -15,6 +15,8 @@
 8. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Apps/Homeworks/04.RoutingArchitecture_Exercise" > Routing Architecture - Exercise</a> 
 9. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Apps/Homeworks/05.Templating_Lab" > Templating - Lab</a> 
 10. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Apps/Homeworks/05.Templating_Exercise" > Templating - Exercise</a> 
+11. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Apps/Homeworks/06.JSFrontEnd" > JS for Front End</a> 
+
 
 ## Exams
 - <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Apps/Exams/JSApp_Exam14Apr2019_1" >14 Apr 2019 Group 1</a> 
