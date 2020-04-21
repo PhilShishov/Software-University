@@ -54,12 +54,12 @@ C# Web Basics - January 2020<br />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
 <tr><th align="center" width="50%">
-JS Apps - June 2019<br /> 
-09.07.2019 - 10.08.2019
+JS Apps - February 2020<br /> 
+24.02.2020 - 10.04.2020
 </th>
-<th width="40%">Grade:  (out of 6.00)<br /> Issue Date: </th>
+<th width="40%">Grade: 6.00  (out of 6.00)<br /> Issue Date: 21/04/2020</th>
 <th>
-<p><a title="JS Apps" href="" target="_blank"></a></p>
+<p><a title="JS Apps" href="https://softuni.bg/certificates/details/80480/462332b6" target="_blank">Certificate</a></p>
 </th></tr>
 <!-- Course Body -->
 <tr>
