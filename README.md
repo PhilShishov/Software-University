@@ -49,7 +49,7 @@ C# Web Basics - January 2020<br />
 <!-- C# Web Basic -->
 
 
-<!-- JS Apps -->
+<!-- JS Applications -->
 <hr />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
@@ -59,19 +59,19 @@ JS Apps - February 2020<br />
 </th>
 <th width="40%">Grade: 6.00  (out of 6.00)<br /> Issue Date: 21/04/2020</th>
 <th>
-<p><a title="JS Apps" href="https://softuni.bg/certificates/details/80480/462332b6" target="_blank">Certificate</a></p>
+<p><a title="JS Applications" href="https://softuni.bg/certificates/details/80480/462332b6" target="_blank">Certificate</a></p>
 </th></tr>
 <!-- Course Body -->
 <tr>
 <td width="50%">
-<p><a title="JSApps" href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Apps" target="_blank">JS Apps - Homeworks and Exams </a></p>
+<p><a title="JSApps" href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Apps" target="_blank">JS Applications - Homeworks and Exams </a></p>
 </td>
 <td colspan="2" width="50%"></td>
 </tr>
 </tbody>
 </table>
 <hr />
-<!-- JS Apps -->
+<!-- JS Applications -->
 
 <!-- JS Advanced -->
 <hr />
