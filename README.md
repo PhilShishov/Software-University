@@ -83,7 +83,7 @@ JS Advanced - January 2020<br />
 </th>
 <th width="40%">Grade: 5.30 (out of 6.00)<br /> Issue Date: 21/04/2020</th>
 <th>
-<p><a title="JS Advanced" href="https://softuni.bg/certificates/details/80533/1ed94911" target="_blank"></a></p>
+<p><a title="JS Advanced" href="https://softuni.bg/certificates/details/80533/1ed94911" target="_blank">Certificate</a></p>
 </th></tr>
 <!-- Course Body -->
 <tr>
