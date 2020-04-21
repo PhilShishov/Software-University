@@ -78,12 +78,12 @@ JS Apps - June 2019<br />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
 <tr><th align="center" width="50%">
-JS Advanced - June 2019<br /> 
-11.06.2019 - 08.08.2019
+JS Advanced - January 2020<br /> 
+13.01.2020 - 08.04.2020
 </th>
-<th width="40%">Grade:  (out of 6.00)<br /> Issue Date: </th>
+<th width="40%">Grade: 5.30 (out of 6.00)<br /> Issue Date: 21/04/2020</th>
 <th>
-<p><a title="JS Advanced" href="" target="_blank"></a></p>
+<p><a title="JS Advanced" href="https://softuni.bg/certificates/details/80533/1ed94911" target="_blank"></a></p>
 </th></tr>
 <!-- Course Body -->
 <tr>
