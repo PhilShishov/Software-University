@@ -49,41 +49,41 @@ C# Web Basics - January 2020<br />
 <!-- C# Web Basic -->
 
 
-<!-- JS Apps -->
+<!-- JS Applications -->
 <hr />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
 <tr><th align="center" width="50%">
-JS Apps - June 2019<br /> 
-09.07.2019 - 10.08.2019
+JS Apps - February 2020<br /> 
+24.02.2020 - 10.04.2020
 </th>
-<th width="40%">Grade:  (out of 6.00)<br /> Issue Date: </th>
+<th width="40%">Grade: 6.00  (out of 6.00)<br /> Issue Date: 21/04/2020</th>
 <th>
-<p><a title="JS Apps" href="" target="_blank"></a></p>
+<p><a title="JS Applications" href="https://softuni.bg/certificates/details/80480/462332b6" target="_blank">Certificate</a></p>
 </th></tr>
 <!-- Course Body -->
 <tr>
 <td width="50%">
-<p><a title="JSApps" href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Apps" target="_blank">JS Apps - Homeworks and Exams </a></p>
+<p><a title="JSApps" href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Apps" target="_blank">JS Applications - Homeworks and Exams </a></p>
 </td>
 <td colspan="2" width="50%"></td>
 </tr>
 </tbody>
 </table>
 <hr />
-<!-- JS Apps -->
+<!-- JS Applications -->
 
 <!-- JS Advanced -->
 <hr />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
 <tr><th align="center" width="50%">
-JS Advanced - June 2019<br /> 
-11.06.2019 - 08.08.2019
+JS Advanced - January 2020<br /> 
+13.01.2020 - 08.04.2020
 </th>
-<th width="40%">Grade:  (out of 6.00)<br /> Issue Date: </th>
+<th width="40%">Grade: 5.30 (out of 6.00)<br /> Issue Date: 21/04/2020</th>
 <th>
-<p><a title="JS Advanced" href="" target="_blank"></a></p>
+<p><a title="JS Advanced" href="https://softuni.bg/certificates/details/80533/1ed94911" target="_blank">Certificate</a></p>
 </th></tr>
 <!-- Course Body -->
 <tr>
