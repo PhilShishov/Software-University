@@ -59,7 +59,7 @@ C# Web Basics - January 2020<br />
 </th>
 <th width="40%">Grade:  (out of 6.00)<br /> Issue Date: </th>
 <th>
-<p><a title="C#WebBasics" href=""></a></p>
+<p><a title="C#WebBasics" href="">Certificate</a></p>
 </th></tr>
 <!-- Course Body -->
 <tr>
