@@ -24,6 +24,31 @@ Philip Shishov
 </table>
 <!-- Head End -->
 
+<!-- ASP.NET Core -->
+<hr />
+<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<tbody>
+<tr><th align="center" width="50%">
+ASP.NET Core - February 2020<br /> 
+18.02.2020 - 30.04.2020
+</th>
+<th width="40%">Grade: 5.36 (out of 6.00)<br /> Issue Date: 05/05/2020</th>
+<th>
+<p><a title="ASP.NET Core" href="https://softuni.bg/certificates/details/81189/5d0eef66" target="_blank">Certificate</a></p>
+</th></tr>
+<!-- Course Body -->
+<tr>
+<td width="50%">
+<p><a title="ASPNETCore" href="https://github.com/PhilShishov/PharusDataGatePublic" target="_blank">ASP.NET Core - Defense Project</a></p>
+</td>
+<td colspan="2" width="50%"></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<!-- ASP.NET Core -->
+
+
 <!-- C# Web Basics -->
 <hr />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
@@ -34,12 +59,12 @@ C# Web Basics - January 2020<br />
 </th>
 <th width="40%">Grade:  (out of 6.00)<br /> Issue Date: </th>
 <th>
-<p><a title="C#WebBasics" href=""></a></p>
+<p><a title="C#WebBasics" href="">Certificate</a></p>
 </th></tr>
 <!-- Course Body -->
 <tr>
 <td width="50%">
-<p><a title="JSApps" href="https://github.com/PhilShishov/Software-University/tree/master/C%23%20Web%20Basics" target="_blank">C# Web Basics - Homeworks and Exams </a></p>
+<p><a title="C#Web" href="https://github.com/PhilShishov/Software-University/tree/master/C%23%20Web%20Basics" target="_blank">C# Web Basics - Homeworks and Exams </a></p>
 </td>
 <td colspan="2" width="50%"></td>
 </tr>
