@@ -1,5 +1,5 @@
 
-# <a href="https://softuni.bg/trainings/2346/js-advanced-june-2019"><p align="center"> JS Advanced - June 2019<p>
+# <a href="https://softuni.bg/trainings/2760/angular-january-2020"><p align="center"> Angular - January 2020<p>
 </a>
 
 
@@ -16,10 +16,3 @@
 9. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced/Homeworks/05.ObjectComposition_Lab" > Object Composition - Lab</a>
 10. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced/Homeworks/05.ObjectComposition_Exercise" > Object Composition - Exercise</a>
 11. <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced/Homeworks/06.PrototypesInheritance_Lab" > Prototypes Inheritance - Lab</a>
-
-## Exams
-- <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced/Exams/JSA_Exam18Apr2019" >18 Apr 2019</a>
-- <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced/Exams/JSA_Exam1July2019" >1 July 2019</a>
-- <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced/Exams/JSA_Exam7July2019" >7 July 2019</a>
-- <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced/Exams/JSA_Exam8Aug2019" >8 Aug 2019</a>
-
