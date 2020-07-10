@@ -1,9 +1,0 @@
-D:\Documents\Visual Studio 2017\DBFundamentals\06_AdvancedRelations\BillsPaymentSystem.Models\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Models.deps.json
-D:\Documents\Visual Studio 2017\DBFundamentals\06_AdvancedRelations\BillsPaymentSystem.Models\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Models.dll
-D:\Documents\Visual Studio 2017\DBFundamentals\06_AdvancedRelations\BillsPaymentSystem.Models\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Models.pdb
-D:\Documents\Visual Studio 2017\DBFundamentals\06_AdvancedRelations\BillsPaymentSystem.Models\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Models.csproj.CoreCompileInputs.cache
-D:\Documents\Visual Studio 2017\DBFundamentals\06_AdvancedRelations\BillsPaymentSystem.Models\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Models.AssemblyInfoInputs.cache
-D:\Documents\Visual Studio 2017\DBFundamentals\06_AdvancedRelations\BillsPaymentSystem.Models\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Models.AssemblyInfo.cs
-D:\Documents\Visual Studio 2017\DBFundamentals\06_AdvancedRelations\BillsPaymentSystem.Models\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Models.dll
-D:\Documents\Visual Studio 2017\DBFundamentals\06_AdvancedRelations\BillsPaymentSystem.Models\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Models.pdb
-D:\Documents\Visual Studio 2017\DBFundamentals\06_AdvancedRelations\BillsPaymentSystem.Models\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Models.csprojAssemblyReference.cache

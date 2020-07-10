@@ -1,9 +1,0 @@
-D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\Database\bin\Debug\netcoreapp2.1\Database.deps.json
-D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\Database\bin\Debug\netcoreapp2.1\Database.dll
-D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\Database\bin\Debug\netcoreapp2.1\Database.pdb
-D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\Database\obj\Debug\netcoreapp2.1\Database.csprojAssemblyReference.cache
-D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\Database\obj\Debug\netcoreapp2.1\Database.csproj.CoreCompileInputs.cache
-D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfoInputs.cache
-D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfo.cs
-D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\Database\obj\Debug\netcoreapp2.1\Database.dll
-D:\Documents\Visual Studio 2017\SoftUni\C#OOP\Homeworks\09.UnitTesting_Exercise\Database\obj\Debug\netcoreapp2.1\Database.pdb

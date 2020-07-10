@@ -1,9 +1,0 @@
-D:\Documents\Visual Studio 2017\DBFundamentals\CustomAutoMapper\Automapper\bin\Debug\netcoreapp2.1\Automapper.deps.json
-D:\Documents\Visual Studio 2017\DBFundamentals\CustomAutoMapper\Automapper\bin\Debug\netcoreapp2.1\Automapper.dll
-D:\Documents\Visual Studio 2017\DBFundamentals\CustomAutoMapper\Automapper\bin\Debug\netcoreapp2.1\Automapper.pdb
-D:\Documents\Visual Studio 2017\DBFundamentals\CustomAutoMapper\Automapper\obj\Debug\netcoreapp2.1\Automapper.csprojAssemblyReference.cache
-D:\Documents\Visual Studio 2017\DBFundamentals\CustomAutoMapper\Automapper\obj\Debug\netcoreapp2.1\Automapper.csproj.CoreCompileInputs.cache
-D:\Documents\Visual Studio 2017\DBFundamentals\CustomAutoMapper\Automapper\obj\Debug\netcoreapp2.1\Automapper.AssemblyInfoInputs.cache
-D:\Documents\Visual Studio 2017\DBFundamentals\CustomAutoMapper\Automapper\obj\Debug\netcoreapp2.1\Automapper.AssemblyInfo.cs
-D:\Documents\Visual Studio 2017\DBFundamentals\CustomAutoMapper\Automapper\obj\Debug\netcoreapp2.1\Automapper.dll
-D:\Documents\Visual Studio 2017\DBFundamentals\CustomAutoMapper\Automapper\obj\Debug\netcoreapp2.1\Automapper.pdb

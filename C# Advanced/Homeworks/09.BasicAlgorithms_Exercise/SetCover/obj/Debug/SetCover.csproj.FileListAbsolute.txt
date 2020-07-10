@@ -1,7 +1,0 @@
-D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\09.BasicAlgorithms_Exercise\SetCover\bin\Debug\SetCover.exe.config
-D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\09.BasicAlgorithms_Exercise\SetCover\bin\Debug\SetCover.exe
-D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\09.BasicAlgorithms_Exercise\SetCover\bin\Debug\SetCover.pdb
-D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\09.BasicAlgorithms_Exercise\SetCover\obj\Debug\SetCover.csprojAssemblyReference.cache
-D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\09.BasicAlgorithms_Exercise\SetCover\obj\Debug\SetCover.csproj.CoreCompileInputs.cache
-D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\09.BasicAlgorithms_Exercise\SetCover\obj\Debug\SetCover.exe
-D:\Documents\Visual Studio 2017\SoftUni\C#Advanced\Homeworks\09.BasicAlgorithms_Exercise\SetCover\obj\Debug\SetCover.pdb
