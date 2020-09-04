@@ -28,6 +28,6 @@
 - <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23%20OOP/Exams/OOPExam_19Dec2018" >19 Dec 2018</a>
 - <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23%20OOP/Exams/OOPExam_14Apr2019" >14 Apr 2019</a>
 - <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23%20OOP/Exams/OOPExam_18Apr2019" >18 Apr 2019</a>
-- <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23%20OOP/Exams/OOPExam_4Aug2019" >O4 Aug 2019</a>
+- <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23%20OOP/Exams/OOPExam_4Aug2019" >04 Aug 2019</a>
 - <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23%20OOP/Exams/OOPExam_11Aug2019" >11 Aug 2019</a>
 - <a href="https://github.com/PhilShishov/Software-University/tree/master/C%23%20OOP/Exams/OOPExam_15Aug2019" >15 Aug 2019</a>
