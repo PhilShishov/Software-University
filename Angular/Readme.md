@@ -1,5 +1,5 @@
 
-# <a href="https://softuni.bg/trainings/2760/angular-january-2020"><p align="center"> Angular - January 2020<p>
+# <a href="https://softuni.bg/trainings/3047/angular-november-2020"><p align="center"> Angular - November 2020<p>
 </a>
 
 
