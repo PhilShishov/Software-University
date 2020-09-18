@@ -5,4 +5,4 @@
 
 
 ## Exercises and labs
-1. <a href="https://github.com/PhilShishov/Software-University/tree/master/HTML%20%26%20CSS/01.IntroductionHTML" > Introduction HTML</a> 
+1. <a href="https://github.com/PhilShishov/Software-University/tree/master/HTML%20%26%20CSS/01.Introduction-HTML" > Introduction HTML</a> 
