@@ -12,7 +12,7 @@
 6. <a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Homeworks/06.Advanced-Relations_Exercise" > Advanced Relations - Exercise</a>
 7. <a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Homeworks/07.Advanced-uerying_Exercise" > Advanced Querying - Exercise</a>
 8. <a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Homeworks/08.AutoMapper_Exercise" > AutoMapper - Exercise</a>
-9. <a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Homeworks/09.AutoMapping-Objects_Exercise" > AutoMappingObjects - Exercise</a>
+9. <a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Homeworks/09.AutoMapping-Objects_Exercise" > AutoMapping Objects - Exercise</a>
 10. <a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Homeworks/10.JSON-Processing_Exercise" > JSON Processing - Exercise</a>
 11. <a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Homeworks/11.XML-Processing_Exercise" > XML Processing - Exercise</a>
 
@@ -23,4 +23,4 @@
 - <a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Exams/DB-Adv-Exam_12Aug2018" >12 Aug 2018</a> 
 - <a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Exams/DB-Adv-Exam_1Sept2018" >1 Sept 2018</a> 
 - <a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Exams/DB-Adv-Exam_7Apr2019" >7 Apr 2019</a> 
-- <a href="https://https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Exams/DB-Adv-Exam_18Apr2019" >18 Apr 2019</a> 
+- <a href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework/Exams/DB-Adv-Exam_18Apr2019" >18 Apr 2019</a> 
