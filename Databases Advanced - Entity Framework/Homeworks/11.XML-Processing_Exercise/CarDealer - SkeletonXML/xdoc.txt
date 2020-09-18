@@ -1,0 +1,52 @@
+public static string ImportCarsXDoc(CarDealerContext context, string inputXml)
+        {
+            var carsParsed = XDocument.Parse(inputXml)
+               .Root
+               .Elements()
+               .ToList();
+
+            var cars = new List<Car>();
+
+            var existingPartsIds = context.Parts
+                .Select(x => x.Id)
+                .ToArray();
+
+            foreach (var x in carsParsed)
+            {
+                Car currentCar = new Car()
+                {
+                    Make = x.Element("make").Value,
+                    Model = x.Element("model").Value,
+                    TravelledDistance = Convert.ToInt64(x.Element("TraveledDistance").Value)
+                };
+
+                var partIds = new HashSet<int>();
+
+                foreach (var id in x.Element("parts").Elements())
+                {
+                    var pid = Convert.ToInt32(id.Attribute("id").Value);
+                    partIds.Add(pid);
+                }
+
+                foreach (var pid in partIds)
+                {
+                    PartCar currentPair = new PartCar()
+                    {
+                        Car = currentCar,
+                        PartId = pid
+                    };
+
+                    if (existingPartsIds.Contains(pid) == false)
+                        continue;
+
+                    currentCar.PartCars.Add(currentPair);
+                }
+
+                cars.Add(currentCar);
+            }
+
+            context.Cars.AddRange(cars);
+            context.SaveChanges();
+
+            return $"Successfully imported {cars.Count()}";
+        }

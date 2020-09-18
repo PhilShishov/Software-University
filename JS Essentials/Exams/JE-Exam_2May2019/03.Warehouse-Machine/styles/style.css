@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: black;
+    font-size: 24px;
+}
+
+section {
+    margin: 0 auto;
+    width: 80%;
+    height: auto;
+    text-align: center;
+}
+
+section div {
+width: 100%;
+vertical-align: top;
+border-bottom: 2px solid blalck;
+}
+
+section div p{
+    width: 100%;
+    word-wrap: break-word;
+}
+
+h3{
+    font-weight: bold;
+    text-decoration: underline;
+    margin-bottom: 1%;
+}
+
+
+textarea {
+    width: 60%;
+    margin: 0 auto;
+    height: 40vh;
+    resize: none;
+}
+
+hr{
+    width: 60%;
+    margin: 0 auto;
+}
+
+button {
+    display: block;
+    padding: 1%;
+    margin: 0 auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}

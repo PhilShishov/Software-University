@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="./styles/style.css" />
+    <title>Document</title>
+</head>
+
+<body>
+
+    <div id="input">
+        <textarea>[{"firstName":"Jon","lastName":"Snow","action":"peopleIn"},{"firstName":"Jonny","lastName":"Bravo","action":"peopleIn"},{"firstName":"John","lastName":"Doe","action":"peopleOut"},{"firstName":"Jon","lastName":"Snow","action":"peopleOut"},{"firstName":"John","lastName":"Doe","action":"peopleOut"},{"firstName":"Lenny","lastName":"Kravitz","action":"blacklist"},{"firstName":"Lenny","lastName":"Kravitz","action":"peopleIn"},{"firstName":"Marwin","lastName":"Athelstein","action":"peopleIn"},{"criteria":"lastName","action":"peopleIn"}]</textarea>
+        <button onclick="getData()">Get data</button>
+    </div>
+
+    <div id="output">
+        <div id="peopleIn">
+            <h1>People in</h1>
+            <p></p>
+        </div>
+        <div id="blacklist">
+            <h1>Blacklist</h1>
+            <p></p>
+        </div>
+        <div id="peopleOut">
+            <h1>People out</h1>
+            <p></p>
+        </div>
+    </div>
+
+    <script src="./scripts/app.js"></script>
+</body>
+
+</html>

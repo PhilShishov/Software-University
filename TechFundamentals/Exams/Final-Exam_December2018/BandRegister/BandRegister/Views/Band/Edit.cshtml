@@ -1,0 +1,40 @@
+﻿@model Band
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Edit</h2>
+
+<div id="band-wrapper">
+    <section class="band">
+        <article>
+            <form asp-action="Edit" asp-controller="Band" asp-route-id="@Model.Id" method="POST">
+                <div class="row">
+                    <label for="bandName">Band name:</label>
+                    <input type="text" id="bandName" name="name" value="@Model.Name" placeholder="Name" required>
+                </div>
+                <div class="row">
+                    <label for="members">Members:</label>
+                    <textarea rows="5" id="members" name="Members" placeholder="Member 1, Member 2, ..." required>@Model.Members</textarea>
+                </div>
+                <div class="row">
+                    <label for="honorarium">Honorarium:</label>
+                    <input type="text" id="honorarium" name="honorarium" value="@Model.Honorarium" placeholder="price" required>
+                </div>
+                <div class="row">
+                    <label for="genre">Genre:</label>
+                    <div class="genre-select">
+                        <input type="radio" id="genre" name="genre" value="Rock" checked>Rock
+                        <input type="radio" id="genre" name="genre" value="Metal">Metal
+                        <input type="radio" id="genre" name="genre" value="Pop">Pop
+                        <input type="radio" id="genre" name="genre" value="Other">Other
+                    </div>
+                </div>
+                <div>
+                    <button type="submit">Edit</button>
+                    <a asp-action="Index" asp-controller="Band">Cancel</a>
+                </div>
+            </form>
+        </article>
+    </section>
+</div>

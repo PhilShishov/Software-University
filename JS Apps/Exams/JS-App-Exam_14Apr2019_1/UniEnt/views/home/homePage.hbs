@@ -1,0 +1,48 @@
+{{>header}}
+{{#if loggedIn}}
+<div id="eventsHolder">
+  {{#each events}}
+  {{>eventView}}
+  {{else}}
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div id="fouronefour">
+          <img class="no-found-picture" src="./images/404face.png" />
+        </div>
+        <div class="error-template">
+          <h1>
+            Oops!</h1>
+          <h2>
+            404 Not Found</h2>
+          <div class="error-details">
+            UniEnt cannot find any event...
+          </div>
+          <div class="actions">
+            <a href="#/create" class="btn btn-dark btn-lg">Create the first one? </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  {{/each}}
+
+
+</div>
+{{else}}
+<div class="d-md-flex flex-md-equal w-100 my-md-3 pl-md-3">
+  <div style=" padding-left: 7%; padding-top:3%;" class="col-md-7">
+    <h2 class="featurette-heading">The events that <span class="text-muted">will blow your mind!</span></h2>
+    <p class="lead">Join our community.</p>
+    <p style="padding-left:5%" class="lead">Organize an event.</p>
+    <p style="padding-left:10%" class="lead">Gather as many people as possible for one purpose.</p>
+    <p style="padding-left:15%" class="lead">Learn!</p>
+    <p style="padding-left:20%" class="lead">Share!</p>
+    <p style="padding-left:25%" class="lead">Enjoy life!</p>
+  </div>
+  <div class="col-md-5">
+    <img class="home-event-picture" src="./images/events.png" />
+  </div>
+</div>
+{{/if}}
+{{>footer}}
