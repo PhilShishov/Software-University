@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+  display: flex;
+  background-color: rgb(238, 238, 238);
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  flex-flow: row wrap;
+}
+
+.container {
+  display: flex;
+  flex-flow: row wrap;
+  flex-grow: 1;
+  justify-content: center;
+}
+
+.container img {
+  height: 400px;
+  width: 120px;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px 0px #717171 ;
+}
+
+.container :nth-of-type(2) {
+  flex-grow: 0.5;
+  border-left: 15px solid black;
+  border-right: 15px solid black;
+}

@@ -1,0 +1,96 @@
+* {
+  box-sizing: border-box;
+}
+
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+  background-color: rgb(238, 238, 238);
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-flow: column wrap;
+  max-height: 2000px;
+}
+
+.masonry ul {
+  display: flex;
+  flex-flow: column wrap;
+  max-height: 2000px;
+}
+
+.masonry li {
+  margin-right: 25px;
+  margin-bottom: 25px;
+  display: flex;
+  width: 33.3%;
+}
+
+.card {
+  box-shadow: 0 0 5px #ccc;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.card-body,
+.card-footer {
+  background-color: #fff;
+  color: #000;
+  padding: 20px;
+}
+
+.card-footer {
+  border-top: 1px solid black;
+}
+
+.card-footer p,
+.card-body p {
+  margin: 0;
+}
+
+.card-body span {
+  margin-bottom: 20px;
+  display: block;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.flex ul {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.flex li {
+    display: flex;
+  flex: 0 1 31%;
+  flex-flow: column wrap;
+  align-self: stretch;
+  margin-bottom: 2%;
+  margin-right: 2%;
+}
+
+.flex .card {
+  flex: 1;
+  display: flex;
+  flex-flow: column wrap;
+}
+
+.flex .card-body {
+  flex: 1;
+}

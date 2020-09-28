@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(238, 238, 238);
+}
+
+body,
+ul,
+li {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.gallery{
+    max-width: 1150px;
+}
+
+ul{
+    list-style: none;
+    justify-content: space-between;
+}
+
+li{
+    border: 10px solid black;
+    box-shadow: inset 0 0 10px #000;
+    background-color: white;
+    padding: 20px 10px;
+    align-self: stretch;
+    margin-bottom: 45px;
+}

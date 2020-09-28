@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+header{
+    border-bottom: 2px solid rgb(0,0,0);
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul{
+    list-style-type: none;
+    display: flex;
+}
+
+nav ul a{
+    color: rgb(0, 153, 0);
+    text-decoration: none;
+    margin: 10px;
+}

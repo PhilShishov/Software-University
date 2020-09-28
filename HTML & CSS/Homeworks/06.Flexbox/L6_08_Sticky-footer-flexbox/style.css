@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  background-color: rgb(238, 238, 238);
+  height: 100vh;
+  flex-direction: column;
+  margin: 0;
+}
+
+header{
+    border-bottom: 3px solid gray;
+}
+
+header h1{
+    text-transform: uppercase;
+}
+
+footer{
+    color: rgb(255,255,255);
+    background: rgb(102,102,102);
+}
+
+header h1, footer p{
+    margin: 25px;
+}
+
+main{
+    margin: 25px;
+}

@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+div.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 15vw;
+    height: 35em;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+div.container span {
+    border: 1px solid black;
+    margin: 10px;
+    width: 4em;
+    height: 3em;
+    text-align: center;
+    padding: 10px;
+}
+
+span.first-order {
+    order: -1;
+}
+
+span.last-order {
+    order: 5;
+}

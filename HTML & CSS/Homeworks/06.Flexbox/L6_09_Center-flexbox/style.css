@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    display: flex;
+    background-color: rgb(238, 238, 238);
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+  }
+
+  .card{
+      background-color: rgb(255,255,255);
+      box-shadow: 0px 0px 20px 0px #717171 ;
+      border-radius: 10px;
+      padding: 10px;
+      max-width: 450px;
+  }
+
+  .card h3{
+    margin-top: 0;
+  }

@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+}
+
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-flow: column;
+    background-color: rgb(238, 238, 238);
+    padding: 50px;
+}
+
+header,
+main,
+aside,
+footer {
+    background-color: rgb(255, 255, 255);
+    border: 3px #8080806b;
+    margin: 10px;
+    padding: 20px;
+    box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.55);
+    border-radius: 5px;
+}
+
+header {
+    min-height: 200px;
+}
+
+main,
+aside {
+    min-height: 400px;
+}
+
+footer {
+    min-height: 100px;
+}
+
+main {
+    flex: 2 1 auto;
+}
+
+aside {
+    flex: 1 1 auto;
+}
+
+.container {
+    display: flex;
+}
