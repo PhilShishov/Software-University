@@ -1,0 +1,68 @@
+/* @import url('https://use.fontawesome.com/releases/v5.14.0/css/all.css'); */
+
+@import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+* {
+    box-sizing: border-box;
+}
+
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+ul {
+    margin: 0;
+    display: inline-block;
+    border: 1px solid;
+    padding: 30px;
+}
+
+li {
+    display: inline-block;
+    margin-left: 10px;
+    list-style: none;
+}
+
+li a {
+    text-decoration: none;
+    color: #000;
+    border-radius: 50%;
+    background: #ccc;
+    width: 40px;
+    height: 40px;
+    display: block;
+    position: relative;
+}
+
+li a::before {
+    font-family: FontAwesome;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+}
+
+.facebook:before {
+    content: "\f082";
+}
+
+.twitter::before {
+    content: '\f099';
+}
+
+.google::before {
+    content: '\f2b3';
+}
+
+.linked-in::before {
+    content: '\f08c';
+}
+
+.instagram::before {
+    content: '\f16d';
+}
