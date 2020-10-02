@@ -11,3 +11,4 @@
 4. <a href="https://github.com/PhilShishov/Software-University/tree/master/HTML%20%26%20CSS/Homeworks/04.CSS-Box-Model" > CSS Box Model</a>
 5. <a href="https://github.com/PhilShishov/Software-University/tree/master/HTML%20%26%20CSS/Homeworks/05.Position-and-Float" > Position and Float</a>
 6. <a href="https://github.com/PhilShishov/Software-University/tree/master/HTML%20%26%20CSS/Homeworks/06.Flexbox" > Flexbox</a>
+7. <a href="https://github.com/PhilShishov/Software-University/tree/master/HTML%20%26%20CSS/Homeworks/07.Media-Queries" > Media Queries</a>
