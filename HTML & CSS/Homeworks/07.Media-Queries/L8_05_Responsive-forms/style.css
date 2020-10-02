@@ -1,0 +1,86 @@
+@import url("https://use.fontawesome.com/releases/v5.10.2/css/all.css");
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+form {
+  margin: 2rem auto;
+  width: 22em;
+  font-size: 20px;
+}
+
+form > fieldset {
+  background-color: rgb(248, 248, 248);
+  border-radius: 3%;
+}
+
+form > fieldset > legend {
+  background-color: rgb(248, 248, 248);
+  padding: 5px 5em 5px 10px;
+  margin-left: -2px;
+  border-radius: 3%;
+}
+
+fieldset,
+legend,
+.input-fields {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+  border: 2px solid rgb(180, 180, 180);
+}
+
+div {
+  margin-bottom: 10px;
+}
+
+p {
+  font-weight: bold;
+  margin-right: 5px;
+  width: 90px;
+  display: inline-block;
+}
+
+.push {
+  margin: 20px 20px 10px 20px;
+}
+
+div i {
+  position: absolute;
+}
+
+.icon {
+  padding: 11px 10px 0px 18px;
+  font-size: 17px;
+}
+
+.input-fields {
+  width: 73%;
+  padding: 10px 40px;
+  border-radius: 7%;
+}
+
+.button-login{
+    background: rgb(45, 45, 45);
+    color: white;
+    font-weight: 900;
+    padding: 10px 20px;
+    border-radius: 7%;
+    margin-bottom: 8%;
+}
+
+
+@media (max-width: 600px){
+    p {
+        display: block;
+    }
+    .input-fields {
+        width: 100%;
+    }
+}

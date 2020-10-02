@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+after{
+    content: ":";
+    color: green;
+}
+
+@media only screen and (max-width: 600px){
+    .mq-width after{
+        color: red;
+    }
+}
+
+@media only screen and (max-height: 600px){
+    .mq-height after{
+        color: red;
+    }
+}
+
+@media only screen and (max-aspect-ratio: 8/5){
+    .mq-ar after{
+        color: red;
+    }
+}

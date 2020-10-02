@@ -1,0 +1,104 @@
+@import url("typography.css");
+
+* {
+  box-sizing: border-box;
+}
+
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+th {
+  background-color: #333333;
+  color: #fff;
+}
+
+tr:nth-child(odd) {
+  background-color: #f1f1f1;
+}
+
+tr:nth-child(even) {
+  background-color: #fff;
+}
+
+@media (max-width: 1024px) {
+  body {
+    width: 800px;
+  }
+}
+
+@media (max-width: 980px) {
+  body {
+    width: 700px;
+  }
+}
+
+@media only screen and (max-width: 760px),
+  (min-device-width: 768px) and (max-device-width: 1024px) {
+  /* Force table to not be like tables anymore */
+  table,
+  thead,
+  tbody,
+  th,
+  td,
+  tr {
+    display: block;
+  }
+
+  body {
+    width: 305px;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  table td,
+  th {
+    width: 100%;
+  }
+
+  td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: 1px solid #eee;
+    /* position: relative; */
+    padding-left: 50%;
+  }
+
+  td:before {
+    /* Now like a table header */
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+  }
+
+  /*
+	Label the data
+	*/
+  td:nth-of-type(1):before {
+    content: "First Name";
+    font-weight: bold;
+  }
+  td:nth-of-type(2):before {
+    content: "Last Name";
+    font-weight: bold;
+  }
+  td:nth-of-type(3):before {
+    content: "Job Title";
+    font-weight: bold;
+  }
+}

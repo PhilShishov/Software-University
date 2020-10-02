@@ -1,0 +1,133 @@
+.page-container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 2em  0;
+}
+
+
+
+img {
+    display: block;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+    padding: 5px;
+    border: 2px solid #000;
+}
+
+.site-title {
+    margin: inherit;
+    display: inline-block;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 30px;
+    padding-top: 30px;
+}
+
+.pull-right {
+    float: right;
+    margin-left: 20px;
+}
+
+.pull-left {
+    margin-right: 20px;
+    float: left;
+}
+
+.clear-fix::after {
+    content: '';
+    clear: both;
+    display: block;
+}
+
+.quote-and-description {
+    display: flex;
+}
+
+.quote-and-description>p,
+.quote-and-description>blockquote {
+    width: calc(50% - 40px);
+}
+
+.quote-and-description blockquote {
+    padding-left: 30px;
+    border-left: 2px solid #ccc;
+}
+
+blockquote p {
+    margin-top: 0;
+}
+
+main {
+    width: 70%;
+    float: left;
+}
+
+aside {
+    width: 29%;
+    vertical-align: top;
+    float: right;
+    padding-left: 60px;
+}
+
+section li a {
+    color: rgb(0, 102, 0);
+    text-decoration: none;
+}
+
+@media (max-width: 980px){
+    .page-container {
+        width: 500px;
+    }
+
+    aside{
+        float: none;
+    }
+
+    main{
+        width: inherit;
+    }
+
+    .quote-and-description {
+        display: grid;
+    }
+
+    .quote-and-description p{
+        width: inherit;
+    }
+
+    .quote-and-description blockquote{
+        float: none;
+    }
+}
+
+@media (max-width: 410px){
+    aside{
+        float: none;
+    }
+
+    main{
+        width: inherit;
+    }
+
+    .page-container {
+        width: 250px;
+    }
+
+    .quote-and-description {
+        display: block;
+    }
+
+    .quote-and-description p{
+        width: inherit;
+    }
+
+    .quote-and-description blockquote{
+        width: inherit;
+        padding-left: 15px;
+    }
+
+    .pull-left,
+    .pull-right{
+        float: none;
+    }
+}

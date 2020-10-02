@@ -1,0 +1,87 @@
+/* Copy & Lists */
+p {
+  line-height: 1.5rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0;
+}
+ul,
+ol {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+ul li,
+ol li {
+  line-height: 1.5rem;
+}
+ul ul,
+ol ul,
+ul ol,
+ol ol {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+/* Headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  /* Change heading typefaces here */
+  margin-top: 1.5rem;
+  margin-bottom: 0;
+  line-height: 1.5rem;
+  font-style: italic;
+  font-weight: bolder;
+  font-family: none;
+}
+h3 {
+  font-size: 1.414rem;
+}
+
+/* Code blocks here */
+.title h3 {
+  text-align: center;
+  border: 1px solid;
+  font-size: 14px;
+}
+
+.right h3,
+.right p {
+  text-align: left;
+}
+
+.left h3,
+.left p,
+ul li {
+  text-align: right;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+.first-word {
+  font-weight: bolder;
+}
+
+/* Media queries - Responsive timeline on screens less than 600px wide */
+@media screen and (max-width: 600px) {
+  .left h3,
+  .left p,
+  ul li {
+    text-align: unset;
+  }
+
+  .title h3 {
+    font-size: 12px;
+  }
+
+  p, li{
+    font-size: 0.9rem;
+  }
+
+  li{
+    margin-top: 10px;
+  }
+}

@@ -1,0 +1,12 @@
+@import url("reset.css");
+@import url("typography.css");
+@import url("layout.css");
+
+* {
+  box-sizing: border-box;
+}
+
+*::after,
+*::before {
+  box-sizing: border-box;
+}

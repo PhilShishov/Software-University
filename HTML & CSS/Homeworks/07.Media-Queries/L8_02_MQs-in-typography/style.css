@@ -1,0 +1,85 @@
+@import url("typography.css");
+
+* {
+    box-sizing: border-box;
+}
+
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+img {
+    display: block;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+    padding: 5px;
+    border: 2px solid #000;
+}
+
+body {
+    background-color: rgb(238, 238, 238);
+}
+
+.page-container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 100px 0;
+}
+
+header {
+    display: inline-block;
+    width: 100%;
+    border-bottom: 2px solid #000;
+    padding-bottom: 20px;
+}
+
+p.site-title {
+    display: inline-block;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+.pull-right {
+    float: right;
+    margin-left: 20px;
+}
+
+.pull-left {
+    margin-right: 20px;
+    float: left;
+}
+
+.clear-fix::after {
+    content: '';
+    clear: both;
+    display: block;
+}
+
+.quote-and-description {
+    display: flex;
+}
+
+.quote-and-description>p,
+.quote-and-description>blockquote {
+    width: calc(50% - 40px);
+}
+
+.quote-and-description blockquote {
+    padding-left: 30px;
+    border-left: 2px solid #ccc;
+}
+
+blockquote {
+    font-style: italic;
+    color: #555;
+}
+
+blockquote footer {
+    text-align: right;
+}
+
+blockquote p {
+    margin-top: 0;
+}

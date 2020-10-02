@@ -1,0 +1,62 @@
+
+* {
+    box-sizing: border-box;
+}
+
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+    font-family: Helvetica, sans-serif;
+    line-height: 1.5;
+}
+
+h1,
+h2,
+h3 {
+    font-family: Georgia, serif;
+    line-height: 1.2;
+}
+
+h1 { font-size: 150%; }
+h2 { font-size: 120%; }
+
+blockquote {
+    font-style: italic;
+    color: #555;
+    font-family: Georgia, serif;
+}
+
+blockquote footer {
+    text-align: right;
+}
+
+@media (max-width: 980px){
+    header p.site-title{
+        font-size: 3em;
+    }
+    header .menu{
+        display: block;
+        text-align: center;
+        font-size: 1.5em;
+    }
+}
+
+@media (max-width: 410px){
+    header p.site-title{
+        font-size: 2em;
+    }
+
+    header ul li{
+        width: 91%;
+        font-size: 0.7em;
+        text-align: left;
+    }
+
+    header .menu{
+        font-size: 1em;
+    }
+}

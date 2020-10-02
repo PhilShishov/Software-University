@@ -1,0 +1,735 @@
+@import url("https://use.fontawesome.com/releases/v5.10.2/css/all.css");
+
+* {
+    box-sizing: border-box;
+}
+
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 18px;
+}
+
+header{
+    padding-top: 20px;
+    align-items: baseline;
+    display: flex;
+    width: 1080px;
+    margin: 0 auto;
+}
+
+.logo{
+    display: inline-block;
+    flex-grow: 2;
+}
+
+.logo h2{
+    font-size: 2.5em;
+    color: #800080;
+    margin-bottom: 5px;
+}
+
+.logo p{
+    text-transform: uppercase;
+    color: #858585;
+    font-size: 0.65em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header .menu{
+    color: #353537;
+    font-family: sans-serif;
+    display: none;
+}
+
+header nav{
+    text-align: right;
+}
+
+header nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 20px;
+    font-family: sans-serif;
+}
+
+header nav ul li a{
+    text-decoration: none;
+    color: #353537;
+}
+
+main{
+    margin-top: 100px;
+}
+
+main .header{
+    margin: 0 auto;
+    display: flex;
+    width: 850px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
+main .header div{
+    flex-shrink: 2;
+    flex-basis: 70%;
+}
+
+main .header h1{
+    font-size: 2.2em;
+}
+
+main .header p{
+    font-family: sans-serif;
+    font-size: 1em;
+    margin: 20px 0;
+}
+
+main .header button{
+    background: none;
+    border: 2px solid #000;
+    padding: 5px 15px;
+    border-radius: 5px;
+    color: #333333;
+    display: block;
+}
+
+main .header img{
+    float: right;
+    height: 200px;
+    width: 200px;
+    margin-left: 20px;
+}
+
+main .team > div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 1080px;
+    margin: 0 auto;
+}
+
+main .team h1{
+    font-size: 2em;
+    text-align: center;
+    width: 200px;
+    margin: 0 auto;
+    position: relative;
+    z-index: 1;
+    padding-bottom: 20px;
+}
+
+main .team h1::before{
+    content : "";
+    position: absolute;
+    left: 50px;
+    bottom: 0;
+    height: 1px;
+    width: 50%;  /* or 100px */
+    border-bottom: 3px solid #000;
+}
+
+main .team .person{
+    text-align: center;
+    font-family: sans-serif;
+    /* display: inline-block; */
+    margin: 50px 30px 0 0;
+}
+
+main .team .person img{
+    width: 100px;
+    border-radius: 50px;
+}
+
+main .team .person h2{
+    font-size: 1.3em;
+    font-weight: bolder;
+}
+
+main .team .person p{
+    margin-bottom: 20px;
+    color: #333333;
+}
+
+main .team .person span{
+    font-style: italic;
+    color: #333333;
+}
+
+main .newsletter{
+    text-align: center;
+    background-color: #68347B;
+    padding: 50px 0 70px 0;
+    margin: 100px 0;
+}
+
+main .newsletter h1{
+    font-size: 2.3em;
+    color: #fff;
+    margin-bottom: 20px;
+    position: relative;
+    z-index: 1;
+    padding-bottom: 20px;
+    width: 500px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+
+main .newsletter h1::before{
+    content : "";
+    position: absolute;
+    left: 190px;
+    bottom: 0;
+    height: 1px;
+    width: 20%;
+    border-bottom: 3px solid #000;
+}
+
+main .newsletter input{
+    padding: 5px 0;
+    width: 300px;
+}
+
+main .newsletter button{
+    padding: 5px 20px;
+    background-color: #fff;
+    border: 2px solid #000;
+    border-radius: 5px;
+}
+
+main .testimonials > div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 1080px;
+    margin: 0 auto;
+}
+
+main .testimonials h1{
+    font-size: 2em;
+    text-align: center;
+    width: 200px;
+    margin: 0 auto;
+    position: relative;
+    z-index: 1;
+    padding-bottom: 20px;
+}
+
+main .testimonials h1::before{
+    content : "";
+    position: absolute;
+    left: 50px;
+    bottom: 0;
+    height: 1px;
+    width: 50%;  /* or 100px */
+    border-bottom: 3px solid #000;
+}
+
+main .testimonials .person{
+    text-align: center;
+    font-family: sans-serif;
+    /* display: inline-block; */
+    margin: 50px 30px 0 0;
+}
+
+main .testimonials .person img{
+    width: 100px;
+    border-radius: 50px;
+}
+
+main .testimonials .person h2{
+    font-size: 1.3em;
+    font-weight: bolder;
+}
+
+main .testimonials .person p{
+    color: #333333;
+}
+
+main .testimonials .person > p{
+    font-style: italic;
+    color: #333333;
+    width: 270px;
+    margin: 10px 0;
+}
+
+footer{
+    border-top: 5px solid #E0E0E0;
+    padding: 30px 0;
+    margin-top: 80px;
+}
+
+footer .footer-wrapper{
+    width: 1080px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+footer .footer-wrapper div{
+    width: 400px;
+    margin-left: 50px;
+}
+
+footer .footer-wrapper .brand h1{
+    font-size: 2.3em;
+}
+
+footer .footer-wrapper .brand p{
+    margin-top: 20px;
+    font-family: sans-serif;
+}
+
+footer .footer-wrapper .sitemap h1{
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+footer .footer-wrapper .sitemap nav ul{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 100px;
+}
+
+footer .footer-wrapper .sitemap nav ul li{
+    list-style-type: none;
+    font-size: 1.1em;
+    font-family: sans-serif;
+    margin-bottom: 5px;
+}
+
+footer .footer-wrapper .sitemap nav ul li a{
+    text-decoration: none;
+    color: #333333;
+}
+
+footer .footer-wrapper .contacts h1{
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+footer .footer-wrapper .contacts ul li {
+    list-style-type: none;
+    font-size: 1.1em;
+    font-family: sans-serif;
+    margin-bottom: 5px;
+}
+
+@media (max-width: 1024px){
+    header{
+        width: 750px;
+        margin: 0 auto;
+    }
+
+    .logo h2{
+        font-size: 2em;
+    }
+
+    .logo p{
+        font-size: 0.55em;
+    }
+
+    header nav ul li{
+        font-size: 0.75em;
+    }
+
+    main .header{
+        width: 750px;
+    }
+
+    main .header h1{
+        font-size: 1.8em;
+    }
+
+    main .header p{
+        font-size: 0.75em;
+    }
+
+    main .header button{
+        font-size: 0.5em;
+    }
+
+    main .team > div{
+        width: 750px;
+    }
+
+    main .team h1{
+        font-size: 1.75em;
+    }
+    
+    main .team .person img{
+        width: 80px;
+    }
+
+    main .team .person h2{
+        font-size: 1em;
+    }
+
+    main .team .person p{
+        font-size: 0.8em;
+    }
+
+    main .team .person span{
+        font-size: 0.75em;
+    }
+
+    main .newsletter h1{
+        font-size: 1.8em;
+    }
+
+    .testimonials{
+        width: 750px;
+        margin: 0 auto;
+    }
+
+    main .testimonials > div{
+        width: 750px;
+        margin: 0 auto;
+    }
+
+    main .testimonials .person img{
+        width: 80px;
+    }
+    
+    main .testimonials .person > p{
+        font-size: 0.7em;
+        width: 185px;
+    }
+
+    main .testimonials .person h2{
+        font-size: 1em;
+    }
+
+    footer .footer-wrapper{
+        width: 750px;
+    }
+
+    footer .footer-wrapper div{
+        margin-left: 30px;
+    }
+
+    footer .footer-wrapper .brand h1{
+        font-size: 2em;
+    }
+
+    footer .footer-wrapper .brand p{
+        font-size: 0.8em;
+    }
+
+    footer .footer-wrapper .sitemap h1{
+        font-size: 1.3em;
+    }
+
+    footer .footer-wrapper .sitemap nav ul li a{
+        font-size: 0.8em;
+    }
+
+    footer .footer-wrapper .contacts h1{
+        font-size: 1.3em;
+    }
+
+    footer .footer-wrapper .contacts ul li{
+        font-size: 0.9em;
+    }
+}
+
+@media (max-width: 780px){
+    header{
+        width: 500px;
+        margin: 0 auto;
+    }
+
+    .logo h2{
+        font-size: 1.7em;
+    }
+
+    .logo p{
+        font-size: 0.46em;
+    }
+
+    header .menu{
+        display: block;
+    }
+
+    header nav{
+        display: none;
+    }
+
+    main .header{
+        width: 500px;
+    }
+
+    main .header h1{
+        font-size: 1.5em;
+    }
+
+    main .header p{
+        font-size: 0.55em;
+    }
+
+    main .header button{
+        font-size: 0.4em;
+    }
+
+    main .header img{
+        height: 120px;
+        width: 120px;
+    }
+
+    main .team > div{
+        width: 500px;
+    }
+
+    main .team h1{
+        font-size: 1.55em;
+    }
+    
+    main .team .person img{
+        width: 70px;
+    }
+
+    main .team .person h2{
+        font-size: 0.8em;
+    }
+
+    main .team .person p{
+        font-size: 0.6em;
+    }
+
+    main .team .person span{
+        font-size: 0.65em;
+    }
+
+    main .newsletter h1{
+        font-size: 1.5em;
+    }
+
+    .testimonials{
+        width: 500px;
+        margin: 0 auto;
+    }
+
+    main .testimonials > div{
+        width: 500px;
+        margin: 0 auto;
+    }
+
+    main .testimonials .person img{
+        width: 70px;
+    }
+    
+    main .testimonials .person > p{
+        font-size: 0.6em;
+        width: 160px;
+    }
+
+    main .testimonials .person h2{
+        font-size: 0.8em;
+    }
+
+    footer .footer-wrapper{
+        width: 500px;
+        flex-direction: column;
+    }
+
+    footer .footer-wrapper div{
+        margin-top: 30px;
+    }
+
+    footer .footer-wrapper div:nth-child(1){
+        margin-top: 0;
+    }
+
+    footer .footer-wrapper .brand h1{
+        font-size: 1.8em;
+    }
+
+    footer .footer-wrapper .brand p{
+        font-size: 0.65em;
+    }
+
+    footer .footer-wrapper .sitemap h1{
+        font-size: 1.1em;
+    }
+
+    footer .footer-wrapper .sitemap nav ul li a{
+        font-size: 0.65em;
+    }
+
+    footer .footer-wrapper .contacts h1{
+        font-size: 1.1em;
+    }
+
+    footer .footer-wrapper .contacts ul li{
+        font-size: 0.7em;
+    }
+}
+
+@media (max-width: 410px){
+    header{
+        width: 300px;
+        margin: 0 auto;
+    }
+
+    .logo h2{
+        font-size: 1.2em;
+    }
+
+    .logo p{
+        font-size: 0.32em;
+    }
+
+    header .menu{
+        font-size: 0.7em;
+    }
+
+    main{
+        margin-top: 40px;
+    }
+
+    main .header{
+        width: 300px;
+    }
+
+    main .header h1{
+        font-size: 1.2em;
+    }
+
+    main .header p{
+        font-size: 0.35em;
+    }
+
+    main .header button{
+        font-size: 0.3em;
+    }
+
+    main .header img{
+        height: 90px;
+        width: 90px;
+    }
+
+    main .team > div{
+        width: 300px;
+    }
+
+    main .team h1{
+        font-size: 1.2em;
+    }
+    
+    main .team .person img{
+        width: 50px;
+    }
+
+    main .team .person h2{
+        font-size: 0.55em;
+    }
+
+    main .team .person p{
+        font-size: 0.45em;
+    }
+
+    main .team .person span{
+        font-size: 0.50em;
+    }
+
+    main .team .person{
+        margin: 30px 0 0 0;
+    }
+
+    main .newsletter{
+        margin: 40px 0;
+        padding: 20px 0 30px 0;
+    }
+
+    main .newsletter h1{
+        font-size: 0.7em;
+        width: 150px;
+        margin-bottom: 10px;
+        padding-bottom: 8px;
+    }
+
+    main .newsletter h1::before{
+        left: 60px;
+    }
+
+    main .newsletter input{
+        width: 180px;
+        padding: 0;
+    }
+
+    main .newsletter button{
+        font-size: 0.55em;
+        padding: 3px 10px;
+    }
+
+    .testimonials{
+        width: 300px;
+        margin: 0 auto;
+    }
+
+    main .testimonials > div{
+        width: 300px;
+        margin: 0 auto;
+    }
+
+    main .testimonials .person img{
+        width: 50px;
+    }
+    
+    main .testimonials .person > p{
+        font-size: 0.45em;
+        width: 120px;
+    }
+
+    main .testimonials .person h2{
+        font-size: 0.55em;
+    }
+    
+    main .testimonials .person{
+        margin: 30px 0 0 0;
+    }
+
+    footer .footer-wrapper{
+        width: 300px;
+        flex-direction: column;
+    }
+
+    footer .footer-wrapper div{
+        margin-top: 20px;
+        width: 75%;
+    }
+
+    footer .footer-wrapper div:nth-child(1){
+        margin-top: 0;
+    }
+
+    footer .footer-wrapper .brand h1{
+        font-size: 1.2em;
+    }
+
+    footer .footer-wrapper .brand p{
+        font-size: 0.35em;
+    }
+
+    footer .footer-wrapper .sitemap h1{
+        font-size: 0.9em;
+        margin-bottom: 5px;
+    }
+
+    footer .footer-wrapper .sitemap nav ul li a{
+        font-size: 0.45em;
+    }
+
+    footer .footer-wrapper .contacts h1{
+        font-size: 0.9em;
+        margin-bottom: 5px;
+    }
+
+    footer .footer-wrapper .contacts ul li{
+        font-size: 0.5em;
+    }
+}
