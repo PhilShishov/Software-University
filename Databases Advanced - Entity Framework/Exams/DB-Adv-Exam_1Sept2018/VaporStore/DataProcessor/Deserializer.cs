@@ -159,7 +159,6 @@
 
                 //end validate enum
 
-
                 var user = new User
                 {
                     FullName = userDto.FullName,
