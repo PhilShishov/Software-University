@@ -1,0 +1,15 @@
+@import "https://fonts.googleapis.com/css?family=";
+@import "https://use.fontawesome.com/releases/v5.10.2/css/all.css";
+
+html {
+    font-family: ;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+*::after,
+*::before {
+    box-sizing: border-box;
+}
