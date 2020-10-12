@@ -24,6 +24,54 @@ Philip Shishov
 </table>
 <!-- Head End -->
 
+<!-- Angular -->
+<hr />
+<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<tbody>
+<tr><th align="center" width="50%">
+Angular - November 2020<br /> 
+03.11.2020 - 19.12.2020
+</th>
+<th width="40%">Grade: (out of 6.00)<br /> Issue Date: </th>
+<th>
+<p><a title="Angular" href="" target="_blank">Certificate</a></p>
+</th></tr>
+<!-- Course Body -->
+<tr>
+<td width="50%">
+<p><a title="Angular" href="" target="_blank">Angular - Defense Project</a></p>
+</td>
+<td colspan="2" width="50%"></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<!-- Angular -->
+
+<!-- HTML & CSS -->
+<hr />
+<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<tbody>
+<tr><th align="center" width="50%">
+HTML & CSS - September 2020<br /> 
+14.09.2020 - 15.12.2020
+</th>
+<th width="40%">Grade: (out of 6.00)<br /> Issue Date: </th>
+<th>
+<p><a title="HTMLCSS" href="" target="_blank">Certificate</a></p>
+</th></tr>
+<!-- Course Body -->
+<tr>
+<td width="50%">
+<p><a title="HTMLCSS" href="https://github.com/PhilShishov/Software-University/tree/master/HTML%20%26%20CSS" target="_blank">HTML & CSS - Homeworks and Exams </a></p>
+</td>
+<td colspan="2" width="50%"></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<!-- HTML & CSS -->
+
 <!-- ASP.NET Core -->
 <hr />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
@@ -39,7 +87,7 @@ ASP.NET Core - February 2020<br />
 <!-- Course Body -->
 <tr>
 <td width="50%">
-<p><a title="ASPNETCore" href="https://github.com/PhilShishov/PharusDataGatePublic" target="_blank">ASP.NET Core - Defense Project</a></p>
+<p><a title="ASPNETCore" href="https://github.com/PhilShishov/DataGate" target="_blank">ASP.NET Core - Defense Project</a></p>
 </td>
 <td colspan="2" width="50%"></td>
 </tr>
