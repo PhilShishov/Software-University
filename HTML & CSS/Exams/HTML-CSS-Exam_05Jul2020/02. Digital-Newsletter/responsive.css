@@ -1,0 +1,108 @@
+@media only screen and (max-width: 884px) {
+  * {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  header {
+    height: 80px;
+    margin: 0 15px 0 15px !important;
+  }
+
+  .date {
+    font-size: 12px;
+  }
+
+  .logo {
+    width: 40%;
+  }
+
+  .newsletter-intro hr {
+    width: 20%;
+    margin: 0.5em 1em 0 1em !important;
+  }
+
+  .newsletter-intro article {
+    width: 80%;
+    margin-right: 10px !important;
+  }
+  .newsletter-intro h4 {
+    font-size: 12px;
+  }
+  .newsletter-intro p {
+    font-size: 10px;
+  }
+
+  .newsletter-boxes {
+    display: block;
+  }
+
+  .newsletter-box {
+    width: 80%;
+    margin: 30px auto !important;
+  }
+
+  .newsletter-box-content {
+    padding: 15px !important;
+  }
+
+  .newsletter-box-content h4 {
+    margin: 20px 0 !important;
+  }
+
+  .newsletter-bottom {
+    display: flex;
+    margin: 30px auto !important;
+    width: 80%;
+  }
+
+  .newsletter-bottom h4 {
+    font-size: 14px;
+    text-align: left;
+    margin-left: 20px !important;
+  }
+
+  .newsletter-bottom-content {
+    text-align: left;
+    width: 80%;
+    margin: 0 auto !important;
+    height: 300px;
+  }
+
+  .newsletter-bottom-content-links a{
+    margin: 20px 0 !important;
+    font-size: 11px;
+  }
+
+  .newsletter-bottom-content p{
+    margin-top: 50px !important;
+    font-size: 10px;
+  }
+
+  .bottom-logo{
+      width: 20%;
+      margin: 20px 0 !important;
+  }
+
+  footer p{
+      font-size: 10px;
+  }
+
+  .social-icons-wrapper{
+      margin: 2em 0 !important;
+  }
+
+  .social-icons-wrapper a{
+    margin: 0.5em !important;
+  }
+
+  .social-icons-wrapper a img{
+    width: 20px;
+    height: 20px;
+  }
+
+  .social-icons-wrapper a:last-child img{
+    width: 30px;
+    height: 20px;
+  }
+}
