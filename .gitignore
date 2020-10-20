@@ -353,6 +353,3 @@ MigrationBackup/
 .ionide/
 
 # Custom ignores
-**/wwwroot/lib/
-*.min.css
-*.min.js
