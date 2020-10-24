@@ -1,0 +1,140 @@
+@import "https://use.fontawesome.com/releases/v5.10.2/css/all.css";
+@import "https://fonts.googleapis.com/css?family=Lato";
+@import "https://fonts.googleapis.com/css?family=Montserrat";
+
+html {
+  font-family: Lato, sans-serif;
+  line-height: 1.5;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+/* Header Styling */
+
+header {
+  display: flex;
+  padding: 15px 20px;
+  align-items: center;
+  background-color: white;
+}
+
+header div {
+  width: 35%;
+}
+header ul,
+h1 {
+  font-family: Montserrat;
+  font-weight: initial;
+}
+
+header ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  width: 65%;
+  align-items: center;
+}
+
+.btn-login {
+  background-color: rgb(154, 90, 197);
+  color: white;
+  border: none;
+  border-radius: 20px;
+  padding: 10px 20px;
+}
+
+/* Main Styling */
+
+main {
+  border-top: 1px solid;
+}
+
+.diplomas-certificates,
+.mon-certificates,
+.career-center {
+  display: flex;
+  padding: 70px;
+  justify-content: space-evenly;
+}
+
+.mon-certificates{
+    background-color: rgb(20, 22, 43);
+    color: white;
+    height: 300px;
+}
+
+.arrow {
+  background: url("images/arrow.svg");
+  background-repeat: no-repeat;
+}
+
+.award {
+  background-color: rgb(84, 84, 109);
+  background-image: url("images/award.svg");
+  background-repeat: no-repeat;
+  background-position: 80% 80%;
+  width: 700px;
+  height: 700px;
+  border-radius: 50%;
+  position: absolute;
+  bottom: 60%;
+  right: -5%;
+  z-index: -1;
+}
+
+.content {
+  width: 65%;
+}
+
+.content-text {
+  margin: 15px 0;
+  font-size: 20px;
+}
+
+.content-text-transparent{
+    color: rgb(0 0 0 / 55%);
+    font-style: italic;
+    margin-bottom: 5px;
+}
+
+.career-btn{
+    background: none;
+    color: rgb(126, 81, 174);
+    border: 2px solid rgb(218, 196, 234);
+    outline: none;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+/* Footer Styling */
+
+
+footer{
+    background-color: rgb(44, 44, 58);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 0;
+}
+
+footer ul{
+    list-style-type: none;
+}
+
+footer h3{
+    color: rgb(126, 81, 174);
+}
+
+.icons i{
+    font-size: 22px;
+    margin: 20px 25px 20px 0px;
+}

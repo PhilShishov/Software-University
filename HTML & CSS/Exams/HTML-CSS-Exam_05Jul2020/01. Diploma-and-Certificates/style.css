@@ -1,0 +1,74 @@
+@import "https://fonts.googleapis.com/css?family=Lato";
+@import "https://fonts.googleapis.com/css?family=Montserrat";
+
+html {
+  font-family: Lato, sans-serif;
+  line-height: 1.5;
+  color: white;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+/* Header Styling */
+
+header p {
+  font-family: Montserrat, sans-serif;
+  font-size: 26px;
+}
+
+/* Main Styling */
+
+main {
+  background: rgb(48, 96, 133);
+  display: flex;
+  padding: 100px;
+  z-index: -1;
+}
+
+.dots {
+  background: url("images/dots.svg");
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 75%;
+  left: 0%;
+}
+
+.arrow {
+  background: url("images/arrow.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  right: 0%;
+  top: 10%;
+  z-index: -1;
+}
+
+.description {
+  width: 50%;
+}
+
+.description div p {
+  margin-top: 15px;
+}
+
+.description div p:last-child{
+    color: rgb(255 255 255 / 55%);
+    font-style: italic;
+}
+
+.images {
+  width: 50%;
+  display: flex;
+  justify-content: space-evenly;
+  z-index: 1;
+}
+
+/* Footer Styling */
