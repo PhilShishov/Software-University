@@ -22,4 +22,5 @@
 - <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced/Exams/JS-Adv-Exam_1July2019" >1 July 2019</a>
 - <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced/Exams/JS-Adv-Exam_7July2019" >7 July 2019</a>
 - <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced/Exams/JS-Adv-Exam_8Aug2019" >8 Aug 2019</a>
+- <a href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced/Exams/JS-Adv_Exam_8Apr2020" >8 Apr 2020</a>
 
