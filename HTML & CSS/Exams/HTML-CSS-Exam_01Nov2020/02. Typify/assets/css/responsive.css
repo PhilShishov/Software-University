@@ -1,0 +1,64 @@
+@media only screen and (max-width: 600px) {
+    .banner,
+    .wrapper,
+    .wrapper {
+        display: flex;
+    }
+    .banner,
+    .features,
+    .grid-form {
+        flex-direction: column;
+    }
+    .banner {
+        padding: 2em 0 0 0;
+    }
+    .banner h2,
+    .button,
+    input[type="submit"],
+    .feature,
+    .grid-form .form-control.narrow,
+    .footer:before {
+        width: 90%;
+    }
+    .banner h2,
+    .banner p,
+    .feature h3,
+    .feature h3,
+    label,
+    .copyright {
+        font-size: 0.8em !important;
+    }
+    header h2 {
+        font-size: 1em;
+    }
+    .button,
+    input[type="submit"],
+    .feature p {
+        font-size: 0.7em;
+    }
+    ul.actions li:last-child {
+        width: 100%;
+    }
+    header.major {
+        margin-bottom: 0;
+    }
+    .wrapper {
+        padding: 1em 0 0 0;
+    }
+    .feature {
+        margin: auto;
+        padding: 1.5em 0.5em 0.1em 0.5em;
+    }
+    .feature .fa {
+        font-size: 1.8em;
+    }
+    .grid-form {
+        align-items: center;
+    }
+    .footer {
+        padding: 2em 0 1em 0;
+    }
+    .footer:before {
+        left: 5%;
+    }
+}
