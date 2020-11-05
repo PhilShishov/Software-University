@@ -26,7 +26,7 @@ Philip Shishov
 
 <!-- Angular -->
 <hr />
-<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<table border="0" width="500px" cellspacing="1" cellpadding="3" align="center">
 <tbody>
 <tr><th align="center" width="50%">
 Angular - November 2020<br /> 
@@ -38,10 +38,9 @@ Angular - November 2020<br />
 </th></tr>
 <!-- Course Body -->
 <tr>
-<td width="50%">
-<p><a title="Angular" href="" target="_blank">Angular - Defense Project</a></p>
+<td colspan="3">
+<p align="center"><a title="Angular" href="" target="_blank">Angular - Defense Project</a></p>
 </td>
-<td colspan="2" width="50%"></td>
 </tr>
 </tbody>
 </table>
@@ -56,16 +55,15 @@ Angular - November 2020<br />
 HTML & CSS - September 2020<br /> 
 14.09.2020 - 15.12.2020
 </th>
-<th width="40%">Grade: (out of 6.00)<br /> Issue Date: </th>
+<th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: </th>
 <th>
 <p><a title="HTMLCSS" href="" target="_blank">Certificate</a></p>
 </th></tr>
 <!-- Course Body -->
 <tr>
-<td width="50%">
-<p><a title="HTMLCSS" href="https://github.com/PhilShishov/Software-University/tree/master/HTML%20%26%20CSS" target="_blank">HTML & CSS - Homeworks and Exams </a></p>
+<td colspan="3" >
+<p align="center"><a title="HTMLCSS" href="https://github.com/PhilShishov/Software-University/tree/master/HTML%20%26%20CSS" target="_blank">HTML & CSS - Homeworks and Exams </a></p>
 </td>
-<td colspan="2" width="50%"></td>
 </tr>
 </tbody>
 </table>
@@ -86,10 +84,9 @@ ASP.NET Core - February 2020<br />
 </th></tr>
 <!-- Course Body -->
 <tr>
-<td width="50%">
-<p><a title="ASPNETCore" href="https://github.com/PhilShishov/DataGate" target="_blank">ASP.NET Core - Defense Project</a></p>
+<td colspan="3">
+<p align="center"><a title="ASPNETCore" href="https://github.com/PhilShishov/DataGate" target="_blank">ASP.NET Core - Defense Project</a></p>
 </td>
-<td colspan="2" width="50%"></td>
 </tr>
 </tbody>
 </table>
@@ -111,10 +108,9 @@ C# Web Basics - January 2020<br />
 </th></tr>
 <!-- Course Body -->
 <tr>
-<td width="50%">
-<p><a title="C#Web" href="https://github.com/PhilShishov/Software-University/tree/master/C%23%20Web%20Basics" target="_blank">C# Web Basics - Homeworks and Exams </a></p>
+<td colspan="3">
+<p align="center"><a title="C#Web" href="https://github.com/PhilShishov/Software-University/tree/master/C%23%20Web%20Basics" target="_blank">C# Web Basics - Homeworks and Exams </a></p>
 </td>
-<td colspan="2" width="50%"></td>
 </tr>
 </tbody>
 </table>
@@ -136,10 +132,9 @@ JS Apps - February 2020<br />
 </th></tr>
 <!-- Course Body -->
 <tr>
-<td width="50%">
-<p><a title="JSApps" href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Apps" target="_blank">JS Applications - Homeworks and Exams </a></p>
+<td colspan="3">
+<p align="center"><a title="JSApps" href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Apps" target="_blank">JS Applications - Homeworks and Exams </a></p>
 </td>
-<td colspan="2" width="50%"></td>
 </tr>
 </tbody>
 </table>
@@ -160,10 +155,9 @@ JS Advanced - January 2020<br />
 </th></tr>
 <!-- Course Body -->
 <tr>
-<td width="50%">
-<p><a title="JSAdvanced" href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced" target="_blank">JS Advanced - Homeworks and Exams </a></p>
+<td colspan="3">
+<p align="center"><a title="JSAdvanced" href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Advanced" target="_blank">JS Advanced - Homeworks and Exams </a></p>
 </td>
-<td colspan="2" width="50%"></td>
 </tr>
 </tbody>
 </table>
@@ -184,10 +178,9 @@ JS Essentials - May 2019<br />
 </th></tr>
 <!-- Course Body -->
 <tr>
-<td width="50%">
-<p><a title="JSEssentials" href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Essentials" target="_blank">JS Essentials - Homeworks and Exams </a></p>
+<td colspan="3">
+<p align="center"><a title="JSEssentials" href="https://github.com/PhilShishov/Software-University/tree/master/JS%20Essentials" target="_blank">JS Essentials - Homeworks and Exams </a></p>
 </td>
-<td colspan="2" width="50%"></td>
 </tr>
 </tbody>
 </table>
@@ -208,10 +201,9 @@ C# OOP - June 2019<br />
 </th></tr>
 <!-- Course Body -->
 <tr>
-<td width="50%">
-<p><a title="C#OOP" href="https://github.com/PhilShishov/Software-University/tree/master/C%23%20OOP" target="_blank">C# OOP - Homeworks and Exams </a></p>
+<td colspan="3">
+<p align="center"><a title="C#OOP" href="https://github.com/PhilShishov/Software-University/tree/master/C%23%20OOP" target="_blank">C# OOP - Homeworks and Exams </a></p>
 </td>
-<td colspan="2" width="50%"></td>
 </tr>
 </tbody>
 </table>
@@ -232,10 +224,9 @@ C# Advanced - May 2019<br />
 </th></tr>
 <!-- Course Body -->
 <tr>
-<td width="50%">
-<p><a title="C#Advanced" href="https://github.com/PhilShishov/Software-University/tree/master/C%23%20Advanced" target="_blank">C# Advanced - Homeworks and Exams </a></p>
+<td colspan="3">
+<p align="center"><a title="C#Advanced" href="https://github.com/PhilShishov/Software-University/tree/master/C%23%20Advanced" target="_blank">C# Advanced - Homeworks and Exams </a></p>
 </td>
-<td colspan="2" width="50%"></td>
 </tr>
 </tbody>
 </table>
@@ -256,10 +247,9 @@ Databases Advanced - Entity Framework - February 2019 <br />
 </th></tr>
 <!-- Course Body -->
 <tr>
-<td width="50%">
-<p><a title="DBAdvanced" href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework" target="_blank">Databases Advanced - Homeworks and Exams </a></p>
+<td colspan="3">
+<p align="center"><a title="DBAdvanced" href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Advanced%20-%20Entity%20Framework" target="_blank">Databases Advanced - Homeworks and Exams </a></p>
 </td>
-<td colspan="2" width="50%"></td>
 </tr>
 </tbody>
 </table>
@@ -280,10 +270,9 @@ Databases Basics - MS SQL Server - January 2019 <br />
 </th></tr>
 <!-- Course Body -->
 <tr>
-<td width="50%">
-<p><a title="DBBasics" href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Basics%20-%20MSSQL%20Server" target="_blank">Databases Basics - Exams </a></p>
+<td colspan="3">
+<p align="center"><a title="DBBasics" href="https://github.com/PhilShishov/Software-University/tree/master/Databases%20Basics%20-%20MSSQL%20Server" target="_blank">Databases Basics - Exams </a></p>
 </td>
-<td colspan="2" width="50%"></td>
 </tr>
 </tbody>
 </table>
@@ -304,10 +293,9 @@ Technology Fundamentals - September 2018 <br />
 </th></tr>
 <!-- Course Body -->
 <tr>
-<td width="50%">
-<p><a title="TechFundamentals" href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals" target="_blank">Technology Fundamentals - Homeworks and Exams </a></p>
+<td colspan="3">
+<p align="center"><a title="TechFundamentals" href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals" target="_blank">Technology Fundamentals - Homeworks and Exams </a></p>
 </td>
-<td colspan="2" width="50%"></td>
 </tr>
 </tbody>
 </table>
@@ -328,10 +316,9 @@ QA Automation - June 2018 <br />
 </th></tr>
 <!-- Course Body -->
 <tr>
-<td width="50%">
-<p><a title="Automated-UI-Tests" href="https://github.com/PhilShishov/Automated-UI-Tests" target="_blank">Automated UI Tests - Homeworks and Exams</a></p>
+<td colspan="3">
+<p align="center"><a title="Automated-UI-Tests" href="https://github.com/PhilShishov/Automated-UI-Tests" target="_blank">Automated UI Tests - Homeworks and Exams</a></p>
 </td>
-<td colspan="2" width="50%"></td>
 </tr>
 </tbody>
 </table>
