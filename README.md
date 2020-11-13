@@ -55,9 +55,9 @@ Angular - November 2020<br />
 HTML & CSS - September 2020<br /> 
 14.09.2020 - 15.12.2020
 </th>
-<th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: </th>
+<th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 13/11/2020</th>
 <th>
-<p><a title="HTMLCSS" href="" target="_blank">Certificate</a></p>
+<p><a title="HTMLCSS" href="https://softuni.bg/certificates/details/91350/ef501d34" target="_blank">Certificate</a></p>
 </th></tr>
 <!-- Course Body -->
 <tr>
