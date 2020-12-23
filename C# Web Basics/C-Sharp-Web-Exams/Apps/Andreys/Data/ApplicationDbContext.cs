@@ -21,7 +21,7 @@
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=.;Database=Andreys_Shishov;Integrated Security=true;");
+                optionsBuilder.UseSqlServer("Server=.;Database=Andreys;Integrated Security=true;");
             }
         }
 
