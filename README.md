@@ -55,7 +55,7 @@ HTML & CSS - September 2020<br />
 ASP.NET Core - February 2020<br /> 
 18.02.2020 - 30.04.2020
 </th>
-<th width="40%">Grade: 5.36 (out of 6.00)<br /> Issue Date: 05/05/2020</th>
+<th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 05/05/2020</th>
 <th>
 <p><a title="ASP.NET Core" href="https://softuni.bg/certificates/details/81189/5d0eef66" target="_blank">Certificate</a></p>
 </th></tr>
@@ -79,14 +79,14 @@ ASP.NET Core - February 2020<br />
 C# Web Basics - January 2020<br /> 
 14.01.2020 - 28.04.2020
 </th>
-<th width="40%">Grade:  (out of 6.00)<br /> Issue Date: </th>
+<th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 02/02/2021 </th>
 <th>
-<p><a title="C#WebBasics" href="">Certificate</a></p>
+<p><a title="C#WebBasics" href="https://softuni.bg/certificates/details/97275/d33247f2">Certificate</a></p>
 </th></tr>
 <!-- Course Body -->
 <tr>
 <td colspan="3">
-<p align="center"><a title="C#Web" href="https://github.com/PhilShishov/Software-University/tree/master/C%23%20Web%20Basics" target="_blank">C# Web Basics - Homeworks and Exams </a></p>
+<p align="center"><a title="C#Web" href="https://github.com/PhilShishov/Software-University/tree/master/C%23%20Web%20Basics" target="_blank">C# Web Basics - Exams </a></p>
 </td>
 </tr>
 </tbody>
@@ -128,7 +128,7 @@ JS Advanced - January 2020<br />
 </th>
 <th width="40%">Grade: 5.30 (out of 6.00)<br /> Issue Date: 21/04/2020</th>
 <th>
-<p><a title="JS Advanced" href="https://softuni.bg/certificates/details/80533/1ed94911" target="_blank">Certificate</a></p>
+<p><a title="JS Advanced" href="https://github.com/PhilShishov/Certificates/blob/master/SoftUni/JS%20Advanced%20-%20January%202020%20-%20Certificate.pdf" target="_blank">Certificate</a></p>
 </th></tr>
 <!-- Course Body -->
 <tr>
