@@ -6,7 +6,7 @@
 <td align="center" width="33%">
 <h1><a href="https://softuni.bg/">SoftUni</a></h1>
 <h2>C#</h2>
-<h2>JavaScript</h2>
+<h2>ASP.NET</h2>
 </td>
 <td align="center" width="33%"></br>
   <a href="https://www.linkedin.com/in/philshishov/">
@@ -81,7 +81,7 @@ C# Web Basics - January 2020<br />
 </th>
 <th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 02/02/2021 </th>
 <th>
-<p><a title="C#WebBasics" href="https://softuni.bg/certificates/details/97275/d33247f2">Certificate</a></p>
+<p><a title="C#WebBasics" href="https://softuni.bg/certificates/details/97567/2429a7b6">Certificate</a></p>
 </th></tr>
 <!-- Course Body -->
 <tr>
