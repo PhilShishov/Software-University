@@ -1,5 +1,5 @@
 import { Component, Input, OnInit } from '@angular/core';
-import { IPost } from '../interfaces';
+import { IPost } from '../../shared/interfaces';
 import { PostService } from '../post.service';
 
 @Component({
@@ -20,5 +20,4 @@ export class PostListComponent implements OnInit {
       this.postList = postList;
     });
   }
-
 }
