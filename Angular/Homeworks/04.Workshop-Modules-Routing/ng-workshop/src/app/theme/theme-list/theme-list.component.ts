@@ -22,4 +22,5 @@ export class ThemeListComponent implements OnInit, AfterViewInit {
   ngAfterViewInit(): void {
     console.log('View was initialized');
   }
+
 }

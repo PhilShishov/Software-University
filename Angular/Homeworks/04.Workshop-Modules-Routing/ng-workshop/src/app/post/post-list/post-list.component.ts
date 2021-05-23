@@ -20,4 +20,5 @@ export class PostListComponent implements OnInit {
       this.postList = postList;
     });
   }
+
 }
