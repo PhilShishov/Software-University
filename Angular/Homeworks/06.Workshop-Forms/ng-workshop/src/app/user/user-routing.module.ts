@@ -10,16 +10,13 @@ const routes: Routes = [
     canActivateChild: [
       AuthGuard
     ],
-    data: {
-      testing: 123
-    },
     children: [
       {
         path: 'register',
         component: RegisterComponent,
         data: {
           isLogged: false,
-          // noNavigation: true,
+          noNavigation: true,
           title: 'REGISTER USER'
         },
       },

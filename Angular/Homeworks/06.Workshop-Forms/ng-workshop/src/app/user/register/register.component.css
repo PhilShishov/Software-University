@@ -22,11 +22,17 @@ form.login, form.register {
   padding-top: 1.5rem;
 }
 
+input:not(.input-error) {
+  border-left: 0.3em solid green;
+} 
+
 .login input, .register input {
   flex: 0 1 100%;
-  border: 1px solid;
+  border-right: 1px solid;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
   padding: 0.3em;
-  border-left: 0.3em solid green;
+
   border-top-right-radius: 0.3em;
   border-bottom-right-radius: 0.3em;
 }

@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { IUser } from 'src/app/shared/interfaces';
+import { UserService } from '../user.service';
 
 @Component({
   selector: 'app-profile',
@@ -7,9 +9,30 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ProfileComponent implements OnInit {
 
-  constructor() { }
+  inEditMode = false;
+
+  get currentUser(): IUser {
+    return this.userService.currentUser;
+  }
+
+  constructor(private userService: UserService) { }
 
   ngOnInit(): void {
+  }
+
+  toggleEditMode(): void {
+    this.inEditMode = !this.inEditMode;
+  }
+
+  submitHandler(data: any): void {
+    this.userService.updateProfile(data).subscribe({
+      next: () => {
+        this.inEditMode = false;
+      },
+      error: (err) => {
+        console.error(err);
+      }
+    });
   }
 
 }
