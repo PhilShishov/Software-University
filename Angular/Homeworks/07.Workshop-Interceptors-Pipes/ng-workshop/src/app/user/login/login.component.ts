@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
-import { UserService } from '../user.service';
+import { AuthService } from 'src/app/core/auth.service';
 
 @Component({
   selector: 'app-login',
@@ -13,7 +13,7 @@ export class LoginComponent implements OnInit {
   errorMessage = '';
 
   constructor(
-    private userService: UserService,
+    private userService: AuthService,
     private router: Router
   ) { }
 
@@ -27,16 +27,18 @@ export class LoginComponent implements OnInit {
   submitFormHandler(formValue: { email: string, password: string }): void {
     this.isLoading = true;
     this.errorMessage = '';
-    this.userService.login(formValue).subscribe({
-      next: (data) => {
-        this.isLoading = false;
-        this.router.navigate(['/']);
-      },
-      error: (err) => {
-        this.errorMessage = 'ERROR!';
-        this.isLoading = false;
+    this.userService.login(formValue).subscribe(
+      {
+        next: (data) => {
+          this.isLoading = false;
+          this.router.navigate(['/']);
+        },
+        error: (err) => {
+          this.errorMessage = err.error.message;
+          this.isLoading = false;
+        }
       }
-    });
+    );
   }
 
 }

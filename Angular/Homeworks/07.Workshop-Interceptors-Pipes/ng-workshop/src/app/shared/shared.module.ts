@@ -4,13 +4,17 @@ import { LoaderComponent } from './loader/loader.component';
 import { AsideComponent } from './aside/aside.component';
 import { EmailValidatorDirective } from './email-validator.directive';
 import { SubmitOnValidDirective } from './dir.directive';
+import { ShortenTextPipe } from './shorten-text.pipe';
+import { TimeDiffPipe } from './time-diff.pipe';
 
 @NgModule({
   declarations: [
     LoaderComponent,
     AsideComponent,
     EmailValidatorDirective,
-    SubmitOnValidDirective
+    SubmitOnValidDirective,
+    ShortenTextPipe,
+    TimeDiffPipe
   ],
   imports: [
     CommonModule
@@ -19,7 +23,9 @@ import { SubmitOnValidDirective } from './dir.directive';
     LoaderComponent,
     AsideComponent,
     EmailValidatorDirective,
-    SubmitOnValidDirective
+    SubmitOnValidDirective,
+    ShortenTextPipe,
+    TimeDiffPipe
   ]
 })
 export class SharedModule { }

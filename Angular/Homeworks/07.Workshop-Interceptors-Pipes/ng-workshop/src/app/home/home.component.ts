@@ -1,30 +1,26 @@
 import { Component, DoCheck } from '@angular/core';
 import { NavigationEnd, Router } from '@angular/router';
 import { filter } from 'rxjs/operators';
-import { UserService } from '../user/user.service';
+import { AuthService } from '../core/auth.service';
 
 @Component({
   selector: 'app-home',
   templateUrl: './home.component.html',
   styleUrls: ['./home.component.css']
 })
-export class HomeComponent implements DoCheck {
+export class HomeComponent {
 
-  isLogged = false;
+  isLogged$ = this.authService.isLogged$;
 
   url: string;
 
   constructor(
-    private userService: UserService,
+    private authService: AuthService,
     router: Router
   ) {
 
     router.events.pipe(filter(e => e instanceof NavigationEnd)).subscribe((e: NavigationEnd) => {
       this.url = e.url;
     });
-  }
-
-  ngDoCheck(): void {
-    this.isLogged = this.userService.isLogged;
   }
 }

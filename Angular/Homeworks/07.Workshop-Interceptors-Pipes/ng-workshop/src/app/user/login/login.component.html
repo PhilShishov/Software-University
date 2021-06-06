@@ -31,6 +31,10 @@
       Password must be at least 4 characters!
     </p>
 
+    <p *ngIf="errorMessage" class="error">
+      {{errorMessage}}
+    </p>
+
     <button [disabled]="isLoading || f.invalid">Login</button>
     <app-loader [isLoading]="isLoading"></app-loader>
 

@@ -2,11 +2,11 @@
   <div class="theme-name-wrapper">
     <div class="theme-name">
       <a [routerLink]="['/theme/detail', theme._id]" class="normal">
-        <h2>{{theme.themeName}}</h2>
+        <h2>{{theme.themeName | shortenText}}</h2>
       </a>
       <div class="columns">
         <div>
-          <p>Date: <time>{{theme.created_at}}</time></p>
+          <p>Date: <time>{{theme.created_at | timeDiff}}</time></p>
           <div class="nick-name">
             <p>Username: <span>{{theme.userId.username}}</span></p>
           </div>

@@ -1,4 +1,4 @@
-<header>
+<header *ngIf="isReady$ | async">
 
   You can show and hide the html elements based on this variable: {{hideNavigation}}
   <div class="mini-navbar-wrap">
@@ -7,16 +7,16 @@
     </div>
     <div class="mini-navbar">
       <ul>
-        <li *ngIf="isLogged">
+        <li *ngIf="isLogged$ | async">
           <a routerLink="/user/profile">John's profile</a>
         </li>
-        <li *ngIf="isLogged">
+        <li *ngIf="isLogged$ | async">
           <a (click)="logoutHandler()">Logout</a>
         </li>
-        <li *ngIf="!isLogged">
+        <li *ngIf="!isLogged$ | async">
           <a routerLink="/user/login">Login</a>
         </li>
-        <li *ngIf="!isLogged">
+        <li *ngIf="!isLogged$ | async">
           <a routerLink="/user/register">Register</a>
         </li>
       </ul>

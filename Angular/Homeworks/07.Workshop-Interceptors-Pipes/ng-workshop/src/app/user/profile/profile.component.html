@@ -1,15 +1,15 @@
 <ng-template #defaultMode>
   <div class="flex">
     <p>Username: </p>
-    <p>{{currentUser.username}}</p>
+    <p>{{(currentUser$ | async)?.username}}</p>
   </div>
   <div class="flex">
     <p>Email: </p>
-    <p>{{currentUser.email}}</p>
+    <p>{{(currentUser$ | async)?.email}}</p>
   </div>
   <div class="flex">
     <p>Phone: </p>
-    <p>+359 {{currentUser.tel}}</p>
+    <p>+359 {{(currentUser$ | async)?.tel}}</p>
   </div>
   <button class="edit-button" (click)="toggleEditMode()">Edit</button>
 </ng-template>
@@ -18,11 +18,11 @@
   <form #f="ngForm" (ngSubmit)="submitHandler(f.value)">
     <div class="flex">
       <p>Username: </p>
-      <input type="text" name="username" id="username" [ngModel]="currentUser.username">
+      <input type="text" name="username" id="username" [ngModel]="(currentUser$ | async)?.username">
     </div>
     <div class="flex">
       <p>Email: </p>
-      <input type="email" name="email" id="email" [ngModel]="currentUser.email">
+      <input type="email" name="email" id="email" [ngModel]="(currentUser$ | async)?.email">
     </div>
     <div class="flex">
       <p>Phone: </p>
@@ -30,7 +30,7 @@
         <select name="select-tel" id="select-tel" class="tel">
           <option value="00359">+359</option>
         </select>
-        <input type="text" name="tel" id="tel" value="885 888 888" [ngModel]="currentUser.tel">
+        <input type="text" name="tel" id="tel" value="885 888 888" [ngModel]="(currentUser$ | async)?.tel">
       </div>
     </div>
     <button type="button" class="red-button" (click)="toggleEditMode()">Cancel</button>
