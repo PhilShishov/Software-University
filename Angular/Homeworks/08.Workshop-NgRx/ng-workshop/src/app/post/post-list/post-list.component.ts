@@ -1,4 +1,4 @@
-import { Component, Input, OnInit } from '@angular/core';
+import { Component, Input } from '@angular/core';
 import { IPost } from '../../shared/interfaces';
 import { PostService } from '../post.service';
 
@@ -7,18 +7,10 @@ import { PostService } from '../post.service';
   templateUrl: './post-list.component.html',
   styleUrls: ['./post-list.component.css']
 })
-export class PostListComponent implements OnInit {
+export class PostListComponent {
 
   @Input() themeId: string;
 
-  postList: IPost[];
-
-  constructor(private postService: PostService) { }
-
-  ngOnInit(): void {
-    this.postService.loadPostList(this.themeId, 5).subscribe(postList => {
-      this.postList = postList;
-    });
-  }
+  @Input() postList: IPost[];
 
 }

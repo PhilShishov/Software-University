@@ -1,4 +1,7 @@
-import { AfterViewInit, Component, OnInit } from '@angular/core';
+import { AfterViewInit, Component } from '@angular/core';
+import { Store } from '@ngrx/store';
+import { IThemeModuleState } from '../+store';
+import { themeListLoadThemeList, themeListSetIsLoading, themeListSetThemeList } from '../+store/actions';
 import { ITheme } from '../../shared/interfaces';
 import { ThemeService } from '../theme.service';
 
@@ -7,16 +10,12 @@ import { ThemeService } from '../theme.service';
   templateUrl: './theme-list.component.html',
   styleUrls: ['./theme-list.component.css']
 })
-export class ThemeListComponent implements OnInit, AfterViewInit {
+export class ThemeListComponent implements AfterViewInit {
 
-  themeList: ITheme[];
+  themeList$ = this.store.select(state => state.theme.list.themeList);
 
-  constructor(private themeService: ThemeService) { }
-
-  ngOnInit(): void {
-    this.themeService.loadThemeList().subscribe(themeList => {
-      this.themeList = themeList;
-    });
+  constructor(private store: Store<IThemeModuleState>) {
+    this.store.dispatch(themeListLoadThemeList());
   }
 
   ngAfterViewInit(): void {

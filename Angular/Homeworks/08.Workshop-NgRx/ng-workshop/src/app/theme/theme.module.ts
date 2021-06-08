@@ -11,6 +11,10 @@ import { NewComponent } from './new/new.component';
 import { ThemeComponent } from './theme/theme.component';
 import { PostModule } from '../post/post.module';
 import { FormsModule } from '@angular/forms';
+import { StoreModule } from '@ngrx/store';
+import { reducers } from './+store';
+import { EffectsModule } from '@ngrx/effects';
+import { ThemeListEffects } from './+store/effects';
 
 @NgModule({
   declarations: [
@@ -25,10 +29,15 @@ import { FormsModule } from '@angular/forms';
     SharedModule,
     PostModule,
     FormsModule,
-    ThemeRouterModule
+    ThemeRouterModule,
+    EffectsModule.forFeature([
+      ThemeListEffects
+    ]),
+    StoreModule.forFeature('theme', reducers)
   ],
   providers: [
-    ThemeService
+    ThemeService,
+    ThemeListEffects
   ],
   exports: [
     ThemeListComponent,

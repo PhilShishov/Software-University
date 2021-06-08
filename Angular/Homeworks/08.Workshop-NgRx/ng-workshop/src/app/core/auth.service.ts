@@ -1,48 +1,47 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
-import { BehaviorSubject } from 'rxjs';
+import { Store } from '@ngrx/store';
 import { Observable } from 'rxjs/internal/Observable';
 import { catchError, tap, map } from 'rxjs/operators';
+import { IRootState } from '../+store';
 import { IUser } from '../shared/interfaces';
+import { login, register, authenticate, logout } from '../+store/actions';
 
 @Injectable()
 export class AuthService {
 
-  // tslint:disable-next-line:variable-name
-  private _currentUser: BehaviorSubject<IUser | null> = new BehaviorSubject(undefined);
-  currentUser$ = this._currentUser.asObservable();
-  isLogged$ = this.currentUser$.pipe(map(user => !!user));
-  isReady$ = this.currentUser$.pipe(map(user => user !== undefined));
+  currentUser$ = this.store.select((state) => state.auth.currentUser);
+  isLogged$ = this.currentUser$.pipe(map(currentUser => currentUser !== null));
+  isReady$ = this.currentUser$.pipe(map(currentUser => currentUser !== undefined));
 
-  constructor(private http: HttpClient) { }
-
-  updateCurrentUser(user: IUser | null): void {
-    this._currentUser.next(user);
-  }
+  constructor(
+    private http: HttpClient,
+    private store: Store<IRootState>
+  ) { }
 
   login(data: any): Observable<any> {
     return this.http.post(`/users/login`, data).pipe(
-      tap((user: IUser) => this._currentUser.next(user))
+      tap((user: IUser) => this.store.dispatch(login({ user })))
     );
   }
 
   register(data: any): Observable<any> {
     return this.http.post(`/users/register`, data).pipe(
-      tap((user: IUser) => this._currentUser.next(user))
+      tap((user: IUser) => this.store.dispatch(register({ user })))
     );
   }
 
   logout(): Observable<any> {
     return this.http.post(`/users/logout`, {}).pipe(
-      tap((user: IUser) => this._currentUser.next(null))
+      tap((user: IUser) => this.store.dispatch(logout()))
     );
   }
 
   authenticate(): Observable<any> {
     return this.http.get(`/users/profile`).pipe(
-      tap((user: IUser) => this._currentUser.next(user)),
+      tap((user: IUser) => this.store.dispatch(authenticate({ user }))),
       catchError(() => {
-        this._currentUser.next(null);
+        this.store.dispatch(authenticate({ user: null }));
         return [null];
       })
     );

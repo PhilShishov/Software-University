@@ -31,12 +31,12 @@
       Password must be at least 4 characters!
     </p>
 
-    <p *ngIf="errorMessage" class="error">
+    <p *ngIf="errorMessage$ | async as errorMessage" class="error">
       {{errorMessage}}
     </p>
 
-    <button [disabled]="isLoading || f.invalid">Login</button>
-    <app-loader [isLoading]="isLoading"></app-loader>
+    <button [disabled]="(isLoading$ | async) || f.invalid">Login</button>
+    <app-loader [isLoading]="(isLoading$ | async)"></app-loader>
 
     <p class="text-center">
       Have an account?

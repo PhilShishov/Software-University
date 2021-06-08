@@ -1,13 +1,13 @@
-<div class="theme-content" *ngIf="theme">
+<div class="theme-content" *ngIf="isLoading$ | async">
   <!-- theme-title  -->
   <div class="theme-title">
     <div class="theme-name-wrapper">
       <div class="theme-name">
-        <h2>{{theme.themeName}}</h2>
-        <p>Date: <time>{{theme.created_at}}</time></p>
+        <h2>{{(theme$ | async).themeName}}</h2>
+        <p>Date: <time>{{(theme$ | async).created_at}}</time></p>
       </div>
       <div class="subscribers">
-        <p>Subscribers: <span>{{theme.subscribers.length}}</span></p>
+        <p>Subscribers: <span>{{(theme$ | async).subscribers.length}}</span></p>
         <!-- <button class="subscribe">Subscribe</button>
               <button class="unsubscribe">Unsubscribe</button> -->
       </div>
@@ -15,7 +15,7 @@
   </div>
   <!-- comment  -->
 
-  <div class="comment" *ngFor="let comment of theme.posts">
+  <div class="comment" *ngFor="let comment of (theme$ | async).posts">
     <header class="header">
       <p><span>{{comment.userId.username}}</span> posted on <time>{{comment.created_at}}</time></p>
     </header>
@@ -44,4 +44,4 @@
   </div>
 
 </div>
-<app-loader [isLoading]="!theme"></app-loader>
+<app-loader [isLoading]="isLoading$ | async"></app-loader>

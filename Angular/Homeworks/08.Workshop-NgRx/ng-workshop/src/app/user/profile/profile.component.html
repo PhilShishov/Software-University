@@ -11,7 +11,7 @@
     <p>Phone: </p>
     <p>+359 {{(currentUser$ | async)?.tel}}</p>
   </div>
-  <button class="edit-button" (click)="toggleEditMode()">Edit</button>
+  <button class="edit-button" (click)="toggleEditMode(false)">Edit</button>
 </ng-template>
 
 <ng-template #editMode>
@@ -33,13 +33,16 @@
         <input type="text" name="tel" id="tel" value="885 888 888" [ngModel]="(currentUser$ | async)?.tel">
       </div>
     </div>
-    <button type="button" class="red-button" (click)="toggleEditMode()">Cancel</button>
-    <button class="green-button">Save</button>
+    <button [disabled]="isLoading$ | async" type="button" class="red-button"
+      (click)="toggleEditMode(true)">Cancel</button>
+
+    <button [disabled]="isLoading$ | async" class="green-button">Save</button>
+    <app-loader [isLoading]="isLoading$ | async"></app-loader>
   </form>
 </ng-template>
 
 <div class="profile">
   <img src="/assets/profile.png" alt="default user">
   <h3>User Info:</h3>
-  <ng-container *ngTemplateOutlet="inEditMode ? editMode : defaultMode"></ng-container>
+  <ng-container *ngTemplateOutlet="(inEditMode$ | async) ? editMode : defaultMode"></ng-container>
 </div>

@@ -62,8 +62,8 @@
     <p *ngIf="form.get('rePassword').touched && form.get('rePassword').errors?.rePasswordValidator" class="error">Repeat
       Password does not match password!</p>
 
-    <button [disabled]="isLoading || form.invalid">Create Account</button>
-    <app-loader [isLoading]="isLoading"></app-loader>
+    <button [disabled]="(isLoading$ | async) || form.invalid">Create Account</button>
+    <app-loader [isLoading]="isLoading$ | async"></app-loader>
 
     <p class="text-center">
       Have an account?
