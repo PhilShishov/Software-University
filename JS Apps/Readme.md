@@ -1,5 +1,5 @@
 
-# <a href="https://softuni.bg/trainings/2347/js-apps-july-2019"><p align="center"> JS Apps - July 2019<p>
+# <a href="https://softuni.bg/trainings/2610/js-applications-february-2020"><p align="center"> JS Apps - February 2020<p>
 </a>
 
 
