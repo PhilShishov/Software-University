@@ -24,13 +24,37 @@ Philip Shishov
 </table>
 <!-- Head End -->
 
+<!-- Angular -->
+<hr />
+<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<tbody>
+<tr><th align="center" width="50%">
+Angular - July 2021<br /> 
+06.07.2021 - 28.08.2021
+</th>
+<th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 30/08/2021</th>
+<th>
+<p><a title="HTMLCSS" href="https://softuni.bg/certificates/details/113314/5a840a82" target="_blank">Certificate</a></p>
+</th></tr>
+<!-- Course Body -->
+<tr>
+<td colspan="3" >
+<p align="center"><a title="Angular" href="https://github.com/PhilShishov/Software-University/tree/master/Angular" target="_blank">Angular - Homeworks </a></p>
+  <p align="center"><a title="HTMLCSS" href="https://github.com/PhilShishov/DataGate-Angular" target="_blank">Angular - Defense Project </a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<!-- Angular -->
+
 <!-- HTML & CSS -->
 <hr />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
 <tr><th align="center" width="50%">
 HTML & CSS - September 2020<br /> 
-14.09.2020 - 15.12.2020
+14.09.2020 - 17.12.2020
 </th>
 <th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 13/11/2020</th>
 <th>
@@ -53,7 +77,7 @@ HTML & CSS - September 2020<br />
 <tbody>
 <tr><th align="center" width="50%">
 ASP.NET Core - February 2020<br /> 
-18.02.2020 - 30.04.2020
+18.02.2020 - 01.05.2020
 </th>
 <th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 05/05/2020</th>
 <th>
@@ -77,7 +101,7 @@ ASP.NET Core - February 2020<br />
 <tbody>
 <tr><th align="center" width="50%">
 C# Web Basics - January 2020<br /> 
-14.01.2020 - 28.04.2020
+14.01.2020 - 17.02.2020
 </th>
 <th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 02/02/2021 </th>
 <th>
@@ -101,7 +125,7 @@ C# Web Basics - January 2020<br />
 <tbody>
 <tr><th align="center" width="50%">
 JS Apps - February 2020<br /> 
-24.02.2020 - 10.04.2020
+24.02.2020 - 06.04.2020
 </th>
 <th width="40%">Grade: 6.00  (out of 6.00)<br /> Issue Date: 21/04/2020</th>
 <th>
@@ -123,8 +147,8 @@ JS Apps - February 2020<br />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
 <tr><th align="center" width="50%">
-JS Advanced - January 2020<br /> 
-13.01.2020 - 08.04.2020
+JS Advanced - June 2019<br /> 
+11.06.2019 - 08.07.2019
 </th>
 <th width="40%">Grade: 5.30 (out of 6.00)<br /> Issue Date: 21/04/2020</th>
 <th>
@@ -147,7 +171,7 @@ JS Advanced - January 2020<br />
 <tbody>
 <tr><th align="center" width="50%">
 JS Essentials - May 2019<br /> 
-14.05.2019 - 06.08.2019
+14.05.2019 - 10.06.2019
 </th>
 <th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date:  21/08/2019</th>
 <th>
@@ -170,7 +194,7 @@ JS Essentials - May 2019<br />
 <tbody>
 <tr><th align="center" width="50%">
 C# OOP - June 2019<br /> 
-28.06.2019 - 15.08.2019
+28.06.2019 - 12.08.2019
 </th>
 <th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date:  19/08/2019</th>
 <th>
@@ -193,7 +217,7 @@ C# OOP - June 2019<br />
 <tbody>
 <tr><th align="center" width="50%">
 C# Advanced - May 2019<br /> 
-14.05.2019 - 13.08.2019
+14.05.2019 - 24.06.2019
 </th>
 <th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date:  19/08/2019</th>
 <th>
@@ -216,7 +240,7 @@ C# Advanced - May 2019<br />
 <tbody>
 <tr><th align="center" width="50%">
 Databases Advanced - Entity Framework - February 2019 <br /> 
-18.02.2019 - 18.04.2019
+18.02.2019 - 08.04.2019
 </th>
 <th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date:  20/04/2019</th>
 <th>
@@ -239,7 +263,7 @@ Databases Advanced - Entity Framework - February 2019 <br />
 <tbody>
 <tr><th align="center" width="50%">
 Databases Basics - MS SQL Server - January 2019 <br /> 
-14.01.2019 - 16.04.2019
+14.01.2019 - 18.02.2019
 </th>
 <th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date:  16/04/2019</th>
 <th>
@@ -262,7 +286,7 @@ Databases Basics - MS SQL Server - January 2019 <br />
 <tbody>
 <tr><th align="center" width="50%">
 Technology Fundamentals - September 2018 <br /> 
-21.09.2018 - 20.12.2018
+21.09.2018 - 21.01.2019
 </th>
 <th width="40%">Grade: 5.74 (out of 6.00)<br /> Issue Date: 21/12/2018</th>
 <th>
@@ -285,7 +309,7 @@ Technology Fundamentals - September 2018 <br />
 <tbody>
 <tr><th align="center" width="50%">
 QA Automation - June 2018 <br /> 
-06.06.2018 - 11.08.2018
+06.06.2018 - 06.08.2018
 </th>
 <th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 16/08/2018</th>
 <th>
@@ -308,7 +332,7 @@ QA Automation - June 2018 <br />
 <tbody>
 <tr><th align="center" width="50%">
 Programming Basics with C# - June 2018<br /> 
-02.06.2018 - 02.08.2018
+02.06.2018 - 30.07.2018
 </th>
 <th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 02/08/2018</th>
 <th>
