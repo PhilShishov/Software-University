@@ -1,5 +1,5 @@
 ﻿
-namespace _01_IntegerOperations
+namespace P01_IntegerOperations
 {
     using System;
 

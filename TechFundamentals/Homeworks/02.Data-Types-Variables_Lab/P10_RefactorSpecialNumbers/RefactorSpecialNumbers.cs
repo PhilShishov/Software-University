@@ -1,14 +1,14 @@
 ﻿
-namespace _06_SpecialNumbers
+namespace P10_RefactorSpecialNumbers
 {
     using System;
 
-    class SpecialNumbers
+    class RefactorSpecialNumbers
     {
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
-
+            bool isSpecialNumber = false;
             for (int i = 1; i <= n; i++)
             {
                 int sumOfDigits = 0;
@@ -18,15 +18,10 @@ namespace _06_SpecialNumbers
                     sumOfDigits += digits % 10;
                     digits = digits / 10;
                 }
-                if (sumOfDigits == 5 || sumOfDigits == 7 || sumOfDigits == 11)
-                {
-                    Console.WriteLine($"{i} -> True");
-                }
-                else
-                {
-                    Console.WriteLine($"{i} -> False");
-                }
+                isSpecialNumber = (sumOfDigits == 5) || (sumOfDigits == 7) || (sumOfDigits == 11);
+                Console.WriteLine($"{i} -> {isSpecialNumber}");
             }
+
         }
     }
 }

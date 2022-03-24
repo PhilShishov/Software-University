@@ -1,5 +1,5 @@
 ﻿
-namespace _07_TriplesofLatinLetters
+namespace P07_TriplesofLatinLetters
 {
     using System;
 

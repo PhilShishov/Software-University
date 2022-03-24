@@ -1,5 +1,5 @@
 ﻿
-namespace _03_ExactSumofRealNumbers
+namespace P03_ExactSumofRealNumbers
 {
     using System;
 

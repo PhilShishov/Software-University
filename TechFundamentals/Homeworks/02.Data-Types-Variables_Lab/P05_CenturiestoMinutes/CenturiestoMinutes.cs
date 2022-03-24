@@ -1,5 +1,5 @@
 ﻿
-namespace _05_CenturiestoMinutes
+namespace P05_CenturiestoMinutes
 {
     using System;
 
