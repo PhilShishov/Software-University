@@ -1,5 +1,5 @@
 ﻿
-namespace _01_DayOfWeek
+namespace P01_DayOfWeek
 {
     using System;
 

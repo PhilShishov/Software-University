@@ -1,5 +1,5 @@
 ﻿
-namespace _02_PrintNumbersinReverseOrder
+namespace P02_PrintNumbersinReverseOrder
 {
     using System;
 

@@ -1,5 +1,5 @@
 ﻿
-namespace _05_SumEvenNumbers
+namespace P05_SumEvenNumbers
 {
     using System;
     using System.Linq;

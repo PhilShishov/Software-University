@@ -1,5 +1,5 @@
 ﻿
-namespace _04_ReverseArrayofStrings
+namespace P04_ReverseArrayofStrings
 {
     using System;
     using System.Linq;

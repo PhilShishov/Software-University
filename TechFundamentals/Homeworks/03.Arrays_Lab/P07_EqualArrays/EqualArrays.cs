@@ -1,5 +1,5 @@
 ﻿
-namespace _07_EqualArrays
+namespace P07_EqualArrays
 {
     using System;
     using System.Linq;

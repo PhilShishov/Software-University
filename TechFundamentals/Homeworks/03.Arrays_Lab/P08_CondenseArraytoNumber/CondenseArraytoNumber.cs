@@ -1,5 +1,5 @@
 ﻿
-namespace _08_CondenseArraytoNumber
+namespace P08_CondenseArraytoNumber
 {
     using System;
     using System.Linq;

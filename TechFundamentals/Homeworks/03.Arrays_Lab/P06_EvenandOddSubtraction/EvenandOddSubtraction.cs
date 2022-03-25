@@ -1,5 +1,5 @@
 ﻿
-namespace _06_EvenandOddSubtraction
+namespace P06_EvenandOddSubtraction
 {
     using System;
     using System.Linq;
