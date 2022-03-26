@@ -35,7 +35,5 @@ The course covers source control systems, **Git** and **GitHub** for team collab
 
 ## Exams
 
-- <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Exams/Mid-Exam" > Various Mid Exams</a> 
-- <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Exams/Mid-Exam_December2018" > Mid Exam December 2018</a> 
-- <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Exams/Final-Exam" > Various Final Exams</a>
-- <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Exams/Final-Exam_December2018" > Final Exam December 2018</a> 
+- <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Exams/Mid-Exam" > Mid Exams</a> 
+- <a href="https://github.com/PhilShishov/Software-University/tree/master/TechFundamentals/Exams/Final-Exam" > Final Exams</a>
