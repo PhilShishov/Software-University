@@ -5,16 +5,8 @@ namespace P04_Songs
     using System.Collections.Generic;
     using System.Linq;
 
-    class Songs
+    public class Program
     {
-        public class Song
-        {
-            public string TypeList { get; set; }
-
-            public string Name { get; set; }
-
-            public string Time { get; set; }
-        }
         static void Main()
         {
             int songCount = int.Parse(Console.ReadLine());

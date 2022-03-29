@@ -5,42 +5,8 @@ namespace P08_VehicleCatalogue
     using System.Collections.Generic;
     using System.Linq;
 
-    class VehicleCatalogue
+    class Program
     {
-        public abstract class Vehicle
-        {
-            public string Type { get; set; }
-
-            public string Brand { get; set; }
-
-            public string Model { get; set; }
-
-        }
-
-        public class Truck : Vehicle
-        {
-            public int Weight { get; set; }
-        }
-
-        public class Car : Vehicle
-        {
-            public int HorsePower { get; set; }
-        }
-
-        public class Catalog
-        {
-            public Catalog()
-            {
-                Truck = new Truck();
-                Car = new Car();
-            }
-
-            public Truck Truck { get; set; }
-            public Car Car { get; set; }
-            public List<Truck> Trucks { get; set; }
-            public List<Car> Cars { get; set; }
-        }
-
         static void Main()
         {
             List<Catalog> catalogs = new List<Catalog>();

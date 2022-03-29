@@ -5,30 +5,8 @@ namespace P07_StoreBoxes
     using System.Collections.Generic;
     using System.Linq;
 
-    class StoreBoxes
+    class Program
     {
-        public class Item
-        {
-            public string Name { get; set; }
-
-            public decimal Price { get; set; }
-        }
-        public class Box
-        {
-            public Box()
-            {
-                Item = new Item();
-            }
-
-            public string SerialNumber { get; set; }
-
-            public Item Item { get; set; }
-
-            public int Quantity { get; set; }
-
-            public decimal PriceBox { get; set; }
-
-        }
         static void Main()
         {
             List<Box> boxes = new List<Box>();

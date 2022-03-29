@@ -5,16 +5,8 @@ namespace P05_Students
     using System.Collections.Generic;
     using System.Linq;
 
-    class Students
+    public class Program
     {
-        public class Student
-        {
-            public string FirstName { get; set; }
-            public string LastName { get; set; }
-            public int Age { get; set; }
-            public string HomeTown { get; set; }
-        }
-
         static void Main()
         {
             List<Student> students = new List<Student>();

@@ -1,23 +1,21 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2036
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01_DayOfWeek", "P01_DayOfWeek\P01_DayOfWeek.csproj", "{2B94A56F-3845-4D51-B362-9873D7DF40FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01_DayOfWeek", "P01_DayOfWeek\P01_DayOfWeek.csproj", "{2B94A56F-3845-4D51-B362-9873D7DF40FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02_RandomizeWords", "P02_RandomizeWords\P02_RandomizeWords.csproj", "{4B5E301B-5046-4122-A1B3-106D9A01760E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02_RandomizeWords", "P02_RandomizeWords\P02_RandomizeWords.csproj", "{4B5E301B-5046-4122-A1B3-106D9A01760E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03_BigFactorial", "P03_BigFactorial\P03_BigFactorial.csproj", "{77F7AFCC-5DD4-468D-8BA1-FEE77078C14E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03_BigFactorial", "P03_BigFactorial\P03_BigFactorial.csproj", "{77F7AFCC-5DD4-468D-8BA1-FEE77078C14E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04_Songs", "P04_Songs\P04_Songs.csproj", "{322C1B36-C7F9-4005-A53C-DD7303015432}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P04_Songs", "P04_Songs\P04_Songs.csproj", "{322C1B36-C7F9-4005-A53C-DD7303015432}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05_Students", "P05_Students\P05_Students.csproj", "{7A2E7BF8-0DE0-4B66-8D9C-0681C3523623}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P05_Students", "P05_Students\P05_Students.csproj", "{7A2E7BF8-0DE0-4B66-8D9C-0681C3523623}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06_Students2", "P06_Students2\P06_Students2.csproj", "{1EAAF28C-7A4A-4F1A-B39F-3F0FF77A613A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P07_StoreBoxes", "P07_StoreBoxes\P07_StoreBoxes.csproj", "{AC785D80-7162-475E-9F07-A4E700378E28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07_StoreBoxes", "P07_StoreBoxes\P07_StoreBoxes.csproj", "{AC785D80-7162-475E-9F07-A4E700378E28}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P08_VehicleCatalogue", "P08_VehicleCatalogue\P08_VehicleCatalogue.csproj", "{1800671F-D7D4-4BAC-82FB-6B75BBA53719}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P08_VehicleCatalogue", "P08_VehicleCatalogue\P08_VehicleCatalogue.csproj", "{1800671F-D7D4-4BAC-82FB-6B75BBA53719}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,10 +43,6 @@ Global
 		{7A2E7BF8-0DE0-4B66-8D9C-0681C3523623}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A2E7BF8-0DE0-4B66-8D9C-0681C3523623}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A2E7BF8-0DE0-4B66-8D9C-0681C3523623}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1EAAF28C-7A4A-4F1A-B39F-3F0FF77A613A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1EAAF28C-7A4A-4F1A-B39F-3F0FF77A613A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1EAAF28C-7A4A-4F1A-B39F-3F0FF77A613A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1EAAF28C-7A4A-4F1A-B39F-3F0FF77A613A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AC785D80-7162-475E-9F07-A4E700378E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AC785D80-7162-475E-9F07-A4E700378E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC785D80-7162-475E-9F07-A4E700378E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
