@@ -2,13 +2,14 @@
 namespace CalculatorApp.Controllers
 {
     using CalculatorApp.Models;
+
     using Microsoft.AspNetCore.Mvc;
 
     public class HomeController : Controller
     {
         public IActionResult Index(decimal leftOperand, decimal rightOperand, string @operator, decimal result)
         {
-            Calculator calculator = new Calculator
+            Calculator calculator = new()
             {
                 LeftOperand = leftOperand,
                 RightOperand = rightOperand,
@@ -25,7 +26,7 @@ namespace CalculatorApp.Controllers
 
             if (calculator.RightOperand == 0 && calculator.Operator == "/")
             {
-                TempData["Error"] = "Can not divide by 0";
+                TempData["Error"] = "Cannot divide by 0";
             }
 
             else
