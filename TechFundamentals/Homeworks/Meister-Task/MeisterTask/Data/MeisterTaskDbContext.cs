@@ -2,9 +2,6 @@
 namespace MeisterTask.Data
 {
     using Microsoft.EntityFrameworkCore;
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
     using MeisterTask.Models;
 
     public class MeisterTaskDbContext : DbContext
@@ -13,7 +10,7 @@ namespace MeisterTask.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=.\SQLEXPRESS;Database=MeisterTaskDb;Integrated Security = true;");
+            optionsBuilder.UseSqlServer(@"Server=.\SQL2019;Database=MeisterTaskDb;Integrated Security = true;");
         }
     }
 }
