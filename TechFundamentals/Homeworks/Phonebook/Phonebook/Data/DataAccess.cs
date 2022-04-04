@@ -1,11 +1,9 @@
 ﻿
-namespace DataGate.Data
+namespace Phonebook.Data
 {
-    using DataGate.Data.Models;
-    using System;
+    using Phonebook.Data.Models;
+
     using System.Collections.Generic;
-    using System.Linq;
-    using System.Threading.Tasks;
 
     public class DataAccess
     {
