@@ -1,12 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
+﻿
 namespace P02_BasicQueueOperations
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
     class BasicQueueOperations
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var inputCommand = Console.ReadLine()
                 .Split(" ", StringSplitOptions.RemoveEmptyEntries);

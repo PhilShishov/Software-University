@@ -1,5 +1,5 @@
 ﻿
-namespace _01_ReverseStrings
+namespace P01_ReverseStrings
 {
     using System;
     using System.Collections.Generic;

@@ -1,12 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
+﻿
 namespace P04_FastFood
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
     class FastFood
     {
-        static void Main(string[] args)
+        static void Main()
         {
             int quantityFood = int.Parse(Console.ReadLine());
             int[] sequence = Console.ReadLine()

@@ -1,13 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
+﻿
 namespace P03_MaximumandMinimumElement
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Text;
+
     class MaximumAndMinimumElement
     {
-        static void Main(string[] args)
+        static void Main()
         {
             int n = int.Parse(Console.ReadLine());
             StringBuilder result = new StringBuilder();
