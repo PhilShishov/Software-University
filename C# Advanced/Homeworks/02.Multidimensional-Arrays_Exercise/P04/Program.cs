@@ -1,11 +1,12 @@
-﻿using System;
-using System.Linq;
-
+﻿
 namespace P04
 {
+    using System;
+    using System.Linq;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             int[] dim = Console.ReadLine()
                 .Split()
@@ -38,7 +39,7 @@ namespace P04
                 int col1 = int.Parse(tokens[2]);
 
                 int row2 = int.Parse(tokens[3]);
-                int col2 = int.Parse(tokens[4]);                
+                int col2 = int.Parse(tokens[4]);
 
                 if (command != "swap" || tokens.Length != 5)
                 {

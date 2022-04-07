@@ -1,11 +1,12 @@
-﻿using System;
-using System.Linq;
-
+﻿
 namespace P03
 {
+    using System;
+    using System.Linq;
+    
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             int[] dim = Console.ReadLine()
                 .Split(" ", StringSplitOptions.RemoveEmptyEntries)
@@ -54,7 +55,7 @@ namespace P03
             {
                 for (int col = targetCol; col <= targetCol + 2; col++)
                 {
-                    Console.Write(matrix[row,col] + " ");
+                    Console.Write(matrix[row, col] + " ");
                 }
                 Console.WriteLine();
             }

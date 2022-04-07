@@ -1,11 +1,12 @@
-﻿using System;
-using System.Linq;
-
+﻿
 namespace P06
 {
+    using System;
+    using System.Linq;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             int[] dim = Console.ReadLine()
                 .Split()

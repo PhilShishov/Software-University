@@ -1,11 +1,12 @@
-﻿using System;
-using System.Linq;
-
+﻿
 namespace P07
 {
+    using System;
+    using System.Linq;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             int size = int.Parse(Console.ReadLine());
 
@@ -51,7 +52,7 @@ namespace P07
                         {
                             for (int i = 0; i < indexes.Length; i += 2)
                             {
-                                if (IsInside(board, row + indexes[i], col + indexes[i + 1]) 
+                                if (IsInside(board, row + indexes[i], col + indexes[i + 1])
                                     && board[row + indexes[i], col + indexes[i + 1]] == 'K')
                                 {
                                     currentCount++;
