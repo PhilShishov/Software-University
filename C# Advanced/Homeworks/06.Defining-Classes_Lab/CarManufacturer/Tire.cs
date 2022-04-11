@@ -1,13 +1,11 @@
 ﻿namespace CarManufacturer
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Text;
-
 
     public class Tire
     {
-        public Tire(int year0, double pressure0, int year1, double pressure1, int year2, double pressure2, int year3, double pressure3)
+        public Tire(int year0, double pressure0, int year1, 
+                    double pressure1, int year2, double pressure2, 
+                    int year3, double pressure3)
         {
             this.Year0 = year0;
             this.Pressure0 = pressure0;

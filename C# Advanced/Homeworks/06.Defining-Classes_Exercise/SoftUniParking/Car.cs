@@ -1,7 +1,5 @@
 ﻿namespace SoftUniParking
 {
-    using System;
-    using System.Collections.Generic;
     using System.Text;
 
     public class Car

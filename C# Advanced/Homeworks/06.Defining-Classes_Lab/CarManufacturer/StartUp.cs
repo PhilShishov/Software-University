@@ -1,12 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
+﻿
 namespace CarManufacturer
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
     public class StartUp
     {
-        static void Main(string[] args)
+        static void Main()
         {
             string input = string.Empty;
 
@@ -50,9 +51,9 @@ namespace CarManufacturer
             }
 
             var specialCars = cars
-                .Where(x => x.Year >= 2017 
+                .Where(x => x.Year >= 2017
                 && x.Engine.HorsePower > 330
-                && ((x.Tire.Pressure0 + x.Tire.Pressure1 + x.Tire.Pressure2 + x.Tire.Pressure3) >= 9 
+                && ((x.Tire.Pressure0 + x.Tire.Pressure1 + x.Tire.Pressure2 + x.Tire.Pressure3) >= 9
                 && (x.Tire.Pressure0 + x.Tire.Pressure1 + x.Tire.Pressure2 + x.Tire.Pressure3) <= 10))
                 .ToList();
 
