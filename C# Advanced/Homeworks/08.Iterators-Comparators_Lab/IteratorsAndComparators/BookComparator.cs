@@ -4,7 +4,6 @@
     using System.Collections.Generic;
     using System.Text;
 
-
     public class BookComparator : IComparer<Book>
     {
         public int Compare(Book x, Book y)
