@@ -1,9 +1,6 @@
 ﻿namespace AquariumAdventure
 {
-    using System;
-    using System.Collections.Generic;
     using System.Text;
-
 
     public class Fish
     {
@@ -22,7 +19,7 @@
 
         public override string ToString()
         {
-            StringBuilder sb = new StringBuilder();
+            var sb = new StringBuilder();
 
             sb.AppendLine($"Fish: {this.Name}");
             sb.AppendLine($"Color: {this.Color}");

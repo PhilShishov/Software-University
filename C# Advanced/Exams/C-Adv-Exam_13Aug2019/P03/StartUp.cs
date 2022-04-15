@@ -1,10 +1,11 @@
-﻿using System;
-
+﻿
 namespace AquariumAdventure
 {
+    using System;
+
     public class StartUp
     {
-        public static void Main(string[] args)
+        public static void Main()
         {
             //Initialize Aquarium
             Aquarium aquarium = new Aquarium("Ocean", 5, 15);

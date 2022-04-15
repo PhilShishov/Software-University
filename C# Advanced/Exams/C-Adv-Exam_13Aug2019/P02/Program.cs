@@ -1,13 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-
+﻿
 namespace P02
 {
+    using System;
+    using System.Collections.Generic;
+
     public class Program
     {
-        static string[][] beach;       
+        static string[][] beach;
 
-        public static void Main(string[] args)
+        public static void Main()
         {
             int rows = int.Parse(Console.ReadLine());
 
@@ -58,7 +59,7 @@ namespace P02
                     if (direction == "up")
                     {
                         while (IsInside(beach, row, col) && seagullRowCount <= 3)
-                        {                           
+                        {
                             if (beach[row][col] != "-")
                             {
                                 beach[row][col] = "-";
@@ -72,7 +73,7 @@ namespace P02
                     else if (direction == "down")
                     {
                         while (IsInside(beach, row, col) && seagullRowCount <= 3)
-                        {                           
+                        {
                             if (beach[row][col] != "-")
                             {
                                 beach[row][col] = "-";
@@ -86,7 +87,7 @@ namespace P02
                     else if (direction == "left")
                     {
                         while (IsInside(beach, row, col) && seagullColCount <= 3)
-                        {                           
+                        {
                             if (beach[row][col] != "-")
                             {
                                 beach[row][col] = "-";
@@ -99,7 +100,7 @@ namespace P02
                     else if (direction == "right")
                     {
                         while (IsInside(beach, row, col) && seagullColCount <= 3)
-                        {                            
+                        {
                             if (beach[row][col] != "-")
                             {
                                 beach[row][col] = "-";

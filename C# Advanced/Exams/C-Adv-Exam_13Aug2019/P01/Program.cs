@@ -1,9 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
+﻿
 namespace P01
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
     public class Program
     {
         private const int freshnessMimosa = 150;
@@ -11,7 +12,7 @@ namespace P01
         private const int freshnessSunshine = 300;
         private const int freshnessMojito = 400;
 
-        public static void Main(string[] args)
+        public static void Main()
         {
             var ingredientsInput = Console.ReadLine()
                 .Split()

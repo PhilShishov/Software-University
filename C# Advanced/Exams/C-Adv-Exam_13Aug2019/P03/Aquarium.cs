@@ -1,10 +1,8 @@
 ﻿namespace AquariumAdventure
 {
-    using System;
     using System.Collections.Generic;
     using System.Linq;
     using System.Text;
-
 
     public class Aquarium
     {
@@ -61,7 +59,7 @@
 
         public string Report()
         {
-            StringBuilder sb = new StringBuilder();
+            var sb = new StringBuilder();
 
             //sb.AppendLine($"Aquarium Info:");
             sb.AppendLine($"Aquarium: {this.Name} ^ Size: {this.Size}");
