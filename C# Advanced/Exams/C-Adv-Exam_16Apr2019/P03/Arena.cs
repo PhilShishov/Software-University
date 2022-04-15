@@ -1,10 +1,8 @@
 ﻿namespace FightingArena
 {
-    using System;
     using System.Collections.Generic;
     using System.Linq;
     using System.Text;
-
 
     public class Arena
     {
@@ -51,7 +49,7 @@
 
         public override string ToString()
         {
-            StringBuilder sb = new StringBuilder();
+            var sb = new StringBuilder();
 
             sb.AppendLine($"{this.Name} - {this.Count} gladiators are participating.");
 

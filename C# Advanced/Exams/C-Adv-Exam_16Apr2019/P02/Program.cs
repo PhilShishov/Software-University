@@ -1,9 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
+﻿
 namespace P02_HelensAbduction
 {
+    using System;
+
     class Program
     {
         static char[][] spartaField;
@@ -11,7 +10,7 @@ namespace P02_HelensAbduction
         static int parisRow;
         static int parisCol;
 
-        static void Main(string[] args)
+        static void Main()
         {
             int energy = int.Parse(Console.ReadLine());
             int rows = int.Parse(Console.ReadLine());

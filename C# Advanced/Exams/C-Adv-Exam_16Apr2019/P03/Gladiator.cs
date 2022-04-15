@@ -1,9 +1,6 @@
 ﻿namespace FightingArena
 {
-    using System;
-    using System.Collections.Generic;
     using System.Text;
-
 
     public class Gladiator
     {
@@ -43,7 +40,7 @@
 
         public override string ToString()
         {
-            StringBuilder sb = new StringBuilder();
+            var sb = new StringBuilder();
 
             sb.AppendLine($"{this.Name} - {this.GetTotalPower()}");
             sb.AppendLine($"Weapon Power: {this.GetWeaponPower()}");

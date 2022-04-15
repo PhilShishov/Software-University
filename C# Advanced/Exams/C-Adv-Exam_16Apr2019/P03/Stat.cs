@@ -1,10 +1,5 @@
 ﻿namespace FightingArena
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Text;
-
-
     public class Stat
     {
         public Stat(int strength, int flexibility, int agility, int skills, int intelligence)
