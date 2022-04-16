@@ -1,19 +1,20 @@
-﻿using System;
-
+﻿
 namespace HealthyHeaven
 {
+    using System;
+
     public class StartUp
     {
-        public static void Main(string[] args)
+        public static void Main()
         {
             // Initialize the repository
-            Restaurant restaurant = new Restaurant("Casa Domingo");
+            var restaurant = new Restaurant("Casa Domingo");
 
             // Initialize the entities
-            Vegetable tomato = new Vegetable("Tomato", 20);
-            Vegetable cucumber = new Vegetable("Cucumber", 15);
+            var tomato = new Vegetable("Tomato", 20);
+            var cucumber = new Vegetable("Cucumber", 15);
 
-            Salad salad = new Salad("Tomatoes with cucumbers");
+            var salad = new Salad("Tomatoes with cucumbers");
 
             salad.Add(tomato);
             salad.Add(cucumber);
@@ -31,8 +32,8 @@ namespace HealthyHeaven
             Console.WriteLine(restaurant.Buy("Invalid salad")); // False
 
             // Initialize the second entities
-            Vegetable corn = new Vegetable("Corn", 90);
-            Salad casaDomingo = new Salad("Casa Domingo");
+            var corn = new Vegetable("Corn", 90);
+            var casaDomingo = new Salad("Casa Domingo");
 
             casaDomingo.Add(tomato);
             casaDomingo.Add(cucumber);

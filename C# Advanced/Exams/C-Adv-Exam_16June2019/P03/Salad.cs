@@ -1,10 +1,8 @@
 ﻿namespace HealthyHeaven
 {
-    using System;
     using System.Collections.Generic;
     using System.Linq;
     using System.Text;
-
 
     public class Salad
     {
@@ -35,7 +33,7 @@
 
         public override string ToString()
         {
-            StringBuilder sb = new StringBuilder();
+            var sb = new StringBuilder();
 
             sb.AppendLine($"* Salad {this.Name} is {this.GetTotalCalories()} calories and have {this.GetProductCount()} products:");
 

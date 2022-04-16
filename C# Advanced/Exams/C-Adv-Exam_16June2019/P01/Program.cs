@@ -6,7 +6,7 @@
     {
         static string[][] garden;
 
-        public static void Main(string[] args)
+        public static void Main()
         {
             int rows = int.Parse(Console.ReadLine());
             garden = new string[rows][];

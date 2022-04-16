@@ -1,10 +1,8 @@
 ﻿namespace HealthyHeaven
 {
-    using System;
     using System.Collections.Generic;
     using System.Linq;
     using System.Text;
-
 
     public class Restaurant
     {
@@ -46,7 +44,7 @@
 
         public string GenerateMenu()
         {
-            StringBuilder sb = new StringBuilder();
+            var sb = new StringBuilder();
 
             sb.AppendLine($"{this.Name} have {this.data.Count} salads:");
 

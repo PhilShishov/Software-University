@@ -1,9 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
+﻿
 namespace P02
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
     public class Program
     {
         private const int TomatoCalories = 80;
@@ -11,7 +12,7 @@ namespace P02
         private const int LettuceCalories = 109;
         private const int PotatoCalories = 215;
 
-        public static void Main(string[] args)
+        public static void Main()
         {
             var vegetablesInput = Console.ReadLine().Split();
 
