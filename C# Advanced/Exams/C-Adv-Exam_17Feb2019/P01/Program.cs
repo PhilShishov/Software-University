@@ -1,12 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
+﻿
 namespace P01
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
     public class Program
     {
-        public static void Main(string[] args)
+        public static void Main()
         {
             var leftSocksInput = Console.ReadLine()
                 .Split()
