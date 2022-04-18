@@ -1,12 +1,12 @@
 ﻿
-namespace P01._ClubParty
+namespace P01
 {
     using System;
     using System.Collections.Generic;
 
     public class Program
     {
-        public static void Main(string[] args)
+        public static void Main()
         {
             int capacity = int.Parse(Console.ReadLine());
 

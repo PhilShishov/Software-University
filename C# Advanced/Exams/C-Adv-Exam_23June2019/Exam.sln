@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.168
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01", "P01\P01.csproj", "{E48AA380-5F3F-4920-89B3-FA07F2EB4543}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01", "P01\P01.csproj", "{E48AA380-5F3F-4920-89B3-FA07F2EB4543}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03", "P03\P03.csproj", "{40B87EE6-E2C6-45D6-A980-022DABCD4F70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03", "P03\P03.csproj", "{40B87EE6-E2C6-45D6-A980-022DABCD4F70}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpaceStationRecruitment", "P02\SpaceStationRecruitment.csproj", "{8FDB5F61-BDE3-49DD-8B7D-AE92DDD1D557}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02", "P02\P02.csproj", "{8FDB5F61-BDE3-49DD-8B7D-AE92DDD1D557}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

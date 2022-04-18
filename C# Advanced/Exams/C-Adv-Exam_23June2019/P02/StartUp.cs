@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
+﻿
 namespace SpaceStationRecruitment
 {
+    using System;
+
     public class StartUp
     {
-        public static void Main(string[] args)
+        public static void Main()
         {
             //Initialize the repository
             SpaceStation spaceStation = new SpaceStation("Apolo", 10);

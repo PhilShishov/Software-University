@@ -1,16 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-
+﻿
 namespace Heroes
 {
+    using System;
+
     public class StartUp
     {
         public static void Main()
         {
             //Initialize the repository
-            HeroRepository repository = new HeroRepository();
+            var repository = new HeroRepository();
             //Initialize entity
-            Item item = new Item(23, 35, 48);
+            var item = new Item(23, 35, 48);
             //Print Item
             Console.WriteLine(item);
 
@@ -35,8 +35,8 @@ namespace Heroes
             //Remove Hero
             repository.Remove("Hero Name");
 
-            Item secondItem = new Item(100, 20, 13);
-            Hero secondHero = new Hero("Second Hero Name", 125, secondItem);
+            var secondItem = new Item(100, 20, 13);
+            var secondHero = new Hero("Second Hero Name", 125, secondItem);
 
             //Add Heroes
             repository.Add(hero);

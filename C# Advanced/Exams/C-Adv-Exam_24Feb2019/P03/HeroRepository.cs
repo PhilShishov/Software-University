@@ -1,10 +1,8 @@
 ﻿namespace Heroes
 {
-    using System;
     using System.Collections.Generic;
     using System.Linq;
     using System.Text;
-
 
     public class HeroRepository
     {
@@ -52,7 +50,7 @@
 
         public override string ToString()
         {
-            StringBuilder sb = new StringBuilder();
+            var sb = new StringBuilder();
 
             foreach (var hero in this.heroes)
             {

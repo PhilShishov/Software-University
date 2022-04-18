@@ -12,7 +12,7 @@
         static int blackHoleExitRow;
         static int blackHoleExitCol;
 
-        static void Main(string[] args)
+        static void Main()
         {
             int size = int.Parse(Console.ReadLine());
 

@@ -59,7 +59,7 @@
 
         public string Report()
         {
-            StringBuilder stringBuilder = new StringBuilder();
+            var stringBuilder = new StringBuilder();
 
             stringBuilder.AppendLine($"Astronauts working at Space Station {this.Name}:");
 

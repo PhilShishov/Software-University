@@ -1,9 +1,6 @@
 ﻿namespace Heroes
 {
-    using System;
-    using System.Collections.Generic;
     using System.Text;
-
 
     public class Hero
     {
@@ -22,7 +19,7 @@
 
         public override string ToString()
         {
-            StringBuilder sb = new StringBuilder();
+            var sb = new StringBuilder();
 
             sb.AppendLine($"Hero: {this.Name} – {this.Level}lvl");
 

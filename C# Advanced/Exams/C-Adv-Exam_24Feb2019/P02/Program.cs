@@ -1,7 +1,8 @@
-﻿using System;
-
-namespace P02.TronRacers
+﻿
+namespace P02
 {
+    using System;
+
     class Program
     {
         static char[][] tronField;
@@ -12,7 +13,7 @@ namespace P02.TronRacers
         static int secondPlayerRow;
         static int secondPlayerCol;
 
-        static void Main(string[] args)
+        static void Main()
         {
             int rows = int.Parse(Console.ReadLine());
 
