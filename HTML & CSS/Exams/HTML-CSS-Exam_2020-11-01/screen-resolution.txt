@@ -1,0 +1,4 @@
+
+1680x1050
+
+Screen {availWidth: 1680, availHeight: 1010, width: 1680, height: 1050, colorDepth: 24, …}
