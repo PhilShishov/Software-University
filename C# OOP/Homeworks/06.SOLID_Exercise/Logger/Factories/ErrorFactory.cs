@@ -8,12 +8,11 @@
     using LoggerApplication.Models.Enums;
     using LoggerApplication.Models.Errors;
 
-
     public class ErrorFactory
     {
         private const string dateFormat = "M/dd/yyyy h:mm:ss tt";
 
-        public IError GetError(string dateString, string levelString, string message)
+        public static IError GetError(string dateString, string levelString, string message)
         {
             ErrorLevel level;
 

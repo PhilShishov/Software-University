@@ -1,7 +1,8 @@
-﻿using System.Collections.Generic;
-
+﻿
 namespace P03.DetailPrinter
 {
+    using System.Collections.Generic;
+    
     public class Program
     {
         public static void Main()

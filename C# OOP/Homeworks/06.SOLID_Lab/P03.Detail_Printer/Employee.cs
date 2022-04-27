@@ -1,10 +1,8 @@
-﻿using P03.Detail_Printer.Contracts;
-using System;
-using System.Collections.Generic;
-using System.Text;
-
+﻿
 namespace P03.DetailPrinter
 {
+    using P03.Detail_Printer.Contracts;
+
     public class Employee : IEmployee
     {
         public Employee(string name)

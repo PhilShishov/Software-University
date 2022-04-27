@@ -1,9 +1,11 @@
-﻿using P02.Graphic_Editor.Contracts;
-using System.Collections.Generic;
-using System.Linq;
-
+﻿
 namespace P02.Graphic_Editor
 {
+    using System.Linq;
+    using System.Collections.Generic;
+    
+    using P02.Graphic_Editor.Contracts;
+
     public class GraphicEditor
     {
         public void Draw(IShape shape)
@@ -16,6 +18,6 @@ namespace P02.Graphic_Editor
             };
 
             drawers.First(d => d.IsMatch(shape)).Draw(shape);
-        }       
+        }
     }
 }

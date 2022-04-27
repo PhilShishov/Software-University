@@ -16,12 +16,12 @@ namespace LoggerApplication
             int countOfAppenders = int.Parse(Console.ReadLine());
 
             ICollection<IAppender> appenders = new List<IAppender>();
-            AppenderFactory appenderFactory = new AppenderFactory();
+            var appenderFactory = new AppenderFactory();
 
             ReadAppendersData(countOfAppenders, appenders, appenderFactory);
             ILogger logger = new Logger(appenders);
 
-            Engine engine = new Engine(logger);
+            var engine = new Engine(logger);
             engine.Run();
         }
 

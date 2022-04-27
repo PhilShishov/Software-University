@@ -1,7 +1,8 @@
-﻿using System;
-
+﻿
 namespace P02.Graphic_Editor
 {
+    using System;
+    
     public class Program
     {
         public static void Main()

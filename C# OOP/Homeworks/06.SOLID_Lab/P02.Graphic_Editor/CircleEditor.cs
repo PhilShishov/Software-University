@@ -1,7 +1,8 @@
 ﻿namespace P02.Graphic_Editor
 {
-    using P02.Graphic_Editor.Contracts;
     using System;
+
+    using P02.Graphic_Editor.Contracts;
 
     public class CircleEditor : IGraphicEditor
     {

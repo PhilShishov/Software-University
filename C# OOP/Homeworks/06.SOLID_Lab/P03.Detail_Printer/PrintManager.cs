@@ -1,8 +1,9 @@
 ﻿namespace P03.Detail_Printer
 {
+    using System;
+
     using P03.Detail_Printer.Contracts;
     using P03.DetailPrinter;
-    using System;
 
     public class PrintManager : IDetailsPrinter
     {

@@ -38,7 +38,7 @@
 
                 try
                 {
-                    error = this.errorFactory.GetError(date, level, message);
+                    error = ErrorFactory.GetError(date, level, message);
                     this.logger.Log(error);
                 }
 
