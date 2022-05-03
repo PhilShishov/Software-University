@@ -1,8 +1,11 @@
 
 namespace Tests
 {
-    using NUnit.Framework;
     using System;
+
+    using Database;
+
+    using NUnit.Framework;
 
     public class DatabaseTests
     {

@@ -1,12 +1,15 @@
-﻿using NUnit.Framework;
-//using Service.Models.Contracts;
-//using Service.Models.Devices;
-//using Service.Models.Parts;
-using System;
-using System.Linq;
-
+﻿
 namespace Service.Tests
 {
+    using System;
+    using System.Linq;
+
+    using NUnit.Framework;
+
+    using Service.Models.Contracts;
+    using Service.Models.Devices;
+    using Service.Models.Parts;
+
     [TestFixture]
     public class DeviceTests
     {

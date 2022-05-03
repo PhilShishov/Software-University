@@ -1,9 +1,12 @@
-//using FightingArena;
-using NUnit.Framework;
-using System;
 
 namespace Tests
 {
+    using System;
+
+    using FightingArena;
+
+    using NUnit.Framework;
+
     public class WarriorTests
     {
         private Warrior warrior;
@@ -43,32 +46,32 @@ namespace Tests
         [Test]
         public void Test_Attack_First_Exception()
         {
-            Warrior warrior1 = new Warrior("Name1", 10, 30);
-            Warrior warrior2 = new Warrior("Name2", 10, 40);
+            var warrior1 = new Warrior("Name1", 10, 30);
+            var warrior2 = new Warrior("Name2", 10, 40);
             Assert.Throws<InvalidOperationException>(() => warrior1.Attack(warrior2));
         }
 
         [Test]
         public void Test_Attack_Second_Exception()
         {
-            Warrior warrior1 = new Warrior("Name1", 10, 40);
-            Warrior warrior2 = new Warrior("Name2", 10, 30);
+            var warrior1 = new Warrior("Name1", 10, 40);
+            var warrior2 = new Warrior("Name2", 10, 30);
             Assert.Throws<InvalidOperationException>(() => warrior1.Attack(warrior2));
         }
 
         [Test]
         public void Test_Attack_Third_Exception()
         {
-            Warrior warrior1 = new Warrior("Name1", 10, 40);
-            Warrior warrior2 = new Warrior("Name2", 50, 50);
+            var warrior1 = new Warrior("Name1", 10, 40);
+            var warrior2 = new Warrior("Name2", 50, 50);
             Assert.Throws<InvalidOperationException>(() => warrior1.Attack(warrior2));
         }
 
         [Test]
         public void Test_Attack_This_HP()
         {
-            Warrior warrior1 = new Warrior("Name1", 41, 35);
-            Warrior warrior2 = new Warrior("Name2", 34, 40);
+            var warrior1 = new Warrior("Name1", 41, 35);
+            var warrior2 = new Warrior("Name2", 34, 40);
             warrior1.Attack(warrior2);
             Assert.AreEqual(1, warrior1.HP);
         }
@@ -76,8 +79,8 @@ namespace Tests
         [Test]
         public void Test_Attack_If_Statment()
         {
-            Warrior warrior1 = new Warrior("Name1", 41, 35);
-            Warrior warrior2 = new Warrior("Name2", 34, 40);
+            var warrior1 = new Warrior("Name1", 41, 35);
+            var warrior2 = new Warrior("Name2", 34, 40);
             warrior1.Attack(warrior2);
             Assert.AreEqual(0, warrior2.HP);
         }
@@ -85,8 +88,8 @@ namespace Tests
         [Test]
         public void Test_Attack_Else_Statment()
         {
-            Warrior warrior1 = new Warrior("Name1", 39, 35);
-            Warrior warrior2 = new Warrior("Name2", 34, 40);
+            var warrior1 = new Warrior("Name1", 39, 35);
+            var warrior2 = new Warrior("Name2", 34, 40);
             warrior1.Attack(warrior2);
             Assert.AreEqual(1, warrior2.HP);
         }

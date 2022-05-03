@@ -1,8 +1,10 @@
 namespace Tests
 {
-    //using ExtendedDatabase;
-    using NUnit.Framework;
     using System;
+
+    using ExtendedDatabase;
+
+    using NUnit.Framework;
 
     public class ExtendedDatabaseTests
     {
@@ -70,7 +72,7 @@ namespace Tests
             Assert.Throws<NullReferenceException>(() =>
                     this.database = new ExtendedDatabase(people));
         }
-        
+
         [Test]
         public void TestAddPersonCorrectly()
         {

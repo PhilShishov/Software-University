@@ -1,9 +1,12 @@
-﻿//using FightingArena;
-using NUnit.Framework;
-using System;
-
+﻿
 namespace Tests
 {
+    using System;
+
+    using FightingArena;
+
+    using NUnit.Framework;
+
     public class ArenaTests
     {
         private Arena arena;
@@ -23,8 +26,8 @@ namespace Tests
         [Test]
         public void Test_Enroll_Exception()
         {
-            Warrior warrior1 = new Warrior("Name1", 10, 30);
-            Warrior warrior2 = new Warrior("Name1", 10, 10);
+            var warrior1 = new Warrior("Name1", 10, 30);
+            var warrior2 = new Warrior("Name1", 10, 10);
 
             this.arena.Enroll(warrior1);
             Assert.Throws<InvalidOperationException>(() => this.arena.Enroll(warrior2));
@@ -34,8 +37,8 @@ namespace Tests
         [Test]
         public void Test_Enroll()
         {
-            Warrior warrior1 = new Warrior("Name1", 10, 30);
-            Warrior warrior2 = new Warrior("Name2", 10, 10);
+            var warrior1 = new Warrior("Name1", 10, 30);
+            var warrior2 = new Warrior("Name2", 10, 10);
 
             this.arena.Enroll(warrior1);
             this.arena.Enroll(warrior2);
@@ -45,8 +48,8 @@ namespace Tests
         [Test]
         public void Test_Fight_Player_One_Exception()
         {
-            Warrior warrior1 = new Warrior("Name1", 10, 30);
-            Warrior warrior2 = new Warrior("Name2", 10, 10);
+            var warrior1 = new Warrior("Name1", 10, 30);
+            var warrior2 = new Warrior("Name2", 10, 10);
 
             this.arena.Enroll(warrior1);
             this.arena.Enroll(warrior2);
@@ -57,8 +60,8 @@ namespace Tests
         [Test]
         public void Test_Fight_Player_Two_Exception()
         {
-            Warrior warrior1 = new Warrior("Name1", 10, 30);
-            Warrior warrior2 = new Warrior("Name2", 10, 10);
+            var warrior1 = new Warrior("Name1", 10, 30);
+            var warrior2 = new Warrior("Name2", 10, 10);
 
             this.arena.Enroll(warrior1);
             this.arena.Enroll(warrior2);
@@ -69,8 +72,8 @@ namespace Tests
         [Test]
         public void Test_Fight_Method()
         {
-            Warrior warrior1 = new Warrior("Name1", 5, 100);
-            Warrior warrior2 = new Warrior("Name2", 10, 50);
+            var warrior1 = new Warrior("Name1", 5, 100);
+            var warrior2 = new Warrior("Name2", 10, 50);
 
             this.arena.Enroll(warrior1);
             this.arena.Enroll(warrior2);
