@@ -1,8 +1,8 @@
 ﻿namespace Chainblock.Contracts
 {
-    using System;
+    using Chainblock.Enum;
 
-    public interface ITransaction : IComparable<ITransaction>
+    public interface ITransaction
     {
         int Id { get; set; }
 

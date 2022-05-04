@@ -1,19 +1,38 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>netcoreapp2.1</TargetFramework>
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
 
-    <IsPackable>false</IsPackable>
-  </PropertyGroup>
+		<IsPackable>false</IsPackable>
+	</PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="nunit" Version="3.11.0" />
-    <PackageReference Include="NUnit3TestAdapter" Version="3.11.0" />
-    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.9.0" />
-  </ItemGroup>
+	<ItemGroup>
+	  <Compile Remove="Perf01.cs" />
+	  <Compile Remove="Perf02.cs" />
+	  <Compile Remove="Perf03.cs" />
+	  <Compile Remove="Perf04.cs" />
+	  <Compile Remove="Perf05.cs" />
+	  <Compile Remove="Perf06.cs" />
+	  <Compile Remove="Perf07.cs" />
+	  <Compile Remove="Perf08.cs" />
+	  <Compile Remove="Perf09.cs" />
+	  <Compile Remove="Perf10.cs" />
+	  <Compile Remove="Perf11.cs" />
+	  <Compile Remove="Perf12.cs" />
+	  <Compile Remove="Perf13.cs" />
+	  <Compile Remove="Perf14.cs" />
+	  <Compile Remove="Perf15.cs" />
+	  <Compile Remove="Perf16.cs" />
+	</ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Chainblock\Chainblock.csproj" />
-  </ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="nunit" Version="3.13.3" />
+		<PackageReference Include="NUnit3TestAdapter" Version="4.2.1" />
+		<PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.1.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Chainblock\Chainblock.csproj" />
+	</ItemGroup>
 
 </Project>
