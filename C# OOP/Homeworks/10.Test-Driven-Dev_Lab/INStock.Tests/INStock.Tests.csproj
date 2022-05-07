@@ -1,19 +1,66 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>netcoreapp2.1</TargetFramework>
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<IsPackable>false</IsPackable>
+	</PropertyGroup>
 
-    <IsPackable>false</IsPackable>
-  </PropertyGroup>
+	<ItemGroup>
+	  <Compile Remove="Perf01.cs" />
+	  <Compile Remove="Perf02.cs" />
+	  <Compile Remove="Perf03.cs" />
+	  <Compile Remove="Perf04.cs" />
+	  <Compile Remove="Perf05.cs" />
+	  <Compile Remove="Perf06.cs" />
+	  <Compile Remove="Perf07.cs" />
+	  <Compile Remove="Perf08.cs" />
+	  <Compile Remove="Perf09.cs" />
+	  <Compile Remove="Perf10.cs" />
+	  <Compile Remove="Perf11.cs" />
+	  <Compile Remove="Perf12.cs" />
+	  <Compile Remove="Perf13.cs" />
+	  <Compile Remove="PerfTest01.cs" />
+	  <Compile Remove="Test01.cs" />
+	  <Compile Remove="Test02.cs" />
+	  <Compile Remove="Test03.cs" />
+	  <Compile Remove="Test04.cs" />
+	  <Compile Remove="Test05.cs" />
+	  <Compile Remove="Test06.cs" />
+	  <Compile Remove="Test07.cs" />
+	  <Compile Remove="Test08.cs" />
+	  <Compile Remove="Test09.cs" />
+	  <Compile Remove="Test10.cs" />
+	  <Compile Remove="Test11.cs" />
+	  <Compile Remove="Test12.cs" />
+	  <Compile Remove="Test13.cs" />
+	  <Compile Remove="Test14.cs" />
+	  <Compile Remove="Test15.cs" />
+	  <Compile Remove="Test16.cs" />
+	  <Compile Remove="Test17.cs" />
+	  <Compile Remove="Test18.cs" />
+	  <Compile Remove="Test19.cs" />
+	  <Compile Remove="Test20.cs" />
+	  <Compile Remove="Test21.cs" />
+	  <Compile Remove="Test22.cs" />
+	  <Compile Remove="Test23.cs" />
+	  <Compile Remove="Test24.cs" />
+	  <Compile Remove="Test25.cs" />
+	  <Compile Remove="Test26.cs" />
+	  <Compile Remove="Test27.cs" />
+	  <Compile Remove="Test28.cs" />
+	  <Compile Remove="Test29.cs" />
+	  <Compile Remove="Test30.cs" />
+	  <Compile Remove="Test31.cs" />
+	</ItemGroup>
 
-  <ItemGroup>
-    <PackageReference Include="nunit" Version="3.11.0" />
-    <PackageReference Include="NUnit3TestAdapter" Version="3.11.0" />
-    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.9.0" />
-  </ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="nunit" Version="3.13.3" />
+		<PackageReference Include="NUnit3TestAdapter" Version="4.2.1" />
+		<PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.1.0" />
+	</ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\INStock\INStock.csproj" />
-  </ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\INStock\INStock.csproj" />
+	</ItemGroup>
 
 </Project>

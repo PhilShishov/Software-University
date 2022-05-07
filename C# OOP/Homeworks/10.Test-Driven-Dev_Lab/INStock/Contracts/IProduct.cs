@@ -8,6 +8,6 @@
 
         decimal Price { get; } 
 
-        int Quantity { get;}
+        int Quantity { get; set; }
     }
 }

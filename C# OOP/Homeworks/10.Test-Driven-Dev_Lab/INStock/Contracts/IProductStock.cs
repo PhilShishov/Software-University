@@ -11,6 +11,7 @@
         bool Contains(IProduct product);
 
         void Add(IProduct product);
+        void ChangeQuantity(string product, int quantity);
 
         bool Remove(IProduct product);
 
@@ -20,9 +21,9 @@
 
         IProduct FindMostExpensiveProduct();
 
-        IEnumerable<IProduct> FindAllInRange(double lo, double hi);
+        IEnumerable<IProduct> FindAllInRange(decimal lo, decimal hi);
 
-        IEnumerable<IProduct> FindAllByPrice(double price);
+        IEnumerable<IProduct> FindAllByPrice(decimal price);
 
         IEnumerable<IProduct> FindAllByQuantity(int quantity);
     }
