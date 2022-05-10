@@ -1,10 +1,8 @@
 ﻿namespace SoftUniRestaurant.Models.Foods
 {
     using SoftUniRestaurant.Models.Foods.Contracts;
-    using System;
-    using System.Collections.Generic;
-    using System.Text;
 
+    using System;
 
     public abstract class Food : IFood
     {

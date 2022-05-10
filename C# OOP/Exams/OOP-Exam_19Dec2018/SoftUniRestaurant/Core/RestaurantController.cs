@@ -6,6 +6,7 @@
     using SoftUniRestaurant.Models.Foods.Contracts;
     using SoftUniRestaurant.Models.Tables;
     using SoftUniRestaurant.Models.Tables.Contracts;
+
     using System;
     using System.Collections.Generic;
     using System.Linq;
@@ -185,7 +186,7 @@
 
             foreach (var table in freeTables)
             {
-               sb.AppendLine(table.GetFreeTableInfo());
+                sb.AppendLine(table.GetFreeTableInfo());
             }
 
             return sb.ToString().TrimEnd();

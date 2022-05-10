@@ -1,10 +1,5 @@
 ﻿namespace SoftUniRestaurant.Models.Tables
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Text;
-
-
     public class OutsideTable : Table
     {
         private const decimal InitialPricePerPerson = 3.50m;

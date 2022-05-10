@@ -1,12 +1,13 @@
-﻿using SoftUniRestaurant.Core;
-
+﻿
 namespace SoftUniRestaurant
 {
+    using SoftUniRestaurant.Core;
+
     public class StartUp
     {
         public static void Main()
         {
-            Engine engine = new Engine();
+            var engine = new Engine();
             engine.Run();
         }
     }

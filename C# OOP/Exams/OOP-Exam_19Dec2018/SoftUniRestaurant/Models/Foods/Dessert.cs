@@ -1,10 +1,5 @@
 ﻿namespace SoftUniRestaurant.Models.Foods
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Text;
-
-
     public class Dessert : Food
     {
         private const int InitialServingSize = 200;

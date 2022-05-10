@@ -3,6 +3,7 @@
     using SoftUniRestaurant.Models.Drinks.Contracts;
     using SoftUniRestaurant.Models.Foods.Contracts;
     using SoftUniRestaurant.Models.Tables.Contracts;
+
     using System;
     using System.Collections.Generic;
     using System.Linq;
@@ -92,11 +93,11 @@
 
         public string GetOccupiedTableInfo()
         {
-            StringBuilder sb = new StringBuilder();           
+            StringBuilder sb = new StringBuilder();
 
             sb.AppendLine($"Table: {this.TableNumber}");
             sb.AppendLine($"Type: {this.GetType().Name}");
-            sb.AppendLine($"Number of people: {this.NumberOfPeople}");              
+            sb.AppendLine($"Number of people: {this.NumberOfPeople}");
 
             if (this.Foods.Count == 0)
             {

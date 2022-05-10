@@ -1,9 +1,11 @@
-﻿using SoftUniRestaurant.Models.Drinks.Contracts;
-using SoftUniRestaurant.Models.Foods.Contracts;
-using System.Collections.Generic;
-
+﻿
 namespace SoftUniRestaurant.Models.Tables.Contracts
 {
+    using SoftUniRestaurant.Models.Drinks.Contracts;
+    using SoftUniRestaurant.Models.Foods.Contracts;
+
+    using System.Collections.Generic;
+
     public interface ITable
     {
         IReadOnlyCollection<IFood> Foods { get; }
