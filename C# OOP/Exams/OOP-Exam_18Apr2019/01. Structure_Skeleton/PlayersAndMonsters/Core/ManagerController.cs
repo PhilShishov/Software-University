@@ -1,9 +1,9 @@
 ﻿namespace PlayersAndMonsters.Core
 {
-    using System;
-    using System.Linq;
     using System.Text;
+
     using Contracts;
+
     using PlayersAndMonsters.Models.BattleFields;
     using PlayersAndMonsters.Models.BattleFields.Contracts;
     using PlayersAndMonsters.Models.Cards;

@@ -1,12 +1,11 @@
 ﻿namespace PlayersAndMonsters.Repositories
 {
-    using PlayersAndMonsters.Models.Cards.Contracts;
-    using PlayersAndMonsters.Repositories.Contracts;
     using System;
     using System.Collections.Generic;
     using System.Linq;
-    using System.Text;
 
+    using PlayersAndMonsters.Models.Cards.Contracts;
+    using PlayersAndMonsters.Repositories.Contracts;
 
     public class CardRepository : ICardRepository
     {

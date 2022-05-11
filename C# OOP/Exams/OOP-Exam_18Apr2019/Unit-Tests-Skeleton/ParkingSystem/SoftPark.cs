@@ -1,10 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Collections.Immutable;
-using System.Linq;
-
+﻿
 namespace ParkingSystem
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Collections.Immutable;
+    using System.Linq;
+
     public class SoftPark
     {
         private readonly Dictionary<string, Car> parking;
@@ -45,7 +46,7 @@ namespace ParkingSystem
 
             bool carExists = this.parking.Values
                 .Any(x => x?.RegistrationNumber == car.RegistrationNumber);
-            
+
             if (carExists)
             {
                 throw new InvalidOperationException("Car is already parked!");
