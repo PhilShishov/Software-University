@@ -1,5 +1,9 @@
 ﻿namespace SpaceStation.Core
 {
+    using System;
+    using System.Linq;
+    using System.Text;
+
     using SpaceStation.Core.Contracts;
     using SpaceStation.Models.Astronauts;
     using SpaceStation.Models.Astronauts.Contracts;
@@ -7,11 +11,6 @@
     using SpaceStation.Models.Mission;
     using SpaceStation.Models.Planets;
     using SpaceStation.Repositories;
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-
 
     public class Controller : IController
     {

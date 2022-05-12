@@ -1,8 +1,10 @@
-using NUnit.Framework;
-using System;
 
-//namespace HeroRepository.Tests
-//{
+namespace HeroRepository.Tests
+{
+    using System;
+
+    using NUnit.Framework;
+
     public class Tests
     {
         private Hero hero1;
@@ -99,8 +101,8 @@ using System;
             this.repository.Create(this.hero1);
             this.repository.Create(this.hero2);
             this.repository.Create(this.hero3);
-            
+
             Assert.AreEqual(this.hero1, this.repository.GetHero(this.hero1.Name));
         }
     }
-//}
+}

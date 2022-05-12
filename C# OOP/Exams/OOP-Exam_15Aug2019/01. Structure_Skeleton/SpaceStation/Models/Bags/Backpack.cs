@@ -1,9 +1,6 @@
 ﻿namespace SpaceStation.Models.Bags
 {
-    using System;
     using System.Collections.Generic;
-    using System.Text;
-
 
     public class Backpack : IBag
     {

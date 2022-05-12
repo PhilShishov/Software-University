@@ -1,7 +1,8 @@
 ﻿namespace SpaceStation.IO
 {
-    using SpaceStation.IO.Contracts;
     using System;
+
+    using SpaceStation.IO.Contracts;
     public class Reader : IReader
     {
         public string ReadLine()

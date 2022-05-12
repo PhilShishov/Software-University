@@ -1,13 +1,12 @@
-﻿using SpaceStation.Core;
-using SpaceStation.Core.Contracts;
-using SpaceStation.Models.Astronauts;
-using System;
-
+﻿
 namespace SpaceStation
 {
+    using SpaceStation.Core;
+    using SpaceStation.Core.Contracts;
+
     public class StartUp
     {
-        public static void Main(string[] args)
+        public static void Main()
         {
             IEngine engine = new Engine();
             engine.Run();

@@ -1,9 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
+﻿
 namespace HeroRepository
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
     public class HeroRepository
     {
         private readonly List<Hero> data;

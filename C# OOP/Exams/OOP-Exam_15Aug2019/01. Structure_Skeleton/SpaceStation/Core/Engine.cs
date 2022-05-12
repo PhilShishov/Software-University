@@ -1,13 +1,13 @@
-﻿using SpaceStation.Core.Contracts;
-using SpaceStation.IO;
-using SpaceStation.IO.Contracts;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
+﻿
 namespace SpaceStation.Core
 {
+    using System;
+    using System.Linq;
+
+    using SpaceStation.Core.Contracts;
+    using SpaceStation.IO;
+    using SpaceStation.IO.Contracts;
+
     public class Engine : IEngine
     {
         private IWriter writer;
@@ -39,8 +39,8 @@ namespace SpaceStation.Core
                     }
                     else if (input[0] == "AddPlanet")
                     {
-                        string[] items = input.Skip(2).Take(input.Length - 2).ToArray();                       
-                        
+                        string[] items = input.Skip(2).Take(input.Length - 2).ToArray();
+
                         result += this.controller.AddPlanet(input[1], items);
                     }
                     else if (input[0] == "RetireAstronaut")
