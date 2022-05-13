@@ -1,14 +1,15 @@
-﻿using MortalEngines.Core;
-using MortalEngines.Entities;
-using System;
-
+﻿
 namespace MortalEngines
 {
+    using System;
+
+    using MortalEngines.Core;
+
     public class StartUp
     {
         public static void Main()
         {
-            MachinesManager manager = new MachinesManager();
+            var manager = new MachinesManager();
 
             try
             {
@@ -25,8 +26,6 @@ namespace MortalEngines
                 Console.WriteLine(manager.AttackMachines("Boeing", "T-72"));
                 Console.WriteLine(manager.MachineReport("Boeing"));
                 Console.WriteLine(manager.MachineReport("T-72"));
-
-
 
                 //Console.WriteLine(manager.PilotReport("John"));
 

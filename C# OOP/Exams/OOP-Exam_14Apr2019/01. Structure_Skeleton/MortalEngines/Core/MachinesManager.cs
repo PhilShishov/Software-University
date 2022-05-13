@@ -1,10 +1,11 @@
 ﻿namespace MortalEngines.Core
 {
+    using System.Linq;
+    using System.Collections.Generic;
+
     using Contracts;
     using MortalEngines.Entities;
     using MortalEngines.Entities.Contracts;
-    using System.Collections.Generic;
-    using System.Linq;
 
     public class MachinesManager : IMachinesManager
     {
