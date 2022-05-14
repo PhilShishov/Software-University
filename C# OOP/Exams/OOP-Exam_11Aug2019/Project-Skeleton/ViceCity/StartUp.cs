@@ -1,17 +1,12 @@
-﻿using ViceCity.Core;
-using ViceCity.Core.Contracts;
-using System;
-using ViceCity.Models.Guns;
-using ViceCity.Models.Guns.Contracts;
-using ViceCity.Repositories.Contracts;
-using ViceCity.Repositories;
-
+﻿
 namespace ViceCity
 {
+    using ViceCity.Core;
+    using ViceCity.Core.Contracts;
+
     public class StartUp
     {
-        IEngine engine;
-        static void Main(string[] args)
+        static void Main()
         {
             IEngine engine = new Engine();
             engine.Run();

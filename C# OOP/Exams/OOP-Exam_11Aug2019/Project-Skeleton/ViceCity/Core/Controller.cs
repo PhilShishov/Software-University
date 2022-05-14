@@ -1,9 +1,9 @@
 ﻿namespace ViceCity.Core
 {
-    using System;
     using System.Collections.Generic;
     using System.Linq;
     using System.Text;
+
     using ViceCity.Core.Contracts;
     using ViceCity.Models.Guns;
     using ViceCity.Models.Guns.Contracts;
@@ -95,7 +95,7 @@
                 return "Everything is okay!";
             }
 
-            StringBuilder sb = new StringBuilder();
+            var sb = new StringBuilder();
 
             sb.AppendLine("A fight happened:");
             sb.AppendLine($"Tommy live points: {this.mainPlayer.LifePoints}!");

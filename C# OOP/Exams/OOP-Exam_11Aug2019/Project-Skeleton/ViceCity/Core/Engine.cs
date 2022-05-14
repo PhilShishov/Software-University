@@ -1,12 +1,12 @@
-﻿using ViceCity.Core.Contracts;
-using System;
-using System.Collections.Generic;
-using System.Text;
-using ViceCity.IO.Contracts;
-using ViceCity.IO;
-
+﻿
 namespace ViceCity.Core
 {
+    using System;
+
+    using ViceCity.Core.Contracts;
+    using ViceCity.IO.Contracts;
+    using ViceCity.IO;
+
     public class Engine : IEngine
     {
         private IReader reader;
