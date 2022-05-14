@@ -1,5 +1,9 @@
 ﻿namespace MXGP.Core
 {
+    using System;
+    using System.Linq;
+    using System.Text;
+
     using MXGP.Core.Contracts;
     using MXGP.Models.Motorcycles;
     using MXGP.Models.Motorcycles.Contracts;
@@ -8,10 +12,6 @@
     using MXGP.Models.Riders;
     using MXGP.Models.Riders.Contracts;
     using MXGP.Repositories;
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
 
     public class ChampionshipController : IChampionshipController
     {
@@ -135,7 +135,7 @@
                 throw new InvalidOperationException($"Race {raceName} cannot start with less than 3 participants.");
             }
 
-            StringBuilder sb = new StringBuilder();
+            var sb = new StringBuilder();
 
             sb.AppendLine($"Rider {riders[0].Name} wins {race.Name} race.");
             sb.AppendLine($"Rider {riders[1].Name} is second in {race.Name} race.");

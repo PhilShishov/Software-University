@@ -1,8 +1,10 @@
-using NUnit.Framework;
-using System;
 
 namespace TheRace.Tests
 {
+    using System;
+
+    using NUnit.Framework;
+    
     [TestFixture]
     public class RaceEntryTests
     {

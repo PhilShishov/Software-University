@@ -1,15 +1,13 @@
-﻿using System;
-
+﻿
 namespace MXGP
 {
-    using Models.Motorcycles;
+    using System;
+
     using MXGP.Core;
-    using MXGP.Models.Riders;
-    using MXGP.Models.Riders.Contracts;
 
     public class StartUp
     {
-        public static void Main(string[] args)
+        public static void Main()
         {
             ChampionshipController controller = new ChampionshipController();
 

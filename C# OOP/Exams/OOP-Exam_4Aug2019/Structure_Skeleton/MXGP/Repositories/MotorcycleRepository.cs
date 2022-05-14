@@ -1,12 +1,10 @@
 ﻿namespace MXGP.Repositories
 {
-    using MXGP.Models.Motorcycles.Contracts;
-    using MXGP.Repositories.Contracts;
-    using System;
     using System.Collections.Generic;
     using System.Linq;
-    using System.Text;
 
+    using MXGP.Models.Motorcycles.Contracts;
+    using MXGP.Repositories.Contracts;
 
     public class MotorcycleRepository : IRepository<IMotorcycle>
     {

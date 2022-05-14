@@ -1,12 +1,10 @@
 ﻿namespace MXGP.Repositories
 {
-    using MXGP.Models.Races.Contracts;
-    using MXGP.Repositories.Contracts;
-    using System;
     using System.Collections.Generic;
     using System.Linq;
-    using System.Text;
 
+    using MXGP.Models.Races.Contracts;
+    using MXGP.Repositories.Contracts;
 
     public class RaceRepository : IRepository<IRace>
     {
