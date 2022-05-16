@@ -1,9 +1,11 @@
 ﻿
 namespace P03
 {
-    using AdoNetExercises;
     using System;
     using System.Data.SqlClient;
+
+    using Data;
+
     public class StartUp
     {
         public static void Main()
@@ -12,13 +14,13 @@ namespace P03
             int id = int.Parse(Console.ReadLine());
 
 
-            using (SqlConnection connection = new SqlConnection(Configuration.ConnectionString))
+            using (var connection = new SqlConnection(Configuration.ConnectionString))
             {
                 connection.Open();
 
                 string villainNameQuery = "SELECT Name FROM Villains WHERE Id = @id";
 
-                using (SqlCommand command = new SqlCommand(villainNameQuery, connection))
+                using (var command = new SqlCommand(villainNameQuery, connection))
                 {
                     command.Parameters.AddWithValue("@id", id);
                     string villainName = (string)command.ExecuteScalar();
@@ -40,11 +42,11 @@ namespace P03
                                    WHERE mv.VillainId = @Id
                                 ORDER BY m.Name";
 
-                using (SqlCommand command = new SqlCommand(minionsQUery, connection))
+                using (var command = new SqlCommand(minionsQUery, connection))
                 {
                     command.Parameters.AddWithValue("@Id", id);
 
-                    using (SqlDataReader reader = command.ExecuteReader())
+                    using (var reader = command.ExecuteReader())
                     {
                         while (reader.Read())
                         {

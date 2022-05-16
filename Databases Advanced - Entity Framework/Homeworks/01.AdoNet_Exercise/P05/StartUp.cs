@@ -1,12 +1,11 @@
 ﻿
-
 namespace P05
 {
-    using AdoNetExercises;
     using System;
     using System.Collections.Generic;
     using System.Data.SqlClient;
-    using System.Linq;
+
+    using Data;
 
     public class StartUp
     {
@@ -14,7 +13,7 @@ namespace P05
         {
             string countryName = Console.ReadLine();
 
-            using (SqlConnection connection = new SqlConnection(Configuration.ConnectionString))
+            using (var connection = new SqlConnection(Configuration.ConnectionString))
             {
                 connection.Open();
 
@@ -22,7 +21,7 @@ namespace P05
                                               SET Name = UPPER(Name)
                                             WHERE CountryCode = (SELECT c.Id FROM Countries AS c WHERE c.Name = @countryName)";
 
-                using (SqlCommand command = new SqlCommand(updateTownNames, connection))
+                using (var command = new SqlCommand(updateTownNames, connection))
                 {
                     command.Parameters.AddWithValue("@countryName", countryName);
                     int rowsAffected = command.ExecuteNonQuery();
@@ -37,11 +36,11 @@ namespace P05
 
                 List<string> towns = new List<string>();
 
-                using (SqlCommand command = new SqlCommand(townNamesQuery, connection))
+                using (var command = new SqlCommand(townNamesQuery, connection))
                 {
                     command.Parameters.AddWithValue("@countryName", countryName);
 
-                    using (SqlDataReader reader = command.ExecuteReader())
+                    using (var reader = command.ExecuteReader())
                     {
                         while (reader.Read())
                         {

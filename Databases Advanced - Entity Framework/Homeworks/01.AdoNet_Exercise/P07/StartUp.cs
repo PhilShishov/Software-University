@@ -1,26 +1,27 @@
 ﻿
-
 namespace P07
 {
-    using AdoNetExercises;
     using System;
     using System.Collections.Generic;
     using System.Data.SqlClient;
+
+    using Data;
+
     public class StartUp
     {
         public static void Main()
         {
-            List<string> names = new List<string>();
+            var names = new List<string>();
 
-            using (SqlConnection connection = new SqlConnection(Configuration.ConnectionString))
+            using (var connection = new SqlConnection(Configuration.ConnectionString))
             {
                 connection.Open();
 
                 string minionsQuery = "SELECT Name FROM Minions";
 
-                using (SqlCommand command = new SqlCommand(minionsQuery, connection))
+                using (var command = new SqlCommand(minionsQuery, connection))
                 {
-                    using (SqlDataReader reader = command.ExecuteReader())
+                    using (var reader = command.ExecuteReader())
                     {
                         while (reader.Read())
                         {

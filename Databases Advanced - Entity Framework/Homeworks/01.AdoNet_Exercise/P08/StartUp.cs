@@ -1,18 +1,19 @@
 ﻿
 namespace P08
 {
-    using AdoNetExercises;
     using System;
     using System.Data.SqlClient;
     using System.Linq;
 
+    using Data;
+ 
     public class StartUp
     {
         public static void Main()
         {
             int[] ids = Console.ReadLine().Split().Select(int.Parse).ToArray();
 
-            using (SqlConnection connection = new SqlConnection(Configuration.ConnectionString))
+            using (var connection = new SqlConnection(Configuration.ConnectionString))
             {
                 connection.Open();
 
@@ -21,7 +22,7 @@ namespace P08
                                                WHERE Id = @Id";
                 for (int i = 0; i < ids.Length; i++)
                 {
-                    using (SqlCommand command = new SqlCommand(updateMinions, connection))
+                    using (var command = new SqlCommand(updateMinions, connection))
                     {
                         command.Parameters.AddWithValue("@Id", ids[1]);
                         command.ExecuteNonQuery();                        
@@ -30,9 +31,9 @@ namespace P08
 
                 string minionsQuery = "SELECT Name, Age FROM Minions";
 
-                using (SqlCommand command = new SqlCommand(minionsQuery, connection))
+                using (var command = new SqlCommand(minionsQuery, connection))
                 {
-                    using (SqlDataReader reader = command.ExecuteReader())
+                    using (var reader = command.ExecuteReader())
                     {
                         while (reader.Read())
                         {

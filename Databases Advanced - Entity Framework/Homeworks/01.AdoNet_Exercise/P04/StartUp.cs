@@ -1,9 +1,11 @@
 ﻿
 namespace P04
 {
-    using AdoNetExercises;
     using System;
     using System.Data.SqlClient;
+
+    using Data;
+
     public class StartUp
     {
         public static void Main()
@@ -19,7 +21,7 @@ namespace P04
             string villainName = villainInfo[1];
 
 
-            using (SqlConnection connection = new SqlConnection(Configuration.ConnectionString))
+            using (var connection = new SqlConnection(Configuration.ConnectionString))
             {
                 connection.Open();
 
@@ -54,7 +56,7 @@ namespace P04
         {
             string insertMinionVillainSql = "INSERT INTO MinionsVillains (MinionId, VillainId) VALUES (@villainId, @minionId)";
 
-            using (SqlCommand command = new SqlCommand(insertMinionVillainSql, connection))
+            using (var command = new SqlCommand(insertMinionVillainSql, connection))
             {
                 command.Parameters.AddWithValue("@villainId", villainId);
                 command.Parameters.AddWithValue("@minionId", minionId);
@@ -69,7 +71,7 @@ namespace P04
         {
             string minionIdQuery = "SELECT Id FROM Minions WHERE Name = @Name";
 
-            using (SqlCommand command = new SqlCommand(minionIdQuery, connection))
+            using (var command = new SqlCommand(minionIdQuery, connection))
             {
                 command.Parameters.AddWithValue("@Name", minionName);
                 return (int)command.ExecuteScalar();
@@ -80,7 +82,7 @@ namespace P04
         {
             string insertVillainSql = "INSERT INTO Villains (Name, EvilnessFactorId)  VALUES (@villainName, 4)";
 
-            using (SqlCommand command = new SqlCommand(insertVillainSql, connection))
+            using (var command = new SqlCommand(insertVillainSql, connection))
             {
                 command.Parameters.AddWithValue("@villainName", villainName);
 
@@ -95,7 +97,7 @@ namespace P04
         {
             string villainIdQuery = "SELECT Id FROM Villains WHERE Name = @Name";
 
-            using (SqlCommand command = new SqlCommand(villainIdQuery, connection))
+            using (var command = new SqlCommand(villainIdQuery, connection))
             {
                 command.Parameters.AddWithValue("@Name", villainName);
                 return (int?)command.ExecuteScalar();
@@ -106,7 +108,7 @@ namespace P04
         {
             string insertMinionSql = "INSERT INTO Minions (Name, Age, TownId) VALUES (@name, @age, @townId)";
 
-            using (SqlCommand command = new SqlCommand(insertMinionSql, connection))
+            using (var command = new SqlCommand(insertMinionSql, connection))
             {
                 command.Parameters.AddWithValue("@name", minionName);
                 command.Parameters.AddWithValue("@age", age);
@@ -120,7 +122,7 @@ namespace P04
         {
             string townIdQuery = "SELECT Id FROM Towns WHERE Name = @townName";
 
-            using (SqlCommand command = new SqlCommand(townIdQuery, connection))
+            using (var command = new SqlCommand(townIdQuery, connection))
             {
                 command.Parameters.AddWithValue("@townName", townName);
                 return (int?)command.ExecuteScalar();
@@ -131,7 +133,7 @@ namespace P04
         {
             string insertTownSql = "INSERT INTO Towns (Name) VALUES (@townName)";
 
-            using (SqlCommand command = new SqlCommand(insertTownSql, connection))
+            using (var command = new SqlCommand(insertTownSql, connection))
             {
                 command.Parameters.AddWithValue("@townName", townName);
                 command.ExecuteNonQuery();

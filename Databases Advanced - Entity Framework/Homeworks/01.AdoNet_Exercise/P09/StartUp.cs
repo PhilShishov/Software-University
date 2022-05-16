@@ -1,26 +1,28 @@
 ﻿
 namespace P09
 {
-    using AdoNetExercises;
     using System;
     using System.Data.SqlClient;
+
+    using Data;
+ 
     public class StartUp
     {
         public static void Main()
         {
             int id = int.Parse(Console.ReadLine());
 
-            using (SqlConnection connection = new SqlConnection(Configuration.ConnectionString))
+            using (var connection = new SqlConnection(Configuration.ConnectionString))
             {
                 connection.Open();
 
-                string uspGetOlderProc = "EXEC uspGetOlder @id";
+                string uspGetOlderProc = "EXEC usp_GetOlder @id";
 
-                using (SqlCommand command = new SqlCommand(uspGetOlderProc, connection))
+                using (var command = new SqlCommand(uspGetOlderProc, connection))
                 {
                     command.Parameters.AddWithValue("@id", id);
 
-                    using (SqlDataReader reader = command.ExecuteReader())
+                    using (var reader = command.ExecuteReader())
                     {
                         reader.Read();
                         string name = (string)reader[0];
