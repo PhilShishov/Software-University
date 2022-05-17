@@ -1,8 +1,8 @@
 ﻿
-namespace MiniORM.App.Data
-{
-    using Entities;
+using MiniORM.App.Data.Entities;
 
+namespace MiniORM.App
+{
     public class SoftUniDbContext : DbContext
     {
         public SoftUniDbContext(string connectionString)
