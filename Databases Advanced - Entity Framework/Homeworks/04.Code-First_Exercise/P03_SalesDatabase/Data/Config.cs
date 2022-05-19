@@ -2,6 +2,6 @@
 {
     public class Config
     {
-        public const string ConnectionString = "Server=.\\SQLEXPRESS;Database=Sales;Integrated Security=True;";
+        public const string ConnectionString = "Server=.\\SQL2019;Database=Sales;Integrated Security=True;";
     }
 }

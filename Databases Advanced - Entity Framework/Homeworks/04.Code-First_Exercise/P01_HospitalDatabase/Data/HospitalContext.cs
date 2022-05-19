@@ -1,13 +1,12 @@
 ﻿
 namespace P01_HospitalDatabase.Data
 {
-    using System;
     using Microsoft.EntityFrameworkCore;
+
     using Models;
 
     public class HospitalContext : DbContext
     {
-
         public DbSet<Patient> Patients { get; set; }
         public DbSet<Visitation> Visitations { get; set; }
         public DbSet<Diagnose> Diagnoses { get; set; }

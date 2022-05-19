@@ -2,6 +2,7 @@
 namespace P03_SalesDatabase.Data
 {
     using Microsoft.EntityFrameworkCore;
+
     using Models;
 
     public class SalesContext : DbContext
@@ -18,13 +19,13 @@ namespace P03_SalesDatabase.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-          this.OnModelCreatingProduct(modelBuilder);
+            this.OnModelCreatingProduct(modelBuilder);
 
-          this.OnModelCreatingCustomer(modelBuilder);
+            this.OnModelCreatingCustomer(modelBuilder);
 
-          this.OnModelCreatingStore(modelBuilder);
+            this.OnModelCreatingStore(modelBuilder);
 
-          this.OnModelCreatingSale(modelBuilder);
+            this.OnModelCreatingSale(modelBuilder);
         }
 
         private void OnModelCreatingSale(ModelBuilder modelBuilder)
