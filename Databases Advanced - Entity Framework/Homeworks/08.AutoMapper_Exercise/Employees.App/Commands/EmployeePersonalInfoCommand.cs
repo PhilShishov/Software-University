@@ -1,8 +1,10 @@
-﻿using Employees.Services.Interfaces;
-using EmployeesMapping.App.Commands.Interfaces;
-
+﻿
 namespace EmployeesMapping.App.Commands
 {
+    using Employees.Services.Interfaces;
+
+    using EmployeesMapping.App.Commands.Interfaces;
+
     public class EmployeePersonalInfoCommand : ICommand
     {
         private readonly IEmployeeService employeeService;

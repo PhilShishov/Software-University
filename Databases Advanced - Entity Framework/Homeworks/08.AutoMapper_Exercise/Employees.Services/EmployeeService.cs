@@ -1,28 +1,34 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using AutoMapper;
-using AutoMapper.QueryableExtensions;
-using Employees.Data;
-using Employees.Models;
-using Employees.Services.Interfaces;
-using Microsoft.EntityFrameworkCore;
-
+﻿
 namespace Employees.Services
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Text;
+
+    using AutoMapper;
+    using AutoMapper.QueryableExtensions;
+
+    using Employees.Data;
+    using Employees.Models;
+    using Employees.Services.Interfaces;
+
+    using Microsoft.EntityFrameworkCore;
+
     public class EmployeeService : IEmployeeService
     {
         private readonly EmployeesContext context;
+        private readonly IMapper mapper;
 
-        public EmployeeService(EmployeesContext context)
+        public EmployeeService(EmployeesContext context, IMapper mapper)
         {
             this.context = context;
+            this.mapper = mapper;
         }
 
         public void AddEmployee(EmployeeDto empDto)
         {
-            Employee employee = Mapper.Map<Employee>(empDto);
+            var employee = this.mapper.Map<Employee>(empDto);
 
             this.context.Employees.Add(employee);
             this.context.SaveChanges();
@@ -30,16 +36,16 @@ namespace Employees.Services
 
         public EmployeeDto GetEmployeeById(int employeeId)
         {
-            Employee employee = this.GetEmployeeByIdFromDb(employeeId);
+            var employee = this.GetEmployeeByIdFromDb(employeeId);
 
-            EmployeeDto empDto = Mapper.Map<EmployeeDto>(employee);
+            var empDto = this.mapper.Map<EmployeeDto>(employee);
 
             return empDto;
         }
 
         public void SetEmployeeBirthday(int employeeId, DateTime birthday)
         {
-            Employee employee = this.GetEmployeeByIdFromDb(employeeId);
+            var employee = this.GetEmployeeByIdFromDb(employeeId);
 
             employee.Birthday = birthday;
             this.context.SaveChanges();
@@ -47,7 +53,7 @@ namespace Employees.Services
 
         public void SetEmployeeAddress(int employeeId, string address)
         {
-            Employee employee = this.GetEmployeeByIdFromDb(employeeId);
+            var employee = this.GetEmployeeByIdFromDb(employeeId);
 
             employee.Address = address;
             this.context.SaveChanges();
@@ -55,16 +61,16 @@ namespace Employees.Services
 
         public string GetEmployeeInfo(int employeeId)
         {
-            EmployeeDto empDto = this.GetEmployeeById(employeeId);
+            var empDto = this.GetEmployeeById(employeeId);
 
             return $"ID: {empDto.Id} - {empDto.FirstName} {empDto.LastName} - ${empDto.Salary:F2}";
         }
 
         public string GetEmployeePersonalInfo(int employeeId)
         {
-            EmployeeDto empDto = this.GetEmployeeById(employeeId);
+            var empDto = this.GetEmployeeById(employeeId);
 
-            StringBuilder sb = new StringBuilder();
+            var sb = new StringBuilder();
             sb.AppendLine($"ID: {empDto.Id} - {empDto.FirstName} {empDto.LastName} - ${empDto.Salary:F2}");
 
             string birthday = "[no birthday entered]";
@@ -90,8 +96,8 @@ namespace Employees.Services
 
         public void SetEmployeeManager(int employeeId, int managerId)
         {
-            Employee employee = this.GetEmployeeByIdFromDb(employeeId);
-            Employee manager = this.GetEmployeeByIdFromDb(managerId);
+            var employee = this.GetEmployeeByIdFromDb(employeeId);
+            var manager = this.GetEmployeeByIdFromDb(managerId);
 
             if (manager.Manager != null && manager.Manager.Id == employee.Id)
             {
@@ -104,13 +110,13 @@ namespace Employees.Services
 
         public string GetManagerInfo(int employeeId)
         {
-            Employee employee = this.GetEmployeeByIdFromDb(employeeId);
-            ManagerDto managerDto = Mapper.Map<ManagerDto>(employee);
+            var employee = this.GetEmployeeByIdFromDb(employeeId);
+            var managerDto = this.mapper.Map<ManagerDto>(employee);
 
-            StringBuilder sb = new StringBuilder();
+            var sb = new StringBuilder();
             sb.AppendLine($"{managerDto.FirstName} {managerDto.LastName} | Employees: {managerDto.SubordinatesCount}");
 
-            foreach (EmployeeDto subordinate in managerDto.Subordinates)
+            foreach (var subordinate in managerDto.Subordinates)
             {
                 sb.AppendLine($"    - {subordinate.FirstName} {subordinate.LastName} - ${subordinate.Salary:F2}");
             }
@@ -120,12 +126,12 @@ namespace Employees.Services
 
         public IList<EmployeeDto> GetEmployeesOlderThan(int age)
         {
-            List<EmployeeDto> employees = this.context
+            var employees = this.context
             .Employees
             .Include(e => e.Manager)
             .Where(e => e.Birthday != null && Helpers.CalcCurrentAge(e.Birthday.Value) > age)
             .OrderByDescending(e => e.Salary)
-            .ProjectTo<EmployeeDto>()
+            .ProjectTo<EmployeeDto>(this.mapper.ConfigurationProvider)
             .ToList();
 
             return employees;
@@ -133,7 +139,7 @@ namespace Employees.Services
 
         private Employee GetEmployeeByIdFromDb(int employeeId)
         {
-            Employee employee = this.context
+            var employee = this.context
                 .Employees
                 .Include(e => e.Subordinates)
                 .SingleOrDefault(e => e.Id == employeeId);

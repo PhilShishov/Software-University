@@ -4,6 +4,7 @@ namespace EmployeesMapping.App.Core
     using System;
     using System.Linq;
     using System.Reflection;
+
     using EmployeesMapping.App.Commands.Interfaces;
 
     public class CommandParser

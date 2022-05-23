@@ -1,9 +1,12 @@
-﻿using System.Linq;
-using Employees.Services.Interfaces;
-using EmployeesMapping.App.Commands.Interfaces;
-
+﻿
 namespace EmployeesMapping.App.Commands
 {
+    using System.Linq;
+
+    using Employees.Services.Interfaces;
+
+    using EmployeesMapping.App.Commands.Interfaces;
+
     public class SetAddressCommand : ICommand
     {
         private readonly IEmployeeService employeeService;

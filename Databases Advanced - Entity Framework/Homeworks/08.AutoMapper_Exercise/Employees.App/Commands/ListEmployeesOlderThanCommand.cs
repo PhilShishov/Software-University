@@ -1,11 +1,14 @@
-﻿using System.Collections.Generic;
-using System.Text;
-using Employees.Models;
-using Employees.Services.Interfaces;
-using EmployeesMapping.App.Commands.Interfaces;
-
+﻿
 namespace EmployeesMapping.App.Commands
 {
+    using System.Collections.Generic;
+    using System.Text;
+
+    using Employees.Models;
+    using Employees.Services.Interfaces;
+
+    using EmployeesMapping.App.Commands.Interfaces;
+
     public class ListEmployeesOlderThanCommand : ICommand
     {
         private readonly IEmployeeService empService;

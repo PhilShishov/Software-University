@@ -1,34 +1,37 @@
-﻿using System;
-using AutoMapper;
-using Employees.Data;
-using Employees.Services;
-using Employees.Services.Interfaces;
-using EmployeesMapping.App.Core;
-using Microsoft.Extensions.DependencyInjection;
-
+﻿
 namespace EmployeesMapping.App
 {
+    using System;
+
+    using Microsoft.Extensions.DependencyInjection;
+
+    using Employees.Data;
+    using Employees.Services;
+    using Employees.Services.Interfaces;
+
+    using EmployeesMapping.App.Core;
+
     public class Launcher
     {
         public static void Main()
         {
-            IServiceProvider serviceProvider = ConfigureServices();
+            var serviceProvider = ConfigureServices();
 
-            Engine engine = new Engine(serviceProvider);
+            var engine = new Engine(serviceProvider);
             engine.Run();
         }
 
         private static IServiceProvider ConfigureServices()
         {
-            ServiceCollection serviceCollection = new ServiceCollection();
+            var serviceCollection = new ServiceCollection();
 
             serviceCollection.AddDbContext<EmployeesContext>();
 
             serviceCollection.AddTransient<IDbInitializerService, DbInitializerService>();
             serviceCollection.AddTransient<IEmployeeService, EmployeeService>();
-            serviceCollection.AddAutoMapper();
+            serviceCollection.AddAutoMapper(am => am.AddProfile<MappingProfile>());
 
-            IServiceProvider serviceProvider = serviceCollection.BuildServiceProvider();
+            var serviceProvider = serviceCollection.BuildServiceProvider();
             return serviceProvider;
         }
     }

@@ -1,11 +1,15 @@
-﻿using System;
-using System.Linq;
-using Employees.Services.Interfaces;
-using EmployeesMapping.App.Commands.Interfaces;
-using Microsoft.Extensions.DependencyInjection;
-
+﻿
 namespace EmployeesMapping.App.Core
 {
+    using System;
+    using System.Linq;
+
+    using Employees.Services.Interfaces;
+
+    using EmployeesMapping.App.Commands.Interfaces;
+
+    using Microsoft.Extensions.DependencyInjection;
+
     public class Engine
     {
         private readonly IServiceProvider serviceProvider;
@@ -17,10 +21,10 @@ namespace EmployeesMapping.App.Core
 
         public void Run()
         {
-            IDbInitializerService dbInitializerService = this.serviceProvider.GetService<IDbInitializerService>();
+            var dbInitializerService = this.serviceProvider.GetService<IDbInitializerService>();
             dbInitializerService.InitializeDatabase();
 
-            CommandParser cmdParser = new CommandParser(this.serviceProvider);
+            var cmdParser = new CommandParser(this.serviceProvider);
 
             while (true)
             {
@@ -33,7 +37,7 @@ namespace EmployeesMapping.App.Core
 
                 try
                 {
-                    ICommand command = cmdParser.TryParseCommand(commandName);
+                    var command = cmdParser.TryParseCommand(commandName);
                     string result = command.Execute(commandArgs);
 
                     Console.WriteLine(result);
