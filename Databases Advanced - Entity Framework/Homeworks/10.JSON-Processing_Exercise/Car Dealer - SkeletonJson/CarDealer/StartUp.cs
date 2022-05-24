@@ -1,20 +1,32 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.IO;
-using System.Linq;
-using AutoMapper;
-using CarDealer.Data;
-using CarDealer.DTO;
-using CarDealer.Models;
-using Microsoft.EntityFrameworkCore;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Serialization;
-
+﻿
 namespace CarDealer
 {
+    using System;
+    using System.Collections.Generic;
+    using System.ComponentModel.DataAnnotations;
+    using System.IO;
+    using System.Linq;
+
+    using AutoMapper;
+
+    using CarDealer.Data;
+    using CarDealer.DTO;
+    using CarDealer.Models;
+
+    using Microsoft.EntityFrameworkCore;
+
+    using Newtonsoft.Json;
+    using Newtonsoft.Json.Serialization;
+
     public class StartUp
     {
+        private readonly IMapper mapper;
+
+        public StartUp(IMapper mapper)
+        {
+            this.mapper = mapper;
+        }
+
         public static void Main()
         {
             //using (var context = new CarDealerContext())
@@ -22,20 +34,14 @@ namespace CarDealer
 
             //}
 
-            Mapper.Initialize(cfg => cfg.AddProfile(new CarDealerProfile()));
+            var config = new MapperConfiguration(cfg =>
+            {
+                cfg.AddProfile<CarDealerProfile>();
+            });
+
+            var mapper = config.CreateMapper();
 
             QueryAndExport();
-        }
-
-        private static bool IsValid(object @object)
-        {
-            ICollection<ValidationResult> validations = new List<ValidationResult>();
-
-            var validationContext = new System.ComponentModel.DataAnnotations.ValidationContext(@object);
-
-            bool isValid = Validator.TryValidateObject(@object, validationContext, validations, true);
-
-            return isValid;
         }
 
         public static void QueryAndExport()
@@ -45,6 +51,17 @@ namespace CarDealer
                 string result = GetSalesWithAppliedDiscount(context);
                 Console.WriteLine(result);
             }
+        }
+
+        private static bool IsValid(object @object)
+        {
+            var validations = new List<ValidationResult>();
+
+            var validationContext = new System.ComponentModel.DataAnnotations.ValidationContext(@object);
+
+            bool isValid = Validator.TryValidateObject(@object, validationContext, validations, true);
+
+            return isValid;
         }
 
         public static void Insert()
@@ -96,14 +113,14 @@ namespace CarDealer
             return $"Successfully imported {affectedRows}.";
         }
 
-        public static string ImportCars(CarDealerContext context, string inputJson)
+        public string ImportCars(CarDealerContext context, string inputJson)
         {
             var cars = JsonConvert.DeserializeObject<CarInsertDto[]>(inputJson);
             var mappedCars = new List<Car>();
 
             foreach (var car in cars)
             {
-                Car vehicle = Mapper.Map<CarInsertDto, Car>(car);
+                var vehicle = this.mapper.Map<CarInsertDto, Car>(car);
                 mappedCars.Add(vehicle);
 
                 var partIds = car

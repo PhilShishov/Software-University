@@ -27,7 +27,7 @@
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer(@"Server=.\SQLEXPRESS;Database=ProductShop;Integrated Security=True");
+                optionsBuilder.UseSqlServer(@"Server=.\SQL2019;Database=ProductShop;Integrated Security=True");
             }
         }
 

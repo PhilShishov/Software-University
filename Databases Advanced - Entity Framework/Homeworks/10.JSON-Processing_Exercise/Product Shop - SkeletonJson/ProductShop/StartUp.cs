@@ -6,12 +6,11 @@ namespace ProductShop
     using System.Linq;
 
     using Newtonsoft.Json;
+    using Newtonsoft.Json.Serialization;
 
     using Data;
     using Models;
     using DTOs.Export;
-    using Microsoft.EntityFrameworkCore;
-    using Newtonsoft.Json.Serialization;
 
     public class StartUp
     {
@@ -64,7 +63,7 @@ namespace ProductShop
                 Users = users
             };
 
-            DefaultContractResolver contractResolver = new DefaultContractResolver()
+            var contractResolver = new DefaultContractResolver()
             {
                 NamingStrategy = new CamelCaseNamingStrategy()
             };
@@ -133,7 +132,7 @@ namespace ProductShop
                 })
                 .ToArray();
 
-            DefaultContractResolver contractResolver = new DefaultContractResolver()
+            var contractResolver = new DefaultContractResolver()
             {
                 NamingStrategy = new CamelCaseNamingStrategy()
             };

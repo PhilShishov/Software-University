@@ -1,10 +1,10 @@
-﻿using CarDealer.Models;
-using JetBrains.Annotations;
-using Microsoft.EntityFrameworkCore;
-using System;
-
+﻿
 namespace CarDealer.Data
 {
+    using CarDealer.Models;
+
+    using Microsoft.EntityFrameworkCore;
+
     public class CarDealerContext : DbContext
     {
         public CarDealerContext(DbContextOptions options)
@@ -27,7 +27,7 @@ namespace CarDealer.Data
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=.\\SQLEXPRESS;Database=CarDealer;Trusted_Connection=True;");
+                optionsBuilder.UseSqlServer("Server=.\\SQL2019;Database=CarDealer;Trusted_Connection=True;");
             }
         }
 
