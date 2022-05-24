@@ -1,10 +1,13 @@
-﻿namespace FastFood.Web.MappingConfiguration
+﻿
+namespace FastFood.Web.MappingConfiguration
 {
     using AutoMapper;
+
     using FastFood.Web.ViewModels.Categories;
     using FastFood.Web.ViewModels.Employees;
     using FastFood.Web.ViewModels.Items;
     using FastFood.Web.ViewModels.Orders;
+
     using Models;
 
     using ViewModels.Positions;
