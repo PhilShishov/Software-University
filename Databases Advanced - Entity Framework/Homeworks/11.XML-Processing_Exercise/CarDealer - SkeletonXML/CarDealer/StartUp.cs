@@ -20,11 +20,17 @@ namespace CarDealer
     public class StartUp
     {
         private const string ImportMessage = "Successfully imported {0}";
+        private readonly IMapper mapper;
         public static XmlSerializerNamespaces Namespaces = new XmlSerializerNamespaces(new[] { new XmlQualifiedName("", "") });
 
         public static void Main(string[] args)
         {
-            Mapper.Initialize(cfg => cfg.AddProfile(new CarDealerProfile()));
+            var config = new MapperConfiguration(cfg =>
+            {
+                cfg.AddProfile<CarDealerProfile>();
+            });
+
+            var mapper = config.CreateMapper();
 
             QueryAndExport();
         }
@@ -39,7 +45,7 @@ namespace CarDealer
             }
         }
 
-        public static void ImportXml()
+        public void ImportXml()
         {
             //string suppliersXmlPath = @"../../../Datasets/suppliers.xml";
             //string partsXmlPath = @"../../../Datasets/parts.xml";
@@ -268,7 +274,7 @@ namespace CarDealer
         }
 
 
-        public static string ImportSales(CarDealerContext context, string inputXml)
+        public string ImportSales(CarDealerContext context, string inputXml)
         {
             XmlSerializer xmlSerializer = new XmlSerializer(typeof(ImportSaleDto[]),
                                             new XmlRootAttribute("Sales"));
@@ -286,7 +292,7 @@ namespace CarDealer
                     continue;
                 }
 
-                var sale = Mapper.Map<Sale>(saleDto);
+                var sale = this.mapper.Map<Sale>(saleDto);
 
                 sales.Add(sale);
             }
@@ -297,7 +303,7 @@ namespace CarDealer
             return string.Format(ImportMessage, sales.Count);
         }
 
-        public static string ImportCustomers(CarDealerContext context, string inputXml)
+        public string ImportCustomers(CarDealerContext context, string inputXml)
         {
             XmlSerializer xmlSerializer = new XmlSerializer(typeof(ImportCustomerDto[]),
                                             new XmlRootAttribute("Customers"));
@@ -308,7 +314,7 @@ namespace CarDealer
 
             foreach (var customerDto in customersDto)
             {
-                var customer = Mapper.Map<Customer>(customerDto);
+                var customer = this.mapper.Map<Customer>(customerDto);
 
                 customers.Add(customer);
             }
@@ -372,7 +378,7 @@ namespace CarDealer
             return $"Successfully imported {cars.Count()}";
         }
 
-        public static string ImportParts(CarDealerContext context, string inputXml)
+        public string ImportParts(CarDealerContext context, string inputXml)
         {
             XmlSerializer xmlSerializer = new XmlSerializer(typeof(ImportPartDto[]),
                                             new XmlRootAttribute("Parts"));
@@ -389,7 +395,7 @@ namespace CarDealer
                 {
                     continue;
                 }
-                var part = Mapper.Map<Part>(partDto);
+                var part = this.mapper.Map<Part>(partDto);
 
                 parts.Add(part);
             }
@@ -400,7 +406,7 @@ namespace CarDealer
             return string.Format(ImportMessage, parts.Count);
         }
 
-        public static string ImportSuppliers(CarDealerContext context, string inputXml)
+        public string ImportSuppliers(CarDealerContext context, string inputXml)
         {
             XmlSerializer xmlSerializer = new XmlSerializer(typeof(ImportSupplierDto[]),
                                             new XmlRootAttribute("Suppliers"));
@@ -411,7 +417,7 @@ namespace CarDealer
 
             foreach (var supplierDto in suppliersDto)
             {
-                var supplier = Mapper.Map<Supplier>(supplierDto);
+                var supplier = this.mapper.Map<Supplier>(supplierDto);
                 suppliers.Add(supplier);
             }
 

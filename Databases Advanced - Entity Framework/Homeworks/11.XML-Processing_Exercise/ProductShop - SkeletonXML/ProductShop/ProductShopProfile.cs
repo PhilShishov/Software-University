@@ -2,7 +2,9 @@
 namespace ProductShop
 {
     using AutoMapper;
+
     using Dtos.Import;
+
     using Models;
 
     public class ProductShopProfile : Profile

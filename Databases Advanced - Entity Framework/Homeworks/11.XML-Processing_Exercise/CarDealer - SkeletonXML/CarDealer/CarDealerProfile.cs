@@ -2,11 +2,9 @@
 namespace CarDealer
 {
     using AutoMapper;
-    using CarDealer.Dtos.Export;
+
     using CarDealer.Dtos.Import;
     using CarDealer.Models;
-    using System;
-    using System.Linq;
 
     public class CarDealerProfile : Profile
     {

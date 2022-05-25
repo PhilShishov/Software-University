@@ -1,11 +1,6 @@
 ﻿
 namespace ProductShop
 {
-    using AutoMapper;
-    using ProductShop.Data;
-    using ProductShop.Dtos.Export;
-    using ProductShop.Dtos.Import;
-    using ProductShop.Models;
     using System;
     using System.Collections.Generic;
     using System.IO;
@@ -14,28 +9,40 @@ namespace ProductShop
     using System.Xml;
     using System.Xml.Serialization;
 
+    using AutoMapper;
+
+    using ProductShop.Data;
+    using ProductShop.Dtos.Export;
+    using ProductShop.Dtos.Import;
+    using ProductShop.Models;
+
     public class StartUp
     {
-
+        private readonly IMapper mapper;
         private const string ImportMessage = "Successfully imported {0}";
 
         public static void Main(string[] args)
         {
-            Mapper.Initialize(cfg => cfg.AddProfile(new ProductShopProfile()));
+            var config = new MapperConfiguration(cfg =>
+            {
+                cfg.AddProfile<ProductShopProfile>();
+            });
+
+            var mapper = config.CreateMapper();
 
             QueryAndExport();
         }
 
         public static void QueryAndExport()
         {
-            using (ProductShopContext context = new ProductShopContext())
+            using (var context = new ProductShopContext())
             {
                 string result = GetUsersWithProducts(context);
                 Console.WriteLine(result);
             }
         }
 
-        public static void Import()
+        public void Import()
         {
             //string usersXmlPath = @"../../../Datasets/users.xml";
             //string productsXmlPath = @"../../../Datasets/products.xml";
@@ -46,7 +53,7 @@ namespace ProductShop
             {
                 var inputXml = File.ReadAllText(categoriesProductsXmlPath);
 
-                using (ProductShopContext context = new ProductShopContext())
+                using (var context = new ProductShopContext())
                 {
                     //context.Database.EnsureDeleted();
                     context.Database.EnsureCreated();
@@ -91,8 +98,8 @@ namespace ProductShop
                 ExportUsersWithProductsDto = users
             };
 
-            XmlSerializer xmlSerializer = new XmlSerializer(typeof(ExportCustomUserProductDto), new XmlRootAttribute("Users"));
-
+            var xmlSerializer = new XmlSerializer(typeof(ExportCustomUserProductDto),
+                new XmlRootAttribute("Users"));
             var sb = new StringBuilder();
 
             var namespaces = new XmlSerializerNamespaces(new[]
@@ -125,8 +132,8 @@ namespace ProductShop
                 .ThenBy(c => c.TotalRevenue)
                 .ToArray();
 
-            XmlSerializer xmlSerializer = new XmlSerializer(typeof(ExportCategoriesByProductsDto[]), new XmlRootAttribute("Categories"));
-
+            var xmlSerializer = new XmlSerializer(typeof(ExportCategoriesByProductsDto[]),
+                new XmlRootAttribute("Categories"));
             var sb = new StringBuilder();
 
             var namespaces = new XmlSerializerNamespaces(new[]
@@ -166,10 +173,10 @@ namespace ProductShop
                 })
                 .ToArray();
 
-            XmlSerializer xmlSerializer = new XmlSerializer(typeof(ExportUserSoldProductDto[]), new XmlRootAttribute("Users"));
+            var xmlSerializer = new XmlSerializer(typeof(ExportUserSoldProductDto[]),
+                new XmlRootAttribute("Users"));
 
             var sb = new StringBuilder();
-
             var namespaces = new XmlSerializerNamespaces(new[]
             {
                 XmlQualifiedName.Empty
@@ -199,10 +206,10 @@ namespace ProductShop
                      .Take(10)
                      .ToArray();
 
-            XmlSerializer xmlSerializer = new XmlSerializer(typeof(ExportProductInRangeDto[]), new XmlRootAttribute("Products"));
+            var xmlSerializer = new XmlSerializer(typeof(ExportProductInRangeDto[]),
+                new XmlRootAttribute("Products"));
 
             var sb = new StringBuilder();
-
             var namespaces = new XmlSerializerNamespaces(new[]
             {
                 XmlQualifiedName.Empty
@@ -213,13 +220,13 @@ namespace ProductShop
             return sb.ToString().TrimEnd();
         }
 
-        public static string ImportCategoryProducts(ProductShopContext context, string inputXml)
+        public string ImportCategoryProducts(ProductShopContext context, string inputXml)
         {
-            XmlSerializer xmlSerializer = new XmlSerializer(typeof(ImportCategoryProductsDto[]),
+            var xmlSerializer = new XmlSerializer(typeof(ImportCategoryProductsDto[]),
                                             new XmlRootAttribute("CategoryProducts"));
 
-            var categoriesProductsDto = (ImportCategoryProductsDto[])xmlSerializer.Deserialize(new StringReader(inputXml));
-
+            var categoriesProductsDto = (ImportCategoryProductsDto[])xmlSerializer
+                .Deserialize(new StringReader(inputXml));
             var categoriesProducts = new List<CategoryProduct>();
 
             foreach (var categoryProductDto in categoriesProductsDto)
@@ -232,7 +239,7 @@ namespace ProductShop
                     continue;
                 }
 
-                var categoryProduct = Mapper.Map<CategoryProduct>(categoryProductDto);
+                var categoryProduct = this.mapper.Map<CategoryProduct>(categoryProductDto);
 
                 //var categoryProduct = new CategoryProduct
                 //{
@@ -248,13 +255,13 @@ namespace ProductShop
             return string.Format(ImportMessage, categoriesProducts.Count);
         }
 
-        public static string ImportCategories(ProductShopContext context, string importData)
+        public string ImportCategories(ProductShopContext context, string importData)
         {
-            XmlSerializer xmlSerializer = new XmlSerializer(typeof(ImportCategoryDto[]),
+            var xmlSerializer = new XmlSerializer(typeof(ImportCategoryDto[]),
                                             new XmlRootAttribute("Categories"));
 
-            var categoriesDto = (ImportCategoryDto[])xmlSerializer.Deserialize(new StringReader(importData));
-
+            var categoriesDto = (ImportCategoryDto[])xmlSerializer
+                .Deserialize(new StringReader(importData));
             var categories = new List<Category>();
 
             foreach (var categoryDto in categoriesDto)
@@ -264,7 +271,7 @@ namespace ProductShop
                 {
                     continue;
                 }
-                var category = Mapper.Map<Category>(categoryDto);
+                var category = this.mapper.Map<Category>(categoryDto);
 
                 categories.Add(category);
             }
@@ -275,18 +282,18 @@ namespace ProductShop
             return string.Format(ImportMessage, categories.Count);
         }
 
-        public static string ImportProducts(ProductShopContext context, string importData)
+        public string ImportProducts(ProductShopContext context, string importData)
         {
-            XmlSerializer xmlSerializer = new XmlSerializer(typeof(ImportProductDto[]),
+            var xmlSerializer = new XmlSerializer(typeof(ImportProductDto[]),
                                             new XmlRootAttribute("Products"));
 
-            var productsDto = (ImportProductDto[])xmlSerializer.Deserialize(new StringReader(importData));
-
+            var productsDto = (ImportProductDto[])xmlSerializer
+                .Deserialize(new StringReader(importData));
             var products = new List<Product>();
 
             foreach (var productDto in productsDto)
             {
-                var product = Mapper.Map<Product>(productDto);
+                var product = this.mapper.Map<Product>(productDto);
                 products.Add(product);
             }
 
@@ -296,18 +303,17 @@ namespace ProductShop
             return string.Format(ImportMessage, products.Count);
         }
 
-        public static string ImportUsers(ProductShopContext context, string importData)
+        public string ImportUsers(ProductShopContext context, string importData)
         {
-            XmlSerializer xmlSerializer = new XmlSerializer(typeof(ImportUserDto[]),
+            var xmlSerializer = new XmlSerializer(typeof(ImportUserDto[]),
                                             new XmlRootAttribute("Users"));
 
             var usersDto = (ImportUserDto[])xmlSerializer.Deserialize(new StringReader(importData));
-
             var users = new List<User>();
 
             foreach (var userDto in usersDto)
             {
-                var user = Mapper.Map<User>(userDto);
+                var user = this.mapper.Map<User>(userDto);
                 users.Add(user);
             }
 
