@@ -1,11 +1,12 @@
 ﻿
 namespace CustomAutoMapper
 {
-    using Newtonsoft.Json;
     using System;
+
+    using Newtonsoft.Json;
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var person = new Person()
             {
@@ -20,7 +21,6 @@ namespace CustomAutoMapper
             };
 
             var mapper = new Mapper();
-
             var student = mapper.Map<Student>(person);
 
             Console.WriteLine(JsonConvert.SerializeObject(student));

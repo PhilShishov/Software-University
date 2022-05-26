@@ -2,11 +2,10 @@
 namespace CustomAutoMapper
 {
     using System;
-    using System.Collections.Generic;
     using System.Reflection;
-    using System.Text;
     using System.Linq;
     using System.Collections;
+
     using Automapper;
 
     public class Mapper
@@ -49,7 +48,7 @@ namespace CustomAutoMapper
                 var sourceValue = srcProperty.GetMethod.Invoke(source, new object[0]);
 
                 if (ReflectionUtils.IsPrimitive(sourceValue.GetType()))
-                { 
+                {
                     property.SetValue(dest, srcProperty.GetValue(source));
 
                     continue;

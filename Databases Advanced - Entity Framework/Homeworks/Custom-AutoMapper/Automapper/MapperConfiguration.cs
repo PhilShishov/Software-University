@@ -2,9 +2,6 @@
 namespace Automapper
 {
     using CustomAutoMapper;
-    using System;
-    using System.Collections.Generic;
-    using System.Text;
 
     public class MapperConfiguration
     {
