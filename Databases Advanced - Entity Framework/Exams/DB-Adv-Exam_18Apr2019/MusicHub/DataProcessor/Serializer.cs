@@ -7,8 +7,13 @@
     using System.Text;
     using System.Xml;
     using System.Xml.Serialization;
+
     using Data;
+
+    using Microsoft.EntityFrameworkCore;
+
     using MusicHub.DataProcessor.ExportDtos;
+
     using Newtonsoft.Json;
 
     public class Serializer
@@ -48,14 +53,21 @@
 
         public static string ExportSongsAboveDuration(MusicHubDbContext context, int duration)
         {
-            var songs = context
-                        .Songs
-                        .Where(s => s.Duration.TotalSeconds > duration)
+            var songs = context.Songs
+                        .Include(x => x.SongPerformers)
+                        .ThenInclude(x => x.Performer)
+                        .Include(x => x.Writer)
+                        .Include(x => x.Album)
+                        .ThenInclude(x => x.Producer)
+                        .ToList()
+                        .Where(s => s.Duration > TimeSpan.FromSeconds(duration))
                         .Select(s => new ExportSongDto
                         {
                             SongName = s.Name,
                             Writer = s.Writer.Name,
-                            Performer = s.SongPerformers.Select(sp => $"{sp.Performer.FirstName} {sp.Performer.LastName}").FirstOrDefault(),
+                            Performer = s.SongPerformers
+                                .Select(sp => $"{sp.Performer.FirstName} {sp.Performer.LastName}")
+                                .FirstOrDefault(),
                             AlbumProducer = s.Album.Producer.Name,
                             Duration = s.Duration.ToString("c", CultureInfo.InvariantCulture)
                         })
@@ -64,8 +76,7 @@
                         .ThenBy(s => s.Performer)
                         .ToArray();
 
-
-            XmlSerializer xmlSerializer = new XmlSerializer(typeof(ExportSongDto[]), new XmlRootAttribute("Songs"));
+            var xmlSerializer = new XmlSerializer(typeof(ExportSongDto[]), new XmlRootAttribute("Songs"));
 
             var sb = new StringBuilder();
 
