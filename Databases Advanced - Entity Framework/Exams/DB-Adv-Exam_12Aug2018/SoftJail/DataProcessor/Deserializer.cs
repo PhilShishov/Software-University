@@ -1,11 +1,5 @@
 ﻿namespace SoftJail.DataProcessor
 {
-
-    using Data;
-    using Newtonsoft.Json;
-    using SoftJail.Data.Models;
-    using SoftJail.Data.Models.Enums;
-    using SoftJail.DataProcessor.ImportDto;
     using System;
     using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations;
@@ -14,6 +8,14 @@
     using System.Linq;
     using System.Text;
     using System.Xml.Serialization;
+
+    using Data;
+
+    using Newtonsoft.Json;
+
+    using SoftJail.Data.Models;
+    using SoftJail.Data.Models.Enums;
+    using SoftJail.DataProcessor.ImportDto;
 
     public class Deserializer
     {
@@ -150,7 +152,7 @@
                                                 PrisonerId = of.PrisonerId
                                             })
                                             .ToArray()
-                    };                    
+                    };
 
                     officers.Add(officer);
                     sb.AppendLine($"Imported {officer.FullName} ({officer.OfficerPrisoners.Count} prisoners)");

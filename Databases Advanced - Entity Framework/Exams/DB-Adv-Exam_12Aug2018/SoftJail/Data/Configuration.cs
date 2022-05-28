@@ -2,6 +2,6 @@
 {
    public static class Configuration
     {
-        public static string ConnectionString = @"Server=.\SQLEXPRESS;Database=SoftJail;Trusted_Connection=True";
+        public static string ConnectionString = @"Server=.\SQL2019;Database=SoftJail;Trusted_Connection=True";
     }
 }
