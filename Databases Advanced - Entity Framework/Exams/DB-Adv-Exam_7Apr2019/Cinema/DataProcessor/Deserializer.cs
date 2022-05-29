@@ -8,9 +8,12 @@
     using System.Linq;
     using System.Text;
     using System.Xml.Serialization;
+
     using Cinema.Data.Models;
     using Cinema.DataProcessor.ImportDto;
+
     using Data;
+
     using Newtonsoft.Json;
 
     public class Deserializer
@@ -183,7 +186,7 @@
                 //      </ Ticket >
 
                 var customer = new Customer
-                {  
+                {
                     FirstName = dto.FirstName,
                     LastName = dto.LastName,
                     Age = dto.Age,

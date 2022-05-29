@@ -2,6 +2,7 @@
 {
    public static class Configuration
     {
-        public static string ConnectionString = @"Server=.\SQLEXPRESS;Database=Cinema;Trusted_Connection=True";
+        public static string ConnectionString = 
+            @"Server=.\SQL2019;Database=Cinema;Trusted_Connection=True";
     }
 }
