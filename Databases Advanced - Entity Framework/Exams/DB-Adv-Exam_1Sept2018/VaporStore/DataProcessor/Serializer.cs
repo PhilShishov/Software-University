@@ -7,8 +7,11 @@
     using System.Text;
     using System.Xml;
     using System.Xml.Serialization;
+
     using Data;
+
     using Newtonsoft.Json;
+
     using VaporStore.Data.Models.Enums;
     using VaporStore.DataProcessor.ExportDtos;
 
@@ -16,27 +19,27 @@
     {
         public static string ExportGamesByGenres(VaporStoreDbContext context, string[] genreNames)
         {
-            var genres = context
-                .Genres
+            var genres = context.Genres
+                .ToArray()
                 .Where(g => genreNames.Contains(g.Name))
                 .Select(g => new
                 {
                     Id = g.Id,
                     Genre = g.Name,
                     Games = g.Games
-                        .Where(p => p.Purchases.Any())
-                        .Select(gs => new
-                        {
-                            Id = gs.Id,
-                            Title = gs.Name,
-                            Developer = gs.Developer.Name,
-                            Tags = string.Join(", ", gs.GameTags.Select(gt => gt.Tag.Name)),
-                            Players = gs.Purchases.Count
-                        })
-                            .OrderByDescending(gs => gs.Players)
-                            .ThenBy(gs => gs.Id)
-                            .ToArray(),
-                    TotalPlayers = g.Games.Sum(gs => gs.Purchases.Count)
+                    .Where(game => game.Purchases.Count > 0)
+                    .Select(game => new
+                    {
+                        Id = game.Id,
+                        Title = game.Name,
+                        Developer = game.Developer.Name,
+                        Tags = string.Join(", ", game.GameTags.Select(t => t.Tag.Name).ToArray()),
+                        Players = game.Purchases.Count
+                    })
+                    .OrderByDescending(x => x.Players)
+                    .ThenBy(x => x.Id)
+                    .ToArray(),
+                    TotalPlayers = g.Games.Sum(game => game.Purchases.Count)
                 })
                 .OrderByDescending(g => g.TotalPlayers)
                 .ThenBy(g => g.Id)
@@ -49,16 +52,14 @@
             });
 
             return json;
-
-
         }
 
         public static string ExportUserPurchasesByType(VaporStoreDbContext context, string storeType)
         {
             var storeTypeValue = Enum.Parse<PurchaseType>(storeType);
 
-            var users = context
-                .Users
+            var users = context.Users
+                .ToArray()
                 .Select(u => new ExportUserDto
                 {
                     Username = u.Username,
@@ -66,17 +67,17 @@
                         .SelectMany(c => c.Purchases)
                         .Where(p => p.Type == storeTypeValue)
                         .Select(p => new ExportPurchaseDto
-                    {
-                        Card = p.Card.Number,
-                        Cvc = p.Card.Cvc,
-                        Date = p.Date.ToString("yyyy-MM-dd HH:mm", CultureInfo.InvariantCulture),
-                        Game = new ExportGameDto
                         {
-                            Genre = p.Game.Genre.Name,
-                            Title = p.Game.Name,
-                            Price = p.Game.Price
-                        }
-                    })
+                            Card = p.Card.Number,
+                            Cvc = p.Card.Cvc,
+                            Date = p.Date.ToString("yyyy-MM-dd HH:mm", CultureInfo.InvariantCulture),
+                            Game = new ExportGameDto
+                            {
+                                Genre = p.Game.Genre.Name,
+                                Title = p.Game.Name,
+                                Price = p.Game.Price
+                            }
+                        })
                         .OrderBy(p => p.Date)
                         .ToArray(),
                     TotalSpent = u.Cards
@@ -89,8 +90,7 @@
                 .ThenBy(u => u.Username)
                 .ToArray();
 
-
-            XmlSerializer xmlSerializer = new XmlSerializer(typeof(ExportUserDto[]), new XmlRootAttribute("Users"));
+            var xmlSerializer = new XmlSerializer(typeof(ExportUserDto[]), new XmlRootAttribute("Users"));
 
             var sb = new StringBuilder();
 
