@@ -1,11 +1,11 @@
-﻿using Suls.Services;
-using Suls.ViewModels.Problems;
-using SUS.HTTP;
-using SUS.MvcFramework;
-using System.Collections.Generic;
-
+﻿
 namespace Suls.Controllers
 {
+    using Suls.Services;
+
+    using SUS.HTTP;
+    using SUS.MvcFramework;
+
     public class HomeController : Controller
     {
         private readonly IProblemsService problemsService;

@@ -1,11 +1,14 @@
-﻿using Suls.Services;
-using Suls.ViewModels.Users;
-using SUS.HTTP;
-using SUS.MvcFramework;
-using System.ComponentModel.DataAnnotations;
-
+﻿
 namespace Suls.Controllers
 {
+    using System.ComponentModel.DataAnnotations;
+
+    using Suls.Services;
+    using Suls.ViewModels.Users;
+
+    using SUS.HTTP;
+    using SUS.MvcFramework;
+
     public class UsersController : Controller
     {
         private readonly IUsersService usersService;

@@ -1,10 +1,12 @@
-﻿using Suls.Services;
-using Suls.ViewModels.Submissions;
-using SUS.HTTP;
-using SUS.MvcFramework;
-
+﻿
 namespace Suls.Controllers
 {
+    using Suls.Services;
+    using Suls.ViewModels.Submissions;
+
+    using SUS.HTTP;
+    using SUS.MvcFramework;
+
     public class SubmissionsController : Controller
     {
         private readonly IProblemsService problemsService;

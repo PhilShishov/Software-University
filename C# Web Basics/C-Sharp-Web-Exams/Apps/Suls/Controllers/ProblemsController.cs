@@ -1,12 +1,11 @@
-﻿using Suls.Services;
-using SUS.HTTP;
-using SUS.MvcFramework;
-using System;
-using System.Collections.Generic;
-using System.Text;
-
+﻿
 namespace Suls.Controllers
 {
+    using Suls.Services;
+
+    using SUS.HTTP;
+    using SUS.MvcFramework;
+
     public class ProblemsController : Controller
     {
         private readonly IProblemsService problemsService;

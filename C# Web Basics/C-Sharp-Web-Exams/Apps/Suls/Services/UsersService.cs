@@ -1,10 +1,12 @@
-﻿using Suls.Data;
-using System.Linq;
-using System.Security.Cryptography;
-using System.Text;
-
+﻿
 namespace Suls.Services
 {
+    using System.Linq;
+    using System.Security.Cryptography;
+    using System.Text;
+
+    using Suls.Data;
+
     public class UsersService : IUsersService
     {
         private readonly ApplicationDbContext db;

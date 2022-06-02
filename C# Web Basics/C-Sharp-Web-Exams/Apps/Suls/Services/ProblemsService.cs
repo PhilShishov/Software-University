@@ -1,12 +1,12 @@
-﻿using Suls.Data;
-using Suls.ViewModels.Problems;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
+﻿
 namespace Suls.Services
 {
+    using System.Collections.Generic;
+    using System.Linq;
+
+    using Suls.Data;
+    using Suls.ViewModels.Problems;
+
     public class ProblemsService : IProblemsService
     {
         private readonly ApplicationDbContext db;
@@ -26,7 +26,7 @@ namespace Suls.Services
         public IEnumerable<HomePageProblemViewModel> GetAll()
         {
             var problems = this.db.Problems.Select(x => new HomePageProblemViewModel
-            { 
+            {
                 Id = x.Id,
                 Name = x.Name,
                 Count = x.Submissions.Count(),

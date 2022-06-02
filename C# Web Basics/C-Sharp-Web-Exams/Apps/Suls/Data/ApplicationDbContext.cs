@@ -1,7 +1,8 @@
-﻿using Microsoft.EntityFrameworkCore;
-
+﻿
 namespace Suls.Data
 {
+    using Microsoft.EntityFrameworkCore;
+
     public class ApplicationDbContext : DbContext
     {
         public ApplicationDbContext()

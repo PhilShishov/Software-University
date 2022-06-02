@@ -1,9 +1,11 @@
-﻿using Suls.Data;
-using System;
-using System.Linq;
-
+﻿
 namespace Suls.Services
 {
+    using System;
+    using System.Linq;
+
+    using Suls.Data;
+
     public class SubmissionsService : ISubmissionsService
     {
         private readonly ApplicationDbContext db;
