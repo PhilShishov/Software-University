@@ -1,12 +1,13 @@
-﻿using System;
-using System.ComponentModel.DataAnnotations;
-
+﻿
 namespace Git.Data
 {
+    using System;
+    using System.ComponentModel.DataAnnotations;
+
     public class Commit
     {
-        
-      
+
+
 
         public int Id { get; set; }
 

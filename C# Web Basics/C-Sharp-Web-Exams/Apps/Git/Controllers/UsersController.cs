@@ -1,10 +1,12 @@
-﻿using Git.Services;
-using Git.ViewModels.Users;
-using SUS.HTTP;
-using SUS.MvcFramework;
-
+﻿
 namespace Git.Controllers
 {
+    using Git.Services;
+    using Git.ViewModels.Users;
+
+    using SUS.HTTP;
+    using SUS.MvcFramework;
+
     public class UsersController : Controller
     {
 

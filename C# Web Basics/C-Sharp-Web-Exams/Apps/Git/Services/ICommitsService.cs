@@ -1,17 +1,17 @@
-﻿using Git.ViewModels.Commits;
-using System;
-using System.Collections.Generic;
-using System.Text;
-
+﻿
 namespace Git.Services
 {
-    public interface  ICommitsService
+    using System.Collections.Generic;
+
+    using Git.ViewModels.Commits;
+
+    public interface ICommitsService
     {
-        void Create(string repoId, string description,string userId);
+        void Create(string repoId, string description, string userId);
 
         IEnumerable<ComitViewModel> GetALL(string userId);
 
-        void Delete(int id,string userId);
+        void Delete(int id, string userId);
 
 
     }

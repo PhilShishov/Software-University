@@ -1,17 +1,19 @@
-﻿using Git.Services;
-using Git.ViewModels.Commits;
-using SUS.HTTP;
-using SUS.MvcFramework;
-
+﻿
 namespace Git.Controllers
 {
+    using Git.Services;
+    using Git.ViewModels.Commits;
+
+    using SUS.HTTP;
+    using SUS.MvcFramework;
+
     public class CommitsController : Controller
     {
         private readonly ICommitsService comitsService;
-        private readonly IRepositoriService repositoriService;
+        private readonly IRepositoryService repositoriService;
 
         public CommitsController(ICommitsService comitsService,
-            IRepositoriService repositoriService)
+            IRepositoryService repositoriService)
         {
             this.comitsService = comitsService;
             this.repositoriService = repositoriService;
@@ -34,9 +36,9 @@ namespace Git.Controllers
 
         public HttpResponse Create(string id)
         {
-          var repo=   this.repositoriService.GetRepoById(id);
+            var repo = this.repositoriService.GetRepoById(id);
 
-            var model = new CreateCommitInputModel() 
+            var model = new CreateCommitInputModel()
             {
                 Name = repo.Name,
                 Id = repo.Id
@@ -51,14 +53,14 @@ namespace Git.Controllers
         [HttpPost]
         public HttpResponse Create(string id, string description)
         {
-            
 
-            if (string.IsNullOrEmpty(description) || description.Length<5)
+
+            if (string.IsNullOrEmpty(description) || description.Length < 5)
             {
                 return this.Error("Description is required and shoul be at least 5 cherecters");
             }
 
-            this.comitsService.Create(id, description,this.GetUserId());
+            this.comitsService.Create(id, description, this.GetUserId());
 
             return this.Redirect("/Repositories/All");
 

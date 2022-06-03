@@ -1,12 +1,14 @@
-﻿using Git.Data;
-using Git.ViewModels.Repositories;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-
+﻿
 namespace Git.Services
 {
-    class RepositoriesServices : IRepositoriService
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
+    using Git.Data;
+    using Git.ViewModels.Repositories;
+
+    class RepositoriesServices : IRepositoryService
     {
         private readonly ApplicationDbContext db;
 
@@ -34,11 +36,12 @@ namespace Git.Services
         {
             var repositories = this.db.Repositories.Where(r => r.IsPublic && r.OwnerId == userId)
                 .Select(r => new RepositoryViewModel
-                { Name = r.Name,
-                   Id = r.Id,
-                   CratedOn = r.CreatedOn.ToString("s"),
-                   Owner = r.Owner.Username,
-                   Commits = r.Commits.Count
+                {
+                    Name = r.Name,
+                    Id = r.Id,
+                    CratedOn = r.CreatedOn.ToString("s"),
+                    Owner = r.Owner.Username,
+                    Commits = r.Commits.Count
                 }).ToList();
 
             return repositories;

@@ -1,10 +1,12 @@
-﻿using Git.Data;
-using System.Linq;
-using System.Security.Cryptography;
-using System.Text;
-
+﻿
 namespace Git.Services
 {
+    using System.Linq;
+    using System.Security.Cryptography;
+    using System.Text;
+
+    using Git.Data;
+
     public class UsersService : IUsersService
     {
         private readonly ApplicationDbContext db;
@@ -56,7 +58,7 @@ namespace Git.Services
             return hashedInputStringBuilder.ToString();
         }
 
-      
+
     }
 }
 

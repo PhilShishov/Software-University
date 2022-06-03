@@ -1,12 +1,13 @@
-﻿using Git.Data;
-using Git.ViewModels.Commits;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
+﻿
 namespace Git.Services
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
+    using Git.Data;
+    using Git.ViewModels.Commits;
+
     class CommitsService : ICommitsService
     {
         private readonly ApplicationDbContext db;
@@ -31,7 +32,7 @@ namespace Git.Services
 
         }
 
-        public void Delete(int id,string userId)
+        public void Delete(int id, string userId)
         {
 
 
@@ -43,7 +44,7 @@ namespace Git.Services
                 this.db.Commits.Remove(submission);
                 this.db.SaveChanges();
             }
-           
+
         }
 
         public IEnumerable<ComitViewModel> GetALL(string userId)

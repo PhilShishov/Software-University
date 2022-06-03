@@ -1,15 +1,17 @@
-﻿using Git.Services;
-using Git.ViewModels.Repositories;
-using SUS.HTTP;
-using SUS.MvcFramework;
-
+﻿
 namespace Git.Controllers
 {
+    using Git.Services;
+    using Git.ViewModels.Repositories;
+
+    using SUS.HTTP;
+    using SUS.MvcFramework;
+
     public class RepositoriesController : Controller
     {
-        private readonly IRepositoriService repositoriesService;
+        private readonly IRepositoryService repositoriesService;
 
-        public RepositoriesController(IRepositoriService repositoriesService )
+        public RepositoriesController(IRepositoryService repositoriesService)
         {
             this.repositoriesService = repositoriesService;
         }
@@ -41,7 +43,7 @@ namespace Git.Controllers
                 return this.Redirect("/Users/Login");
             }
 
-            if (string.IsNullOrEmpty(model.Name) || model.Name.Length<3 || model.Name.Length>10)
+            if (string.IsNullOrEmpty(model.Name) || model.Name.Length < 3 || model.Name.Length > 10)
             {
                 return this.Error("Name is required and should be between 3 and 10 charecters");
             }

@@ -1,13 +1,14 @@
 ﻿namespace Git
 {
     using System.Collections.Generic;
+
     using Microsoft.EntityFrameworkCore;
 
-    using Data;
-    using Services;
+    using Git.Data;
+    using Git.Services;
+
     using SUS.HTTP;
     using SUS.MvcFramework;
-
 
     public class Startup : IMvcApplication
     {
@@ -19,8 +20,8 @@
         public void ConfigureServices(IServiceCollection serviceCollection)
         {
             serviceCollection.Add<IUsersService, UsersService>();
-            serviceCollection.Add<IRepositoriService,RepositoriesServices>();
-            serviceCollection.Add<ICommitsService,CommitsService>();
+            serviceCollection.Add<IRepositoryService, RepositoriesServices>();
+            serviceCollection.Add<ICommitsService, CommitsService>();
         }
     }
 }
