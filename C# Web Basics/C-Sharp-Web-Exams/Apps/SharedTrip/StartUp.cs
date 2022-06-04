@@ -1,11 +1,14 @@
 ﻿namespace SharedTrip
 {
+    using System.Collections.Generic;
+
     using Microsoft.EntityFrameworkCore;
+
     using SharedTrip.Data;
     using SharedTrip.Services;
+
     using SUS.HTTP;
     using SUS.MvcFramework;
-    using System.Collections.Generic;
 
     public class Startup : IMvcApplication
     {

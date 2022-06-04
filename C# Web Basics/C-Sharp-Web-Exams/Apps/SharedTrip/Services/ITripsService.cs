@@ -1,8 +1,10 @@
-﻿using SharedTrip.ViewModels.Trips;
-using System.Collections.Generic;
-
+﻿
 namespace SharedTrip.Services
 {
+    using System.Collections.Generic;
+
+    using SharedTrip.ViewModels.Trips;
+
     public interface ITripsService
     {
         void Create(AddTripInputModel trip);

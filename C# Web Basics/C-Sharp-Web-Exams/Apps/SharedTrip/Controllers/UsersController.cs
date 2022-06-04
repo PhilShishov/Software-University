@@ -1,11 +1,14 @@
-﻿using SharedTrip.Services;
-using SharedTrip.ViewModels.Users;
-using SUS.HTTP;
-using SUS.MvcFramework;
-using System.ComponentModel.DataAnnotations;
-
+﻿
 namespace SharedTrip.Controllers
 {
+    using System.ComponentModel.DataAnnotations;
+
+    using SharedTrip.Services;
+    using SharedTrip.ViewModels.Users;
+
+    using SUS.HTTP;
+    using SUS.MvcFramework;
+
     public class UsersController : Controller
     {
         private readonly IUsersService usersService;

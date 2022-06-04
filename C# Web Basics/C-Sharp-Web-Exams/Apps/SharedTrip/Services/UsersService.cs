@@ -1,12 +1,12 @@
-﻿using SharedTrip.Data;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Security.Cryptography;
-using System.Text;
-
+﻿
 namespace SharedTrip.Services
 {
+    using System.Linq;
+    using System.Security.Cryptography;
+    using System.Text;
+
+    using SharedTrip.Data;
+
     public class UsersService : IUsersService
     {
         private readonly ApplicationDbContext db;
@@ -19,7 +19,7 @@ namespace SharedTrip.Services
         public void Create(string username, string email, string password)
         {
             var user = new User
-            { 
+            {
                 Email = email,
                 Username = username,
                 Password = ComputeHash(password),

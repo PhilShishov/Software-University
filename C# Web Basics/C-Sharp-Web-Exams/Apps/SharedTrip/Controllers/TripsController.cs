@@ -1,12 +1,15 @@
-﻿using SharedTrip.Services;
-using SharedTrip.ViewModels.Trips;
-using SUS.HTTP;
-using SUS.MvcFramework;
-using System;
-using System.Globalization;
-
+﻿
 namespace SharedTrip.Controllers
 {
+    using System;
+    using System.Globalization;
+
+    using SharedTrip.Services;
+    using SharedTrip.ViewModels.Trips;
+
+    using SUS.HTTP;
+    using SUS.MvcFramework;
+
     public class TripsController : Controller
     {
         private readonly ITripsService tripsService;
