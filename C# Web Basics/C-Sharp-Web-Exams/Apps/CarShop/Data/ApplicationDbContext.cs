@@ -1,9 +1,10 @@
-﻿using CarShop.Data.Models;
-
-using Microsoft.EntityFrameworkCore;
-
+﻿
 namespace CarShop.Data
 {
+    using Microsoft.EntityFrameworkCore;
+
+    using CarShop.Data.Models;
+
     public class ApplicationDbContext : DbContext
     {
         public ApplicationDbContext()

@@ -1,15 +1,16 @@
-﻿using CarShop.Data;
-using CarShop.Services;
-
-using Microsoft.EntityFrameworkCore;
-
-using SUS.HTTP;
-using SUS.MvcFramework;
-
-using System.Collections.Generic;
-
+﻿
 namespace CarShop
 {
+    using System.Collections.Generic;
+    
+    using Microsoft.EntityFrameworkCore;
+
+    using CarShop.Data;
+    using CarShop.Services;
+
+    using SUS.HTTP;
+    using SUS.MvcFramework;
+
     public class Startup : IMvcApplication
     {
         public void Configure(List<Route> routeTable)

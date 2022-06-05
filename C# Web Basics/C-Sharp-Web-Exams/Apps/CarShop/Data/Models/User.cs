@@ -1,9 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-
+﻿
 namespace CarShop.Data.Models
 {
+    using System;
+    using System.ComponentModel.DataAnnotations;
+
     public class User
     {
         public User()

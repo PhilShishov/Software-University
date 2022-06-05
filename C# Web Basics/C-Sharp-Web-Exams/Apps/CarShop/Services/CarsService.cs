@@ -1,13 +1,13 @@
-﻿using CarShop.Data;
-using CarShop.Data.Models;
-using CarShop.ViewModels.Cars;
-
-using System;
-using System.Collections.Generic;
-using System.Linq;
-
+﻿
 namespace CarShop.Services
 {
+    using System.Collections.Generic;
+    using System.Linq;
+
+    using CarShop.Data;
+    using CarShop.Data.Models;
+    using CarShop.ViewModels.Cars;
+
     public class CarsService : ICarsService
     {
         private readonly ApplicationDbContext db;

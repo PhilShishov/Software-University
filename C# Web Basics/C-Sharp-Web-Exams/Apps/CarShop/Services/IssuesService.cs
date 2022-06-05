@@ -1,11 +1,12 @@
-﻿using System.Linq;
-
-using CarShop.Data;
-using CarShop.Data.Models;
-using CarShop.ViewModels.Issues;
-
+﻿
 namespace CarShop.Services
 {
+    using System.Linq;
+
+    using CarShop.Data;
+    using CarShop.Data.Models;
+    using CarShop.ViewModels.Issues;
+
     public class IssuesService : IIssuesService
     {
         private readonly ApplicationDbContext db;

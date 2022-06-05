@@ -1,7 +1,8 @@
-﻿using CarShop.ViewModels.Issues;
-
+﻿
 namespace CarShop.Services
 {
+    using CarShop.ViewModels.Issues;
+    
     public interface IIssuesService
     {
         void AddIssue(string description, string carId);

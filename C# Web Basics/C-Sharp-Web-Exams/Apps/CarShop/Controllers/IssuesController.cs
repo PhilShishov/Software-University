@@ -1,15 +1,12 @@
-﻿using CarShop.Services;
-using CarShop.ViewModels.Cars;
-using CarShop.ViewModels.Issues;
-
-using SUS.HTTP;
-using SUS.MvcFramework;
-
-using System;
-using System.Text.RegularExpressions;
-
+﻿
 namespace CarShop.Controllers
 {
+    using CarShop.Services;
+    using CarShop.ViewModels.Issues;
+
+    using SUS.HTTP;
+    using SUS.MvcFramework;
+
     public class IssuesController : Controller
     {
         private readonly IIssuesService issuesService;
@@ -55,7 +52,7 @@ namespace CarShop.Controllers
             if (!this.IsUserSignedIn())
             {
                 return this.Redirect("/Users/Login");
-            }           
+            }
 
             if (string.IsNullOrEmpty(input.Description) || input.Description.Length < 5)
             {

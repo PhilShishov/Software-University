@@ -1,13 +1,15 @@
-﻿using CarShop.Services;
-using CarShop.ViewModels.Users;
-
-using SUS.HTTP;
-using SUS.MvcFramework;
-using System.ComponentModel.DataAnnotations;
-using System.Text.RegularExpressions;
-
+﻿
 namespace CarShop.Controllers
 {
+    using System.ComponentModel.DataAnnotations;
+    using System.Text.RegularExpressions;
+
+    using CarShop.Services;
+    using CarShop.ViewModels.Users;
+
+    using SUS.HTTP;
+    using SUS.MvcFramework;
+
     public class UsersController : Controller
     {
         private readonly IUsersService usersService;

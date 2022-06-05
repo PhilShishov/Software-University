@@ -1,13 +1,14 @@
-﻿using CarShop.Data;
-using CarShop.Data.Models;
-
-using System.Linq;
-using System.Security.Cryptography;
-using System.Text;
-
+﻿
 namespace CarShop.Services
 {
-    public class UsersService: IUsersService
+    using System.Linq;
+    using System.Security.Cryptography;
+    using System.Text;
+
+    using CarShop.Data;
+    using CarShop.Data.Models;
+
+    public class UsersService : IUsersService
     {
         private readonly ApplicationDbContext db;
 
@@ -41,14 +42,14 @@ namespace CarShop.Services
             return user.Id;
         }
 
-        public bool IsUserMechanic(string userid) 
+        public bool IsUserMechanic(string userid)
             => this.db.Users.Any(x => x.Id == userid && x.IsMechanic == true);
 
-        public bool IsEmailAvailable(string email) 
+        public bool IsEmailAvailable(string email)
             => !this.db.Users.Any(x => x.Email == email);
-        
 
-        public bool IsUsernameAvailable(string username) 
+
+        public bool IsUsernameAvailable(string username)
             => !this.db.Users.Any(x => x.Username == username);
 
         private static string ComputeHash(string input)
