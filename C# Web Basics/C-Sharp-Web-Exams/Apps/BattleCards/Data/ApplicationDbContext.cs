@@ -1,10 +1,8 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Text;
-
+﻿
 namespace BattleCards.Data
 {
+    using Microsoft.EntityFrameworkCore;
+    
     public class ApplicationDbContext : DbContext
     {
         public ApplicationDbContext()
@@ -20,7 +18,7 @@ namespace BattleCards.Data
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=.;Database=BattleCards;Integrated Security=true;");
+                optionsBuilder.UseSqlServer("Server=.\\SQL2019;Database=BattleCards;Integrated Security=true;");
             }
         }
 

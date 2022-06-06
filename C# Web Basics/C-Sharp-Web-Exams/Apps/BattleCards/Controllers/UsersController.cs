@@ -1,12 +1,15 @@
-﻿using BattleCards.Services;
-using BattleCards.ViewModels.Users;
-using SUS.HTTP;
-using SUS.MvcFramework;
-using System.ComponentModel.DataAnnotations;
-using System.Text.RegularExpressions;
-
+﻿
 namespace BattleCards.Controllers
 {
+    using System.ComponentModel.DataAnnotations;
+    using System.Text.RegularExpressions;
+
+    using BattleCards.Services;
+    using BattleCards.ViewModels.Users;
+
+    using SUS.HTTP;
+    using SUS.MvcFramework;
+
     public class UsersController : Controller
     {
         private readonly IUsersService usersService;

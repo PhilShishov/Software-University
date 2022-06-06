@@ -1,10 +1,12 @@
-﻿using BattleCards.Data;
-using BattleCards.ViewModels.Cards;
-using System.Collections.Generic;
-using System.Linq;
-
+﻿
 namespace BattleCards.Services
 {
+    using System.Collections.Generic;
+    using System.Linq;
+
+    using BattleCards.Data;
+    using BattleCards.ViewModels.Cards;
+
     public class CardsService : ICardsService
     {
         private readonly ApplicationDbContext db;

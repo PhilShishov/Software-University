@@ -1,8 +1,10 @@
-﻿using BattleCards.ViewModels.Cards;
-using System.Collections.Generic;
-
+﻿
 namespace BattleCards.Services
 {
+    using System.Collections.Generic;
+
+    using BattleCards.ViewModels.Cards;
+
     public interface ICardsService
     {
         int AddCard(AddCardInputModel input);

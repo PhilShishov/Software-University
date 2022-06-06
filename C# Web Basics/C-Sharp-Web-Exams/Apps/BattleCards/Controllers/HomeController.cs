@@ -1,8 +1,9 @@
-﻿using SUS.HTTP;
-using SUS.MvcFramework;
-
+﻿
 namespace BattleCards.Controllers
 {
+    using SUS.HTTP;
+    using SUS.MvcFramework;
+
     public class HomeController : Controller
     {
         [HttpGet("/")]

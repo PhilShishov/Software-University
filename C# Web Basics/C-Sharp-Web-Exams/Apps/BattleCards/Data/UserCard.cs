@@ -1,7 +1,8 @@
-﻿using System.ComponentModel.DataAnnotations;
-
+﻿
 namespace BattleCards.Data
 {
+    using System.ComponentModel.DataAnnotations;
+    
     public class UserCard
     {
         [Required]

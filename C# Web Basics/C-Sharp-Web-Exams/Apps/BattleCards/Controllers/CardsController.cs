@@ -1,11 +1,14 @@
-﻿using BattleCards.Services;
-using BattleCards.ViewModels.Cards;
-using SUS.HTTP;
-using SUS.MvcFramework;
-using System;
-
+﻿
 namespace BattleCards.Controllers
 {
+    using System;
+
+    using BattleCards.Services;
+    using BattleCards.ViewModels.Cards;
+
+    using SUS.HTTP;
+    using SUS.MvcFramework;
+
     public class CardsController : Controller
     {
         private readonly ICardsService cardsService;
@@ -34,7 +37,7 @@ namespace BattleCards.Controllers
                 return this.Redirect("/Users/Login");
             }
 
-            if (string.IsNullOrEmpty(model.Name) ||  model.Name.Length < 5 || model.Name.Length > 15)
+            if (string.IsNullOrEmpty(model.Name) || model.Name.Length < 5 || model.Name.Length > 15)
             {
                 return this.Error("Name should be between 5 and 15 characters long.");
             }

@@ -1,12 +1,16 @@
-﻿using BattleCards.Data;
-using Microsoft.EntityFrameworkCore;
-using SUS.HTTP;
-using SUS.MvcFramework;
-using System.Collections.Generic;
-using BattleCards.Services;
-
+﻿
 namespace BattleCards
 {
+    using System.Collections.Generic;
+
+    using Microsoft.EntityFrameworkCore;
+
+    using SUS.HTTP;
+    using SUS.MvcFramework;
+
+    using BattleCards.Data;
+    using BattleCards.Services;
+
     public class Startup : IMvcApplication
     {
         public void ConfigureServices(IServiceCollection serviceCollection)

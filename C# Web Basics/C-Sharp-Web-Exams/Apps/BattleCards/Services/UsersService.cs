@@ -1,12 +1,13 @@
-﻿using BattleCards.Data;
-using System.Linq;
-using Microsoft.EntityFrameworkCore.Internal;
-using System.Text;
-using System.Security.Cryptography;
-using SUS.MvcFramework;
-
+﻿
 namespace BattleCards.Services
 {
+    using System.Linq;
+    using System.Text;
+    using System.Security.Cryptography;
+
+    using SUS.MvcFramework;
+    using BattleCards.Data;
+
     public class UsersService : IUsersService
     {
         private readonly ApplicationDbContext db;
@@ -37,7 +38,7 @@ namespace BattleCards.Services
             {
                 return null;
             }
-            
+
             return user.Id;
         }
 

@@ -1,11 +1,12 @@
-﻿using SUS.MvcFramework;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Text;
-
+﻿
 namespace BattleCards.Data
 {
+
+    using System;
+    using System.Collections.Generic;
+
+    using SUS.MvcFramework;
+
     public class User : IdentityUser<string>
     {
         public User()
