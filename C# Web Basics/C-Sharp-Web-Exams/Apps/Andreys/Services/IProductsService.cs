@@ -1,10 +1,12 @@
-﻿using Andreys.Data;
-using Andreys.ViewModels.Products;
-
-using System.Collections.Generic;
+﻿
 
 namespace Andreys.Services
 {
+    using System.Collections.Generic;
+
+    using Andreys.Data;
+    using Andreys.ViewModels.Products;
+
     public interface IProductsService
     {
         void AddProduct(AddProductInputModel input);

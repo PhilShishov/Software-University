@@ -1,13 +1,14 @@
-﻿using Andreys.Services;
-using Andreys.ViewModels.Products;
-
-using SUS.HTTP;
-using SUS.MvcFramework;
-
-using System;
-
+﻿
 namespace Andreys.Controllers
 {
+    using System;
+
+    using Andreys.Services;
+    using Andreys.ViewModels.Products;
+
+    using SUS.HTTP;
+    using SUS.MvcFramework;
+
     public class ProductsController : Controller
     {
         private readonly IProductsService productsService;

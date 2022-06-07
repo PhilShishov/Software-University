@@ -2,12 +2,13 @@
 {
     using System.Collections.Generic;
 
-    using Data;
+    using Microsoft.EntityFrameworkCore;
+
+    using Andreys.Services;
+    using Andreys.Data;
 
     using SUS.MvcFramework;
     using SUS.HTTP;
-    using Microsoft.EntityFrameworkCore;
-    using Andreys.Services;
 
     public class Startup : IMvcApplication
     {

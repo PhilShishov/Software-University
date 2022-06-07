@@ -1,4 +1,5 @@
-﻿namespace Andreys.Controllers
+﻿
+namespace Andreys.Controllers
 {
     using Andreys.Services;
 

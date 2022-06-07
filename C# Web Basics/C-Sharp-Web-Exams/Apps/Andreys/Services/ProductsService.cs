@@ -1,12 +1,14 @@
-﻿using Andreys.Data;
-using Andreys.ViewModels.Products;
-
-using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿
 
 namespace Andreys.Services
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
+    using Andreys.Data;
+    using Andreys.ViewModels.Products;
+
     public class ProductsService : IProductsService
     {
         private readonly ApplicationDbContext db;

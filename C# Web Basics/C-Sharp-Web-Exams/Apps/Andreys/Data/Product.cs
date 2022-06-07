@@ -1,10 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Text;
-
+﻿
 namespace Andreys.Data
 {
+    using System.ComponentModel.DataAnnotations;
+
     public class Product
     {
         public int Id { get; set; }

@@ -1,12 +1,12 @@
 ﻿
-using System.Linq;
-using Microsoft.EntityFrameworkCore.Internal;
-using System.Text;
-using System.Security.Cryptography;
-using Andreys.Data;
-
 namespace Andreys.Services
 {
+    using System.Linq;
+    using System.Security.Cryptography;
+    using System.Text;
+
+    using Andreys.Data;
+
     public class UsersService : IUsersService
     {
         private readonly ApplicationDbContext db;
@@ -36,7 +36,7 @@ namespace Andreys.Services
             {
                 return null;
             }
-            
+
             return user.Id;
         }
 
